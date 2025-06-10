@@ -49,6 +49,7 @@ This project aims to identify and reduce product return rates in an e-commerce e
   - Return rates over category, Suppliers and State
   - 
 - Enabled dynamic filtering and drill-downs for data storytelling.
+![image](https://github.com/user-attachments/assets/49d9c9d5-b5c8-49ef-bcad-63ccb6cd7073)
 
 ---
 
