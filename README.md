@@ -50,10 +50,8 @@ This project aims to identify and reduce product return rates in an e-commerce e
   - Total vs Returned Orders by Category and States
   - Matrix of Retuen yate Percentage and Return Propability
 - Enabled dynamic filtering and drill-downs for data storytelling.
-![image](https://github.com/user-attachments/assets/83a17222-6e22-45ce-879e-e7b82b22af81)
-![image](https://github.com/user-attachments/assets/77283939-82b6-4168-b034-bebe889282dc)
-
-
+![image](https://github.com/user-attachments/assets/2a01d16e-2c97-4c8d-9987-549887e5930f)
+![image](https://github.com/user-attachments/assets/0ddf326c-7e14-4ef9-b2ae-547a16af52d9)
 
 ---
 
