@@ -32,8 +32,8 @@ This project aims to identify and reduce product return rates in an e-commerce e
 - Merged orders with return and refund records.
 - Calculated return percentages across:
   - Product categories
-  - Customer segments
-  - Price ranges
+  - Suppliers
+  - State
 - Identified high-return categories to focus intervention strategies.
 
 ### 🤖 Step 3: Return Prediction Model [`Prediction.ipynb`]
@@ -46,10 +46,8 @@ This project aims to identify and reduce product return rates in an e-commerce e
 
 ### 📈 Step 4: Power BI Dashboard [`Ecommerce Analysis.pbix`]
 - Visualized key metrics:
-  - Return rates over time and by category
-  - Sales and delivery trends
-  - Customer behavior
-  - Subscription vs non-subscription return analysis
+  - Return rates over category, Suppliers and State
+  - 
 - Enabled dynamic filtering and drill-downs for data storytelling.
 
 ---
