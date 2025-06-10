@@ -1,0 +1,1760 @@
+state,category,sup_name,total_orders,returned_orders,return_rate_percent
+andhra pradesh,books,global ecom supplies,2,1,50.0
+andhra pradesh,books,primelogix traders,2,0,0.0
+andhra pradesh,books,digicart distributors,3,1,33.33
+andhra pradesh,books,urbanmarket co.,6,0,0.0
+andhra pradesh,books,ezyshop solutions,1,0,0.0
+andhra pradesh,books,quickpick wholesalers,4,1,25.0
+andhra pradesh,books,nextwave merchants,3,0,0.0
+andhra pradesh,books,trendify traders,4,0,0.0
+andhra pradesh,books,shopease suppliers,7,2,28.57
+andhra pradesh,books,smartkart wholesale,5,2,40.0
+andhra pradesh,books,omnisupply network,4,1,25.0
+andhra pradesh,books,ecomedge retail,3,0,0.0
+andhra pradesh,books,swiftdeal suppliers,3,2,66.67
+andhra pradesh,books,clickmart partners,2,1,50.0
+andhra pradesh,books,directcart distributors,2,0,0.0
+andhra pradesh,books,pack&go logistics,2,0,0.0
+andhra pradesh,books,fastlane wholesale,1,0,0.0
+andhra pradesh,books,instaretail hub,4,1,25.0
+andhra pradesh,books,urbancart traders,4,0,0.0
+andhra pradesh,books,elite ecom ventures,5,0,0.0
+andhra pradesh,books,smartshop network,5,1,20.0
+andhra pradesh,books,zoomkart distributors,7,2,28.57
+andhra pradesh,books,globalreach traders,8,1,12.5
+andhra pradesh,books,trendmart inc.,6,2,33.33
+andhra pradesh,books,quickbasket co.,4,2,50.0
+andhra pradesh,books,ecomgenix suppliers,4,1,25.0
+andhra pradesh,books,cartcraze ventures,1,0,0.0
+andhra pradesh,books,buynow direct,4,3,75.0
+andhra pradesh,books,nextgen wholesalers,2,0,0.0
+andhra pradesh,books,metroshop suppliers,4,0,0.0
+andhra pradesh,electronics,global ecom supplies,3,1,33.33
+andhra pradesh,electronics,primelogix traders,2,0,0.0
+andhra pradesh,electronics,digicart distributors,4,2,50.0
+andhra pradesh,electronics,urbanmarket co.,5,1,20.0
+andhra pradesh,electronics,ezyshop solutions,7,1,14.29
+andhra pradesh,electronics,quickpick wholesalers,2,1,50.0
+andhra pradesh,electronics,nextwave merchants,6,2,33.33
+andhra pradesh,electronics,trendify traders,4,0,0.0
+andhra pradesh,electronics,shopease suppliers,6,1,16.67
+andhra pradesh,electronics,smartkart wholesale,6,1,16.67
+andhra pradesh,electronics,omnisupply network,1,0,0.0
+andhra pradesh,electronics,ecomedge retail,6,1,16.67
+andhra pradesh,electronics,swiftdeal suppliers,6,0,0.0
+andhra pradesh,electronics,clickmart partners,3,1,33.33
+andhra pradesh,electronics,directcart distributors,4,0,0.0
+andhra pradesh,electronics,pack&go logistics,2,0,0.0
+andhra pradesh,electronics,fastlane wholesale,6,2,33.33
+andhra pradesh,electronics,instaretail hub,3,1,33.33
+andhra pradesh,electronics,urbancart traders,4,2,50.0
+andhra pradesh,electronics,elite ecom ventures,3,1,33.33
+andhra pradesh,electronics,smartshop network,5,2,40.0
+andhra pradesh,electronics,zoomkart distributors,6,1,16.67
+andhra pradesh,electronics,globalreach traders,2,0,0.0
+andhra pradesh,electronics,trendmart inc.,2,0,0.0
+andhra pradesh,electronics,ecomgenix suppliers,2,0,0.0
+andhra pradesh,electronics,cartcraze ventures,3,0,0.0
+andhra pradesh,electronics,buynow direct,5,1,20.0
+andhra pradesh,electronics,nextgen wholesalers,3,0,0.0
+andhra pradesh,fashion,global ecom supplies,3,0,0.0
+andhra pradesh,fashion,primelogix traders,5,1,20.0
+andhra pradesh,fashion,digicart distributors,4,0,0.0
+andhra pradesh,fashion,urbanmarket co.,4,0,0.0
+andhra pradesh,fashion,ezyshop solutions,4,3,75.0
+andhra pradesh,fashion,quickpick wholesalers,2,2,100.0
+andhra pradesh,fashion,nextwave merchants,2,1,50.0
+andhra pradesh,fashion,trendify traders,2,0,0.0
+andhra pradesh,fashion,shopease suppliers,4,0,0.0
+andhra pradesh,fashion,omnisupply network,5,0,0.0
+andhra pradesh,fashion,ecomedge retail,4,0,0.0
+andhra pradesh,fashion,swiftdeal suppliers,5,0,0.0
+andhra pradesh,fashion,clickmart partners,3,0,0.0
+andhra pradesh,fashion,directcart distributors,3,0,0.0
+andhra pradesh,fashion,pack&go logistics,5,3,60.0
+andhra pradesh,fashion,fastlane wholesale,4,1,25.0
+andhra pradesh,fashion,instaretail hub,4,1,25.0
+andhra pradesh,fashion,urbancart traders,5,2,40.0
+andhra pradesh,fashion,elite ecom ventures,5,0,0.0
+andhra pradesh,fashion,smartshop network,7,2,28.57
+andhra pradesh,fashion,zoomkart distributors,7,1,14.29
+andhra pradesh,fashion,globalreach traders,2,0,0.0
+andhra pradesh,fashion,trendmart inc.,3,0,0.0
+andhra pradesh,fashion,quickbasket co.,3,2,66.67
+andhra pradesh,fashion,ecomgenix suppliers,3,0,0.0
+andhra pradesh,fashion,cartcraze ventures,3,1,33.33
+andhra pradesh,fashion,buynow direct,8,1,12.5
+andhra pradesh,fashion,nextgen wholesalers,2,0,0.0
+andhra pradesh,fashion,metroshop suppliers,2,1,50.0
+andhra pradesh,fitness,global ecom supplies,4,1,25.0
+andhra pradesh,fitness,primelogix traders,4,0,0.0
+andhra pradesh,fitness,digicart distributors,3,1,33.33
+andhra pradesh,fitness,urbanmarket co.,7,0,0.0
+andhra pradesh,fitness,ezyshop solutions,3,0,0.0
+andhra pradesh,fitness,quickpick wholesalers,5,1,20.0
+andhra pradesh,fitness,nextwave merchants,5,1,20.0
+andhra pradesh,fitness,trendify traders,4,0,0.0
+andhra pradesh,fitness,shopease suppliers,4,0,0.0
+andhra pradesh,fitness,smartkart wholesale,6,3,50.0
+andhra pradesh,fitness,omnisupply network,4,0,0.0
+andhra pradesh,fitness,ecomedge retail,3,0,0.0
+andhra pradesh,fitness,swiftdeal suppliers,3,2,66.67
+andhra pradesh,fitness,clickmart partners,6,0,0.0
+andhra pradesh,fitness,directcart distributors,3,0,0.0
+andhra pradesh,fitness,pack&go logistics,3,1,33.33
+andhra pradesh,fitness,fastlane wholesale,1,0,0.0
+andhra pradesh,fitness,instaretail hub,2,2,100.0
+andhra pradesh,fitness,urbancart traders,4,0,0.0
+andhra pradesh,fitness,elite ecom ventures,5,2,40.0
+andhra pradesh,fitness,smartshop network,5,0,0.0
+andhra pradesh,fitness,zoomkart distributors,4,0,0.0
+andhra pradesh,fitness,trendmart inc.,4,0,0.0
+andhra pradesh,fitness,quickbasket co.,2,1,50.0
+andhra pradesh,fitness,ecomgenix suppliers,2,0,0.0
+andhra pradesh,fitness,cartcraze ventures,4,1,25.0
+andhra pradesh,fitness,buynow direct,2,1,50.0
+andhra pradesh,fitness,metroshop suppliers,2,1,50.0
+andhra pradesh,home appliance,global ecom supplies,4,0,0.0
+andhra pradesh,home appliance,primelogix traders,5,0,0.0
+andhra pradesh,home appliance,digicart distributors,3,0,0.0
+andhra pradesh,home appliance,urbanmarket co.,6,1,16.67
+andhra pradesh,home appliance,ezyshop solutions,3,1,33.33
+andhra pradesh,home appliance,quickpick wholesalers,4,1,25.0
+andhra pradesh,home appliance,nextwave merchants,2,0,0.0
+andhra pradesh,home appliance,trendify traders,4,0,0.0
+andhra pradesh,home appliance,shopease suppliers,4,3,75.0
+andhra pradesh,home appliance,smartkart wholesale,1,0,0.0
+andhra pradesh,home appliance,omnisupply network,2,0,0.0
+andhra pradesh,home appliance,ecomedge retail,4,1,25.0
+andhra pradesh,home appliance,clickmart partners,1,0,0.0
+andhra pradesh,home appliance,directcart distributors,3,1,33.33
+andhra pradesh,home appliance,pack&go logistics,3,0,0.0
+andhra pradesh,home appliance,fastlane wholesale,2,0,0.0
+andhra pradesh,home appliance,instaretail hub,1,0,0.0
+andhra pradesh,home appliance,urbancart traders,3,0,0.0
+andhra pradesh,home appliance,elite ecom ventures,3,0,0.0
+andhra pradesh,home appliance,smartshop network,4,2,50.0
+andhra pradesh,home appliance,zoomkart distributors,6,1,16.67
+andhra pradesh,home appliance,globalreach traders,3,0,0.0
+andhra pradesh,home appliance,trendmart inc.,7,2,28.57
+andhra pradesh,home appliance,quickbasket co.,4,0,0.0
+andhra pradesh,home appliance,ecomgenix suppliers,3,1,33.33
+andhra pradesh,home appliance,cartcraze ventures,2,0,0.0
+andhra pradesh,home appliance,buynow direct,1,0,0.0
+andhra pradesh,home appliance,nextgen wholesalers,1,0,0.0
+andhra pradesh,home appliance,metroshop suppliers,1,1,100.0
+bihar,books,global ecom supplies,4,1,25.0
+bihar,books,primelogix traders,3,0,0.0
+bihar,books,digicart distributors,3,0,0.0
+bihar,books,ezyshop solutions,3,0,0.0
+bihar,books,quickpick wholesalers,5,0,0.0
+bihar,books,nextwave merchants,5,1,20.0
+bihar,books,trendify traders,4,0,0.0
+bihar,books,shopease suppliers,3,1,33.33
+bihar,books,smartkart wholesale,4,1,25.0
+bihar,books,omnisupply network,5,1,20.0
+bihar,books,ecomedge retail,1,0,0.0
+bihar,books,swiftdeal suppliers,11,3,27.27
+bihar,books,clickmart partners,3,1,33.33
+bihar,books,directcart distributors,3,0,0.0
+bihar,books,pack&go logistics,3,1,33.33
+bihar,books,fastlane wholesale,1,0,0.0
+bihar,books,instaretail hub,2,0,0.0
+bihar,books,urbancart traders,1,0,0.0
+bihar,books,elite ecom ventures,2,2,100.0
+bihar,books,smartshop network,6,1,16.67
+bihar,books,zoomkart distributors,7,0,0.0
+bihar,books,globalreach traders,1,0,0.0
+bihar,books,trendmart inc.,2,0,0.0
+bihar,books,quickbasket co.,2,0,0.0
+bihar,books,ecomgenix suppliers,3,1,33.33
+bihar,books,cartcraze ventures,7,0,0.0
+bihar,books,buynow direct,2,0,0.0
+bihar,books,nextgen wholesalers,4,0,0.0
+bihar,books,metroshop suppliers,2,1,50.0
+bihar,electronics,global ecom supplies,3,0,0.0
+bihar,electronics,primelogix traders,5,0,0.0
+bihar,electronics,digicart distributors,5,1,20.0
+bihar,electronics,urbanmarket co.,5,2,40.0
+bihar,electronics,ezyshop solutions,6,1,16.67
+bihar,electronics,quickpick wholesalers,3,0,0.0
+bihar,electronics,nextwave merchants,4,2,50.0
+bihar,electronics,trendify traders,5,2,40.0
+bihar,electronics,shopease suppliers,4,1,25.0
+bihar,electronics,smartkart wholesale,5,0,0.0
+bihar,electronics,omnisupply network,1,0,0.0
+bihar,electronics,ecomedge retail,6,1,16.67
+bihar,electronics,swiftdeal suppliers,5,0,0.0
+bihar,electronics,clickmart partners,3,0,0.0
+bihar,electronics,pack&go logistics,2,2,100.0
+bihar,electronics,fastlane wholesale,5,2,40.0
+bihar,electronics,instaretail hub,5,3,60.0
+bihar,electronics,urbancart traders,4,0,0.0
+bihar,electronics,elite ecom ventures,2,0,0.0
+bihar,electronics,smartshop network,4,1,25.0
+bihar,electronics,zoomkart distributors,3,0,0.0
+bihar,electronics,globalreach traders,4,0,0.0
+bihar,electronics,trendmart inc.,2,1,50.0
+bihar,electronics,quickbasket co.,3,0,0.0
+bihar,electronics,ecomgenix suppliers,10,1,10.0
+bihar,electronics,cartcraze ventures,5,3,60.0
+bihar,electronics,buynow direct,5,1,20.0
+bihar,electronics,nextgen wholesalers,2,0,0.0
+bihar,electronics,metroshop suppliers,4,1,25.0
+bihar,fashion,global ecom supplies,5,3,60.0
+bihar,fashion,primelogix traders,5,1,20.0
+bihar,fashion,digicart distributors,2,0,0.0
+bihar,fashion,ezyshop solutions,2,0,0.0
+bihar,fashion,quickpick wholesalers,4,1,25.0
+bihar,fashion,nextwave merchants,2,0,0.0
+bihar,fashion,trendify traders,6,3,50.0
+bihar,fashion,shopease suppliers,6,1,16.67
+bihar,fashion,smartkart wholesale,3,0,0.0
+bihar,fashion,omnisupply network,7,1,14.29
+bihar,fashion,ecomedge retail,1,0,0.0
+bihar,fashion,swiftdeal suppliers,5,1,20.0
+bihar,fashion,clickmart partners,2,1,50.0
+bihar,fashion,directcart distributors,5,1,20.0
+bihar,fashion,pack&go logistics,5,1,20.0
+bihar,fashion,fastlane wholesale,1,0,0.0
+bihar,fashion,instaretail hub,6,4,66.67
+bihar,fashion,urbancart traders,2,0,0.0
+bihar,fashion,elite ecom ventures,8,1,12.5
+bihar,fashion,smartshop network,4,1,25.0
+bihar,fashion,zoomkart distributors,5,1,20.0
+bihar,fashion,globalreach traders,4,1,25.0
+bihar,fashion,trendmart inc.,2,0,0.0
+bihar,fashion,quickbasket co.,5,3,60.0
+bihar,fashion,ecomgenix suppliers,1,0,0.0
+bihar,fashion,cartcraze ventures,3,1,33.33
+bihar,fashion,buynow direct,2,0,0.0
+bihar,fashion,metroshop suppliers,3,0,0.0
+bihar,fitness,global ecom supplies,5,3,60.0
+bihar,fitness,primelogix traders,1,0,0.0
+bihar,fitness,digicart distributors,4,0,0.0
+bihar,fitness,urbanmarket co.,6,0,0.0
+bihar,fitness,ezyshop solutions,4,2,50.0
+bihar,fitness,quickpick wholesalers,4,0,0.0
+bihar,fitness,nextwave merchants,2,1,50.0
+bihar,fitness,trendify traders,3,1,33.33
+bihar,fitness,shopease suppliers,5,0,0.0
+bihar,fitness,smartkart wholesale,6,1,16.67
+bihar,fitness,omnisupply network,4,0,0.0
+bihar,fitness,ecomedge retail,6,1,16.67
+bihar,fitness,swiftdeal suppliers,9,1,11.11
+bihar,fitness,clickmart partners,6,0,0.0
+bihar,fitness,directcart distributors,6,2,33.33
+bihar,fitness,pack&go logistics,8,1,12.5
+bihar,fitness,fastlane wholesale,2,0,0.0
+bihar,fitness,instaretail hub,3,0,0.0
+bihar,fitness,urbancart traders,5,1,20.0
+bihar,fitness,elite ecom ventures,3,1,33.33
+bihar,fitness,smartshop network,4,0,0.0
+bihar,fitness,zoomkart distributors,5,0,0.0
+bihar,fitness,globalreach traders,2,0,0.0
+bihar,fitness,trendmart inc.,3,0,0.0
+bihar,fitness,quickbasket co.,4,1,25.0
+bihar,fitness,ecomgenix suppliers,9,2,22.22
+bihar,fitness,cartcraze ventures,2,0,0.0
+bihar,fitness,buynow direct,4,0,0.0
+bihar,fitness,nextgen wholesalers,9,4,44.44
+bihar,fitness,metroshop suppliers,4,2,50.0
+bihar,home appliance,global ecom supplies,5,1,20.0
+bihar,home appliance,primelogix traders,6,0,0.0
+bihar,home appliance,digicart distributors,3,0,0.0
+bihar,home appliance,urbanmarket co.,2,0,0.0
+bihar,home appliance,ezyshop solutions,3,0,0.0
+bihar,home appliance,quickpick wholesalers,7,1,14.29
+bihar,home appliance,nextwave merchants,3,0,0.0
+bihar,home appliance,trendify traders,3,0,0.0
+bihar,home appliance,smartkart wholesale,5,2,40.0
+bihar,home appliance,omnisupply network,5,1,20.0
+bihar,home appliance,ecomedge retail,3,0,0.0
+bihar,home appliance,swiftdeal suppliers,3,0,0.0
+bihar,home appliance,clickmart partners,7,1,14.29
+bihar,home appliance,directcart distributors,1,0,0.0
+bihar,home appliance,pack&go logistics,4,0,0.0
+bihar,home appliance,fastlane wholesale,4,1,25.0
+bihar,home appliance,instaretail hub,3,0,0.0
+bihar,home appliance,urbancart traders,3,1,33.33
+bihar,home appliance,elite ecom ventures,2,0,0.0
+bihar,home appliance,smartshop network,1,0,0.0
+bihar,home appliance,zoomkart distributors,2,0,0.0
+bihar,home appliance,globalreach traders,1,1,100.0
+bihar,home appliance,trendmart inc.,2,1,50.0
+bihar,home appliance,quickbasket co.,2,1,50.0
+bihar,home appliance,ecomgenix suppliers,4,0,0.0
+bihar,home appliance,cartcraze ventures,2,1,50.0
+bihar,home appliance,buynow direct,4,2,50.0
+bihar,home appliance,nextgen wholesalers,4,2,50.0
+bihar,home appliance,metroshop suppliers,4,0,0.0
+delhi,books,primelogix traders,9,1,11.11
+delhi,books,digicart distributors,5,0,0.0
+delhi,books,urbanmarket co.,9,0,0.0
+delhi,books,ezyshop solutions,4,3,75.0
+delhi,books,quickpick wholesalers,3,1,33.33
+delhi,books,nextwave merchants,4,0,0.0
+delhi,books,trendify traders,4,1,25.0
+delhi,books,shopease suppliers,1,0,0.0
+delhi,books,smartkart wholesale,3,2,66.67
+delhi,books,omnisupply network,2,0,0.0
+delhi,books,ecomedge retail,1,0,0.0
+delhi,books,swiftdeal suppliers,2,1,50.0
+delhi,books,clickmart partners,1,0,0.0
+delhi,books,pack&go logistics,3,0,0.0
+delhi,books,fastlane wholesale,1,0,0.0
+delhi,books,instaretail hub,7,3,42.86
+delhi,books,urbancart traders,5,0,0.0
+delhi,books,elite ecom ventures,2,0,0.0
+delhi,books,smartshop network,1,0,0.0
+delhi,books,zoomkart distributors,5,0,0.0
+delhi,books,globalreach traders,4,0,0.0
+delhi,books,trendmart inc.,3,2,66.67
+delhi,books,quickbasket co.,3,1,33.33
+delhi,books,ecomgenix suppliers,5,2,40.0
+delhi,books,cartcraze ventures,1,0,0.0
+delhi,books,buynow direct,2,0,0.0
+delhi,books,nextgen wholesalers,2,0,0.0
+delhi,books,metroshop suppliers,1,0,0.0
+delhi,electronics,global ecom supplies,2,0,0.0
+delhi,electronics,primelogix traders,5,3,60.0
+delhi,electronics,digicart distributors,3,0,0.0
+delhi,electronics,urbanmarket co.,3,0,0.0
+delhi,electronics,ezyshop solutions,1,1,100.0
+delhi,electronics,nextwave merchants,1,0,0.0
+delhi,electronics,trendify traders,2,0,0.0
+delhi,electronics,shopease suppliers,4,0,0.0
+delhi,electronics,smartkart wholesale,2,0,0.0
+delhi,electronics,omnisupply network,4,1,25.0
+delhi,electronics,ecomedge retail,1,0,0.0
+delhi,electronics,swiftdeal suppliers,5,1,20.0
+delhi,electronics,clickmart partners,4,0,0.0
+delhi,electronics,directcart distributors,2,1,50.0
+delhi,electronics,pack&go logistics,6,2,33.33
+delhi,electronics,fastlane wholesale,2,0,0.0
+delhi,electronics,instaretail hub,2,0,0.0
+delhi,electronics,urbancart traders,1,0,0.0
+delhi,electronics,smartshop network,5,0,0.0
+delhi,electronics,zoomkart distributors,4,0,0.0
+delhi,electronics,globalreach traders,2,0,0.0
+delhi,electronics,trendmart inc.,3,1,33.33
+delhi,electronics,quickbasket co.,3,2,66.67
+delhi,electronics,ecomgenix suppliers,4,0,0.0
+delhi,electronics,cartcraze ventures,3,1,33.33
+delhi,electronics,buynow direct,1,1,100.0
+delhi,electronics,nextgen wholesalers,2,0,0.0
+delhi,electronics,metroshop suppliers,6,2,33.33
+delhi,fashion,global ecom supplies,5,0,0.0
+delhi,fashion,primelogix traders,3,0,0.0
+delhi,fashion,digicart distributors,8,2,25.0
+delhi,fashion,urbanmarket co.,2,1,50.0
+delhi,fashion,ezyshop solutions,4,2,50.0
+delhi,fashion,quickpick wholesalers,7,2,28.57
+delhi,fashion,nextwave merchants,2,2,100.0
+delhi,fashion,trendify traders,6,1,16.67
+delhi,fashion,shopease suppliers,4,1,25.0
+delhi,fashion,smartkart wholesale,3,0,0.0
+delhi,fashion,omnisupply network,3,1,33.33
+delhi,fashion,ecomedge retail,4,2,50.0
+delhi,fashion,swiftdeal suppliers,2,0,0.0
+delhi,fashion,clickmart partners,6,1,16.67
+delhi,fashion,pack&go logistics,4,3,75.0
+delhi,fashion,fastlane wholesale,4,0,0.0
+delhi,fashion,instaretail hub,3,1,33.33
+delhi,fashion,urbancart traders,3,0,0.0
+delhi,fashion,elite ecom ventures,3,0,0.0
+delhi,fashion,smartshop network,3,1,33.33
+delhi,fashion,zoomkart distributors,6,1,16.67
+delhi,fashion,globalreach traders,4,0,0.0
+delhi,fashion,trendmart inc.,3,0,0.0
+delhi,fashion,quickbasket co.,5,2,40.0
+delhi,fashion,ecomgenix suppliers,2,1,50.0
+delhi,fashion,cartcraze ventures,5,0,0.0
+delhi,fashion,buynow direct,2,1,50.0
+delhi,fashion,nextgen wholesalers,2,0,0.0
+delhi,fashion,metroshop suppliers,4,0,0.0
+delhi,fitness,global ecom supplies,3,0,0.0
+delhi,fitness,primelogix traders,3,0,0.0
+delhi,fitness,digicart distributors,4,0,0.0
+delhi,fitness,urbanmarket co.,4,0,0.0
+delhi,fitness,ezyshop solutions,2,1,50.0
+delhi,fitness,quickpick wholesalers,2,1,50.0
+delhi,fitness,nextwave merchants,2,1,50.0
+delhi,fitness,trendify traders,6,1,16.67
+delhi,fitness,shopease suppliers,2,0,0.0
+delhi,fitness,smartkart wholesale,3,0,0.0
+delhi,fitness,omnisupply network,1,0,0.0
+delhi,fitness,ecomedge retail,2,0,0.0
+delhi,fitness,swiftdeal suppliers,2,1,50.0
+delhi,fitness,clickmart partners,3,0,0.0
+delhi,fitness,directcart distributors,2,1,50.0
+delhi,fitness,pack&go logistics,5,1,20.0
+delhi,fitness,fastlane wholesale,3,1,33.33
+delhi,fitness,instaretail hub,1,0,0.0
+delhi,fitness,urbancart traders,7,1,14.29
+delhi,fitness,elite ecom ventures,4,2,50.0
+delhi,fitness,smartshop network,1,0,0.0
+delhi,fitness,zoomkart distributors,1,0,0.0
+delhi,fitness,globalreach traders,2,1,50.0
+delhi,fitness,trendmart inc.,1,0,0.0
+delhi,fitness,quickbasket co.,2,0,0.0
+delhi,fitness,ecomgenix suppliers,1,0,0.0
+delhi,fitness,cartcraze ventures,3,0,0.0
+delhi,fitness,buynow direct,3,1,33.33
+delhi,fitness,nextgen wholesalers,1,1,100.0
+delhi,fitness,metroshop suppliers,5,0,0.0
+delhi,home appliance,global ecom supplies,4,0,0.0
+delhi,home appliance,primelogix traders,4,0,0.0
+delhi,home appliance,digicart distributors,2,1,50.0
+delhi,home appliance,urbanmarket co.,6,3,50.0
+delhi,home appliance,ezyshop solutions,4,1,25.0
+delhi,home appliance,quickpick wholesalers,4,2,50.0
+delhi,home appliance,nextwave merchants,5,0,0.0
+delhi,home appliance,trendify traders,3,1,33.33
+delhi,home appliance,shopease suppliers,1,0,0.0
+delhi,home appliance,smartkart wholesale,3,0,0.0
+delhi,home appliance,omnisupply network,3,1,33.33
+delhi,home appliance,ecomedge retail,2,1,50.0
+delhi,home appliance,swiftdeal suppliers,3,1,33.33
+delhi,home appliance,clickmart partners,2,0,0.0
+delhi,home appliance,directcart distributors,2,2,100.0
+delhi,home appliance,pack&go logistics,4,1,25.0
+delhi,home appliance,fastlane wholesale,4,2,50.0
+delhi,home appliance,instaretail hub,4,0,0.0
+delhi,home appliance,urbancart traders,2,0,0.0
+delhi,home appliance,elite ecom ventures,3,1,33.33
+delhi,home appliance,smartshop network,3,0,0.0
+delhi,home appliance,zoomkart distributors,3,0,0.0
+delhi,home appliance,globalreach traders,2,1,50.0
+delhi,home appliance,quickbasket co.,4,0,0.0
+delhi,home appliance,ecomgenix suppliers,3,1,33.33
+delhi,home appliance,cartcraze ventures,4,1,25.0
+delhi,home appliance,buynow direct,1,0,0.0
+delhi,home appliance,nextgen wholesalers,4,1,25.0
+delhi,home appliance,metroshop suppliers,1,0,0.0
+gujarat,books,global ecom supplies,19,5,26.32
+gujarat,books,primelogix traders,8,0,0.0
+gujarat,books,digicart distributors,6,1,16.67
+gujarat,books,urbanmarket co.,14,3,21.43
+gujarat,books,ezyshop solutions,12,1,8.33
+gujarat,books,quickpick wholesalers,14,1,7.14
+gujarat,books,nextwave merchants,12,0,0.0
+gujarat,books,trendify traders,8,1,12.5
+gujarat,books,shopease suppliers,9,0,0.0
+gujarat,books,smartkart wholesale,12,4,33.33
+gujarat,books,omnisupply network,6,1,16.67
+gujarat,books,ecomedge retail,6,0,0.0
+gujarat,books,swiftdeal suppliers,13,1,7.69
+gujarat,books,clickmart partners,9,0,0.0
+gujarat,books,directcart distributors,15,4,26.67
+gujarat,books,pack&go logistics,5,1,20.0
+gujarat,books,fastlane wholesale,8,0,0.0
+gujarat,books,instaretail hub,14,1,7.14
+gujarat,books,urbancart traders,12,2,16.67
+gujarat,books,elite ecom ventures,15,2,13.33
+gujarat,books,smartshop network,6,1,16.67
+gujarat,books,zoomkart distributors,16,1,6.25
+gujarat,books,globalreach traders,8,1,12.5
+gujarat,books,trendmart inc.,18,3,16.67
+gujarat,books,quickbasket co.,13,3,23.08
+gujarat,books,ecomgenix suppliers,10,2,20.0
+gujarat,books,cartcraze ventures,8,3,37.5
+gujarat,books,buynow direct,10,1,10.0
+gujarat,books,nextgen wholesalers,9,2,22.22
+gujarat,books,metroshop suppliers,8,3,37.5
+gujarat,electronics,global ecom supplies,6,2,33.33
+gujarat,electronics,primelogix traders,7,1,14.29
+gujarat,electronics,digicart distributors,9,1,11.11
+gujarat,electronics,urbanmarket co.,12,0,0.0
+gujarat,electronics,ezyshop solutions,14,0,0.0
+gujarat,electronics,quickpick wholesalers,6,1,16.67
+gujarat,electronics,nextwave merchants,17,3,17.65
+gujarat,electronics,trendify traders,14,5,35.71
+gujarat,electronics,shopease suppliers,7,3,42.86
+gujarat,electronics,smartkart wholesale,8,1,12.5
+gujarat,electronics,omnisupply network,10,1,10.0
+gujarat,electronics,ecomedge retail,8,2,25.0
+gujarat,electronics,swiftdeal suppliers,11,2,18.18
+gujarat,electronics,clickmart partners,7,0,0.0
+gujarat,electronics,directcart distributors,10,1,10.0
+gujarat,electronics,pack&go logistics,6,3,50.0
+gujarat,electronics,fastlane wholesale,8,0,0.0
+gujarat,electronics,instaretail hub,9,0,0.0
+gujarat,electronics,urbancart traders,10,2,20.0
+gujarat,electronics,elite ecom ventures,11,0,0.0
+gujarat,electronics,smartshop network,9,1,11.11
+gujarat,electronics,zoomkart distributors,15,4,26.67
+gujarat,electronics,globalreach traders,9,5,55.56
+gujarat,electronics,trendmart inc.,7,3,42.86
+gujarat,electronics,quickbasket co.,10,3,30.0
+gujarat,electronics,ecomgenix suppliers,10,1,10.0
+gujarat,electronics,cartcraze ventures,14,0,0.0
+gujarat,electronics,buynow direct,13,2,15.38
+gujarat,electronics,nextgen wholesalers,14,3,21.43
+gujarat,electronics,metroshop suppliers,13,1,7.69
+gujarat,fashion,global ecom supplies,7,1,14.29
+gujarat,fashion,primelogix traders,9,3,33.33
+gujarat,fashion,digicart distributors,9,3,33.33
+gujarat,fashion,urbanmarket co.,9,4,44.44
+gujarat,fashion,ezyshop solutions,16,4,25.0
+gujarat,fashion,quickpick wholesalers,11,0,0.0
+gujarat,fashion,nextwave merchants,11,2,18.18
+gujarat,fashion,trendify traders,15,3,20.0
+gujarat,fashion,shopease suppliers,7,2,28.57
+gujarat,fashion,smartkart wholesale,5,0,0.0
+gujarat,fashion,omnisupply network,6,2,33.33
+gujarat,fashion,ecomedge retail,8,1,12.5
+gujarat,fashion,swiftdeal suppliers,15,3,20.0
+gujarat,fashion,clickmart partners,14,4,28.57
+gujarat,fashion,directcart distributors,12,1,8.33
+gujarat,fashion,pack&go logistics,11,4,36.36
+gujarat,fashion,fastlane wholesale,8,0,0.0
+gujarat,fashion,instaretail hub,7,3,42.86
+gujarat,fashion,urbancart traders,6,2,33.33
+gujarat,fashion,elite ecom ventures,20,3,15.0
+gujarat,fashion,smartshop network,7,1,14.29
+gujarat,fashion,zoomkart distributors,11,0,0.0
+gujarat,fashion,globalreach traders,11,2,18.18
+gujarat,fashion,trendmart inc.,12,1,8.33
+gujarat,fashion,quickbasket co.,10,4,40.0
+gujarat,fashion,ecomgenix suppliers,11,2,18.18
+gujarat,fashion,cartcraze ventures,12,2,16.67
+gujarat,fashion,buynow direct,12,0,0.0
+gujarat,fashion,nextgen wholesalers,12,3,25.0
+gujarat,fashion,metroshop suppliers,13,0,0.0
+gujarat,fitness,global ecom supplies,6,1,16.67
+gujarat,fitness,primelogix traders,7,1,14.29
+gujarat,fitness,digicart distributors,8,1,12.5
+gujarat,fitness,urbanmarket co.,14,1,7.14
+gujarat,fitness,ezyshop solutions,12,2,16.67
+gujarat,fitness,quickpick wholesalers,11,1,9.09
+gujarat,fitness,nextwave merchants,6,1,16.67
+gujarat,fitness,trendify traders,14,1,7.14
+gujarat,fitness,shopease suppliers,10,0,0.0
+gujarat,fitness,smartkart wholesale,11,1,9.09
+gujarat,fitness,omnisupply network,12,1,8.33
+gujarat,fitness,ecomedge retail,13,4,30.77
+gujarat,fitness,swiftdeal suppliers,8,2,25.0
+gujarat,fitness,clickmart partners,8,5,62.5
+gujarat,fitness,directcart distributors,8,0,0.0
+gujarat,fitness,pack&go logistics,8,1,12.5
+gujarat,fitness,fastlane wholesale,12,0,0.0
+gujarat,fitness,instaretail hub,13,1,7.69
+gujarat,fitness,urbancart traders,14,1,7.14
+gujarat,fitness,elite ecom ventures,5,1,20.0
+gujarat,fitness,smartshop network,13,3,23.08
+gujarat,fitness,zoomkart distributors,15,1,6.67
+gujarat,fitness,globalreach traders,9,1,11.11
+gujarat,fitness,trendmart inc.,10,0,0.0
+gujarat,fitness,quickbasket co.,8,2,25.0
+gujarat,fitness,ecomgenix suppliers,13,1,7.69
+gujarat,fitness,cartcraze ventures,17,0,0.0
+gujarat,fitness,buynow direct,14,1,7.14
+gujarat,fitness,nextgen wholesalers,8,1,12.5
+gujarat,fitness,metroshop suppliers,9,2,22.22
+gujarat,home appliance,global ecom supplies,11,0,0.0
+gujarat,home appliance,primelogix traders,9,4,44.44
+gujarat,home appliance,digicart distributors,15,4,26.67
+gujarat,home appliance,urbanmarket co.,18,2,11.11
+gujarat,home appliance,ezyshop solutions,18,3,16.67
+gujarat,home appliance,quickpick wholesalers,10,4,40.0
+gujarat,home appliance,nextwave merchants,16,2,12.5
+gujarat,home appliance,trendify traders,8,3,37.5
+gujarat,home appliance,shopease suppliers,8,1,12.5
+gujarat,home appliance,smartkart wholesale,5,0,0.0
+gujarat,home appliance,omnisupply network,7,1,14.29
+gujarat,home appliance,ecomedge retail,20,2,10.0
+gujarat,home appliance,swiftdeal suppliers,9,3,33.33
+gujarat,home appliance,clickmart partners,9,3,33.33
+gujarat,home appliance,directcart distributors,9,3,33.33
+gujarat,home appliance,pack&go logistics,4,0,0.0
+gujarat,home appliance,fastlane wholesale,7,0,0.0
+gujarat,home appliance,instaretail hub,11,2,18.18
+gujarat,home appliance,urbancart traders,13,1,7.69
+gujarat,home appliance,elite ecom ventures,9,1,11.11
+gujarat,home appliance,smartshop network,6,0,0.0
+gujarat,home appliance,zoomkart distributors,8,2,25.0
+gujarat,home appliance,globalreach traders,11,0,0.0
+gujarat,home appliance,trendmart inc.,9,1,11.11
+gujarat,home appliance,quickbasket co.,5,2,40.0
+gujarat,home appliance,ecomgenix suppliers,4,1,25.0
+gujarat,home appliance,cartcraze ventures,6,1,16.67
+gujarat,home appliance,buynow direct,11,3,27.27
+gujarat,home appliance,nextgen wholesalers,10,1,10.0
+gujarat,home appliance,metroshop suppliers,9,3,33.33
+karnataka,books,global ecom supplies,1,0,0.0
+karnataka,books,digicart distributors,2,1,50.0
+karnataka,books,urbanmarket co.,4,0,0.0
+karnataka,books,ezyshop solutions,2,0,0.0
+karnataka,books,quickpick wholesalers,4,0,0.0
+karnataka,books,nextwave merchants,4,1,25.0
+karnataka,books,trendify traders,4,0,0.0
+karnataka,books,shopease suppliers,3,0,0.0
+karnataka,books,smartkart wholesale,3,0,0.0
+karnataka,books,omnisupply network,3,0,0.0
+karnataka,books,ecomedge retail,3,0,0.0
+karnataka,books,swiftdeal suppliers,2,0,0.0
+karnataka,books,clickmart partners,4,0,0.0
+karnataka,books,directcart distributors,2,0,0.0
+karnataka,books,pack&go logistics,4,2,50.0
+karnataka,books,fastlane wholesale,2,0,0.0
+karnataka,books,instaretail hub,5,0,0.0
+karnataka,books,urbancart traders,4,1,25.0
+karnataka,books,elite ecom ventures,1,0,0.0
+karnataka,books,smartshop network,2,0,0.0
+karnataka,books,zoomkart distributors,1,0,0.0
+karnataka,books,globalreach traders,4,0,0.0
+karnataka,books,trendmart inc.,2,0,0.0
+karnataka,books,quickbasket co.,1,0,0.0
+karnataka,books,ecomgenix suppliers,4,0,0.0
+karnataka,books,buynow direct,2,0,0.0
+karnataka,books,nextgen wholesalers,2,1,50.0
+karnataka,books,metroshop suppliers,1,0,0.0
+karnataka,electronics,global ecom supplies,6,2,33.33
+karnataka,electronics,primelogix traders,2,1,50.0
+karnataka,electronics,digicart distributors,4,1,25.0
+karnataka,electronics,urbanmarket co.,2,1,50.0
+karnataka,electronics,ezyshop solutions,3,0,0.0
+karnataka,electronics,quickpick wholesalers,4,1,25.0
+karnataka,electronics,nextwave merchants,5,1,20.0
+karnataka,electronics,trendify traders,3,1,33.33
+karnataka,electronics,shopease suppliers,2,0,0.0
+karnataka,electronics,smartkart wholesale,3,1,33.33
+karnataka,electronics,omnisupply network,7,1,14.29
+karnataka,electronics,ecomedge retail,3,0,0.0
+karnataka,electronics,swiftdeal suppliers,2,0,0.0
+karnataka,electronics,clickmart partners,7,0,0.0
+karnataka,electronics,directcart distributors,2,0,0.0
+karnataka,electronics,pack&go logistics,3,0,0.0
+karnataka,electronics,fastlane wholesale,3,1,33.33
+karnataka,electronics,instaretail hub,1,1,100.0
+karnataka,electronics,elite ecom ventures,3,2,66.67
+karnataka,electronics,zoomkart distributors,2,1,50.0
+karnataka,electronics,globalreach traders,1,1,100.0
+karnataka,electronics,trendmart inc.,2,0,0.0
+karnataka,electronics,quickbasket co.,5,0,0.0
+karnataka,electronics,ecomgenix suppliers,3,0,0.0
+karnataka,electronics,cartcraze ventures,2,1,50.0
+karnataka,electronics,buynow direct,3,0,0.0
+karnataka,electronics,nextgen wholesalers,2,0,0.0
+karnataka,electronics,metroshop suppliers,3,1,33.33
+karnataka,fashion,global ecom supplies,1,0,0.0
+karnataka,fashion,primelogix traders,3,0,0.0
+karnataka,fashion,digicart distributors,1,1,100.0
+karnataka,fashion,urbanmarket co.,2,0,0.0
+karnataka,fashion,ezyshop solutions,1,0,0.0
+karnataka,fashion,nextwave merchants,3,1,33.33
+karnataka,fashion,trendify traders,2,1,50.0
+karnataka,fashion,shopease suppliers,5,3,60.0
+karnataka,fashion,smartkart wholesale,2,1,50.0
+karnataka,fashion,ecomedge retail,2,0,0.0
+karnataka,fashion,swiftdeal suppliers,3,0,0.0
+karnataka,fashion,clickmart partners,7,0,0.0
+karnataka,fashion,directcart distributors,2,2,100.0
+karnataka,fashion,pack&go logistics,4,2,50.0
+karnataka,fashion,instaretail hub,4,1,25.0
+karnataka,fashion,urbancart traders,2,1,50.0
+karnataka,fashion,elite ecom ventures,3,0,0.0
+karnataka,fashion,smartshop network,4,0,0.0
+karnataka,fashion,zoomkart distributors,2,0,0.0
+karnataka,fashion,globalreach traders,5,0,0.0
+karnataka,fashion,trendmart inc.,3,1,33.33
+karnataka,fashion,quickbasket co.,4,0,0.0
+karnataka,fashion,ecomgenix suppliers,4,0,0.0
+karnataka,fashion,cartcraze ventures,5,1,20.0
+karnataka,fashion,buynow direct,5,1,20.0
+karnataka,fashion,nextgen wholesalers,2,0,0.0
+karnataka,fashion,metroshop suppliers,6,2,33.33
+karnataka,fitness,global ecom supplies,6,1,16.67
+karnataka,fitness,primelogix traders,4,1,25.0
+karnataka,fitness,digicart distributors,2,0,0.0
+karnataka,fitness,urbanmarket co.,4,1,25.0
+karnataka,fitness,ezyshop solutions,4,1,25.0
+karnataka,fitness,quickpick wholesalers,2,0,0.0
+karnataka,fitness,nextwave merchants,2,0,0.0
+karnataka,fitness,trendify traders,5,1,20.0
+karnataka,fitness,shopease suppliers,1,0,0.0
+karnataka,fitness,smartkart wholesale,3,1,33.33
+karnataka,fitness,omnisupply network,2,1,50.0
+karnataka,fitness,ecomedge retail,3,3,100.0
+karnataka,fitness,swiftdeal suppliers,3,0,0.0
+karnataka,fitness,clickmart partners,5,2,40.0
+karnataka,fitness,directcart distributors,2,0,0.0
+karnataka,fitness,pack&go logistics,5,0,0.0
+karnataka,fitness,fastlane wholesale,2,0,0.0
+karnataka,fitness,instaretail hub,5,1,20.0
+karnataka,fitness,urbancart traders,2,0,0.0
+karnataka,fitness,elite ecom ventures,4,0,0.0
+karnataka,fitness,smartshop network,2,2,100.0
+karnataka,fitness,zoomkart distributors,1,0,0.0
+karnataka,fitness,globalreach traders,3,0,0.0
+karnataka,fitness,trendmart inc.,1,0,0.0
+karnataka,fitness,quickbasket co.,7,4,57.14
+karnataka,fitness,ecomgenix suppliers,5,1,20.0
+karnataka,fitness,buynow direct,4,1,25.0
+karnataka,fitness,nextgen wholesalers,1,0,0.0
+karnataka,fitness,metroshop suppliers,4,1,25.0
+karnataka,home appliance,global ecom supplies,1,0,0.0
+karnataka,home appliance,primelogix traders,2,1,50.0
+karnataka,home appliance,digicart distributors,5,0,0.0
+karnataka,home appliance,urbanmarket co.,4,0,0.0
+karnataka,home appliance,ezyshop solutions,4,1,25.0
+karnataka,home appliance,quickpick wholesalers,5,0,0.0
+karnataka,home appliance,nextwave merchants,2,1,50.0
+karnataka,home appliance,trendify traders,2,0,0.0
+karnataka,home appliance,shopease suppliers,2,1,50.0
+karnataka,home appliance,smartkart wholesale,4,0,0.0
+karnataka,home appliance,omnisupply network,1,0,0.0
+karnataka,home appliance,ecomedge retail,5,0,0.0
+karnataka,home appliance,swiftdeal suppliers,2,1,50.0
+karnataka,home appliance,clickmart partners,5,1,20.0
+karnataka,home appliance,directcart distributors,4,1,25.0
+karnataka,home appliance,pack&go logistics,4,1,25.0
+karnataka,home appliance,fastlane wholesale,2,0,0.0
+karnataka,home appliance,instaretail hub,4,0,0.0
+karnataka,home appliance,urbancart traders,4,2,50.0
+karnataka,home appliance,elite ecom ventures,4,0,0.0
+karnataka,home appliance,smartshop network,4,1,25.0
+karnataka,home appliance,zoomkart distributors,1,0,0.0
+karnataka,home appliance,globalreach traders,6,3,50.0
+karnataka,home appliance,quickbasket co.,1,0,0.0
+karnataka,home appliance,ecomgenix suppliers,4,0,0.0
+karnataka,home appliance,cartcraze ventures,2,1,50.0
+karnataka,home appliance,buynow direct,2,0,0.0
+karnataka,home appliance,nextgen wholesalers,2,0,0.0
+karnataka,home appliance,metroshop suppliers,2,0,0.0
+madhya pradesh,books,global ecom supplies,4,0,0.0
+madhya pradesh,books,primelogix traders,6,1,16.67
+madhya pradesh,books,digicart distributors,6,0,0.0
+madhya pradesh,books,urbanmarket co.,11,3,27.27
+madhya pradesh,books,ezyshop solutions,10,1,10.0
+madhya pradesh,books,quickpick wholesalers,10,1,10.0
+madhya pradesh,books,nextwave merchants,8,3,37.5
+madhya pradesh,books,trendify traders,5,0,0.0
+madhya pradesh,books,shopease suppliers,1,0,0.0
+madhya pradesh,books,smartkart wholesale,6,2,33.33
+madhya pradesh,books,omnisupply network,4,0,0.0
+madhya pradesh,books,ecomedge retail,7,1,14.29
+madhya pradesh,books,swiftdeal suppliers,11,3,27.27
+madhya pradesh,books,clickmart partners,4,1,25.0
+madhya pradesh,books,directcart distributors,4,0,0.0
+madhya pradesh,books,pack&go logistics,5,0,0.0
+madhya pradesh,books,fastlane wholesale,10,2,20.0
+madhya pradesh,books,instaretail hub,6,1,16.67
+madhya pradesh,books,urbancart traders,6,2,33.33
+madhya pradesh,books,elite ecom ventures,9,2,22.22
+madhya pradesh,books,smartshop network,2,0,0.0
+madhya pradesh,books,zoomkart distributors,3,0,0.0
+madhya pradesh,books,globalreach traders,9,3,33.33
+madhya pradesh,books,trendmart inc.,4,2,50.0
+madhya pradesh,books,quickbasket co.,5,1,20.0
+madhya pradesh,books,ecomgenix suppliers,5,2,40.0
+madhya pradesh,books,cartcraze ventures,6,0,0.0
+madhya pradesh,books,buynow direct,6,0,0.0
+madhya pradesh,books,nextgen wholesalers,6,0,0.0
+madhya pradesh,books,metroshop suppliers,2,1,50.0
+madhya pradesh,electronics,global ecom supplies,12,0,0.0
+madhya pradesh,electronics,primelogix traders,7,1,14.29
+madhya pradesh,electronics,digicart distributors,9,3,33.33
+madhya pradesh,electronics,urbanmarket co.,2,1,50.0
+madhya pradesh,electronics,ezyshop solutions,13,3,23.08
+madhya pradesh,electronics,quickpick wholesalers,7,3,42.86
+madhya pradesh,electronics,nextwave merchants,10,3,30.0
+madhya pradesh,electronics,trendify traders,5,0,0.0
+madhya pradesh,electronics,shopease suppliers,5,1,20.0
+madhya pradesh,electronics,omnisupply network,7,1,14.29
+madhya pradesh,electronics,ecomedge retail,2,1,50.0
+madhya pradesh,electronics,swiftdeal suppliers,7,3,42.86
+madhya pradesh,electronics,clickmart partners,9,2,22.22
+madhya pradesh,electronics,directcart distributors,9,2,22.22
+madhya pradesh,electronics,pack&go logistics,5,1,20.0
+madhya pradesh,electronics,fastlane wholesale,10,2,20.0
+madhya pradesh,electronics,instaretail hub,14,1,7.14
+madhya pradesh,electronics,urbancart traders,6,1,16.67
+madhya pradesh,electronics,elite ecom ventures,11,1,9.09
+madhya pradesh,electronics,smartshop network,6,1,16.67
+madhya pradesh,electronics,zoomkart distributors,9,0,0.0
+madhya pradesh,electronics,globalreach traders,6,1,16.67
+madhya pradesh,electronics,trendmart inc.,5,0,0.0
+madhya pradesh,electronics,quickbasket co.,6,2,33.33
+madhya pradesh,electronics,ecomgenix suppliers,10,2,20.0
+madhya pradesh,electronics,cartcraze ventures,9,1,11.11
+madhya pradesh,electronics,buynow direct,4,1,25.0
+madhya pradesh,electronics,nextgen wholesalers,2,1,50.0
+madhya pradesh,electronics,metroshop suppliers,4,0,0.0
+madhya pradesh,fashion,global ecom supplies,8,2,25.0
+madhya pradesh,fashion,primelogix traders,8,2,25.0
+madhya pradesh,fashion,digicart distributors,10,1,10.0
+madhya pradesh,fashion,urbanmarket co.,4,0,0.0
+madhya pradesh,fashion,ezyshop solutions,3,1,33.33
+madhya pradesh,fashion,quickpick wholesalers,9,1,11.11
+madhya pradesh,fashion,nextwave merchants,5,0,0.0
+madhya pradesh,fashion,trendify traders,7,2,28.57
+madhya pradesh,fashion,shopease suppliers,7,0,0.0
+madhya pradesh,fashion,smartkart wholesale,3,1,33.33
+madhya pradesh,fashion,omnisupply network,8,3,37.5
+madhya pradesh,fashion,ecomedge retail,8,2,25.0
+madhya pradesh,fashion,swiftdeal suppliers,5,1,20.0
+madhya pradesh,fashion,clickmart partners,3,0,0.0
+madhya pradesh,fashion,directcart distributors,7,0,0.0
+madhya pradesh,fashion,pack&go logistics,4,1,25.0
+madhya pradesh,fashion,fastlane wholesale,3,1,33.33
+madhya pradesh,fashion,instaretail hub,7,0,0.0
+madhya pradesh,fashion,urbancart traders,6,1,16.67
+madhya pradesh,fashion,elite ecom ventures,8,4,50.0
+madhya pradesh,fashion,smartshop network,7,2,28.57
+madhya pradesh,fashion,zoomkart distributors,12,2,16.67
+madhya pradesh,fashion,globalreach traders,9,0,0.0
+madhya pradesh,fashion,trendmart inc.,6,1,16.67
+madhya pradesh,fashion,quickbasket co.,10,3,30.0
+madhya pradesh,fashion,ecomgenix suppliers,4,1,25.0
+madhya pradesh,fashion,cartcraze ventures,5,1,20.0
+madhya pradesh,fashion,buynow direct,6,0,0.0
+madhya pradesh,fashion,nextgen wholesalers,11,3,27.27
+madhya pradesh,fashion,metroshop suppliers,5,0,0.0
+madhya pradesh,fitness,global ecom supplies,8,4,50.0
+madhya pradesh,fitness,primelogix traders,7,1,14.29
+madhya pradesh,fitness,digicart distributors,4,2,50.0
+madhya pradesh,fitness,urbanmarket co.,9,1,11.11
+madhya pradesh,fitness,ezyshop solutions,4,2,50.0
+madhya pradesh,fitness,quickpick wholesalers,8,4,50.0
+madhya pradesh,fitness,nextwave merchants,6,0,0.0
+madhya pradesh,fitness,trendify traders,7,2,28.57
+madhya pradesh,fitness,shopease suppliers,9,0,0.0
+madhya pradesh,fitness,smartkart wholesale,7,2,28.57
+madhya pradesh,fitness,omnisupply network,9,1,11.11
+madhya pradesh,fitness,ecomedge retail,6,0,0.0
+madhya pradesh,fitness,swiftdeal suppliers,5,1,20.0
+madhya pradesh,fitness,clickmart partners,9,2,22.22
+madhya pradesh,fitness,directcart distributors,5,1,20.0
+madhya pradesh,fitness,pack&go logistics,7,0,0.0
+madhya pradesh,fitness,fastlane wholesale,3,0,0.0
+madhya pradesh,fitness,instaretail hub,11,4,36.36
+madhya pradesh,fitness,urbancart traders,4,1,25.0
+madhya pradesh,fitness,elite ecom ventures,7,0,0.0
+madhya pradesh,fitness,smartshop network,2,0,0.0
+madhya pradesh,fitness,zoomkart distributors,7,1,14.29
+madhya pradesh,fitness,globalreach traders,5,4,80.0
+madhya pradesh,fitness,trendmart inc.,4,2,50.0
+madhya pradesh,fitness,quickbasket co.,3,1,33.33
+madhya pradesh,fitness,ecomgenix suppliers,8,2,25.0
+madhya pradesh,fitness,cartcraze ventures,9,3,33.33
+madhya pradesh,fitness,buynow direct,6,3,50.0
+madhya pradesh,fitness,nextgen wholesalers,5,1,20.0
+madhya pradesh,fitness,metroshop suppliers,8,1,12.5
+madhya pradesh,home appliance,global ecom supplies,6,1,16.67
+madhya pradesh,home appliance,primelogix traders,6,1,16.67
+madhya pradesh,home appliance,digicart distributors,4,0,0.0
+madhya pradesh,home appliance,urbanmarket co.,9,0,0.0
+madhya pradesh,home appliance,ezyshop solutions,8,2,25.0
+madhya pradesh,home appliance,quickpick wholesalers,2,1,50.0
+madhya pradesh,home appliance,nextwave merchants,1,0,0.0
+madhya pradesh,home appliance,trendify traders,10,3,30.0
+madhya pradesh,home appliance,shopease suppliers,3,0,0.0
+madhya pradesh,home appliance,smartkart wholesale,7,0,0.0
+madhya pradesh,home appliance,omnisupply network,5,1,20.0
+madhya pradesh,home appliance,ecomedge retail,6,1,16.67
+madhya pradesh,home appliance,swiftdeal suppliers,6,2,33.33
+madhya pradesh,home appliance,clickmart partners,4,0,0.0
+madhya pradesh,home appliance,directcart distributors,3,0,0.0
+madhya pradesh,home appliance,pack&go logistics,10,5,50.0
+madhya pradesh,home appliance,fastlane wholesale,5,0,0.0
+madhya pradesh,home appliance,instaretail hub,7,1,14.29
+madhya pradesh,home appliance,urbancart traders,7,1,14.29
+madhya pradesh,home appliance,elite ecom ventures,7,2,28.57
+madhya pradesh,home appliance,smartshop network,4,1,25.0
+madhya pradesh,home appliance,zoomkart distributors,5,0,0.0
+madhya pradesh,home appliance,globalreach traders,6,1,16.67
+madhya pradesh,home appliance,trendmart inc.,6,1,16.67
+madhya pradesh,home appliance,quickbasket co.,8,6,75.0
+madhya pradesh,home appliance,ecomgenix suppliers,6,1,16.67
+madhya pradesh,home appliance,cartcraze ventures,7,0,0.0
+madhya pradesh,home appliance,buynow direct,9,2,22.22
+madhya pradesh,home appliance,nextgen wholesalers,4,3,75.0
+madhya pradesh,home appliance,metroshop suppliers,9,1,11.11
+maharashtra,books,global ecom supplies,16,2,12.5
+maharashtra,books,primelogix traders,7,3,42.86
+maharashtra,books,digicart distributors,15,3,20.0
+maharashtra,books,urbanmarket co.,17,3,17.65
+maharashtra,books,ezyshop solutions,15,3,20.0
+maharashtra,books,quickpick wholesalers,12,3,25.0
+maharashtra,books,nextwave merchants,23,7,30.43
+maharashtra,books,trendify traders,14,1,7.14
+maharashtra,books,shopease suppliers,14,3,21.43
+maharashtra,books,smartkart wholesale,10,1,10.0
+maharashtra,books,omnisupply network,8,3,37.5
+maharashtra,books,ecomedge retail,12,2,16.67
+maharashtra,books,swiftdeal suppliers,19,4,21.05
+maharashtra,books,clickmart partners,16,4,25.0
+maharashtra,books,directcart distributors,9,2,22.22
+maharashtra,books,pack&go logistics,15,4,26.67
+maharashtra,books,fastlane wholesale,15,1,6.67
+maharashtra,books,instaretail hub,20,6,30.0
+maharashtra,books,urbancart traders,7,2,28.57
+maharashtra,books,elite ecom ventures,12,2,16.67
+maharashtra,books,smartshop network,12,5,41.67
+maharashtra,books,zoomkart distributors,14,2,14.29
+maharashtra,books,globalreach traders,13,4,30.77
+maharashtra,books,trendmart inc.,14,3,21.43
+maharashtra,books,quickbasket co.,14,3,21.43
+maharashtra,books,ecomgenix suppliers,10,1,10.0
+maharashtra,books,cartcraze ventures,11,3,27.27
+maharashtra,books,buynow direct,13,2,15.38
+maharashtra,books,nextgen wholesalers,13,3,23.08
+maharashtra,books,metroshop suppliers,8,2,25.0
+maharashtra,electronics,global ecom supplies,15,2,13.33
+maharashtra,electronics,primelogix traders,14,1,7.14
+maharashtra,electronics,digicart distributors,9,3,33.33
+maharashtra,electronics,urbanmarket co.,19,2,10.53
+maharashtra,electronics,ezyshop solutions,9,2,22.22
+maharashtra,electronics,quickpick wholesalers,11,2,18.18
+maharashtra,electronics,nextwave merchants,18,2,11.11
+maharashtra,electronics,trendify traders,15,4,26.67
+maharashtra,electronics,shopease suppliers,11,1,9.09
+maharashtra,electronics,smartkart wholesale,9,3,33.33
+maharashtra,electronics,omnisupply network,11,1,9.09
+maharashtra,electronics,ecomedge retail,13,5,38.46
+maharashtra,electronics,swiftdeal suppliers,12,6,50.0
+maharashtra,electronics,clickmart partners,9,2,22.22
+maharashtra,electronics,directcart distributors,16,4,25.0
+maharashtra,electronics,pack&go logistics,12,3,25.0
+maharashtra,electronics,fastlane wholesale,11,2,18.18
+maharashtra,electronics,instaretail hub,16,3,18.75
+maharashtra,electronics,urbancart traders,18,1,5.56
+maharashtra,electronics,elite ecom ventures,13,3,23.08
+maharashtra,electronics,smartshop network,16,1,6.25
+maharashtra,electronics,zoomkart distributors,8,0,0.0
+maharashtra,electronics,globalreach traders,12,2,16.67
+maharashtra,electronics,trendmart inc.,16,3,18.75
+maharashtra,electronics,quickbasket co.,9,3,33.33
+maharashtra,electronics,ecomgenix suppliers,16,4,25.0
+maharashtra,electronics,cartcraze ventures,10,2,20.0
+maharashtra,electronics,buynow direct,13,3,23.08
+maharashtra,electronics,nextgen wholesalers,9,4,44.44
+maharashtra,electronics,metroshop suppliers,14,3,21.43
+maharashtra,fashion,global ecom supplies,12,3,25.0
+maharashtra,fashion,primelogix traders,11,2,18.18
+maharashtra,fashion,digicart distributors,16,1,6.25
+maharashtra,fashion,urbanmarket co.,12,1,8.33
+maharashtra,fashion,ezyshop solutions,6,1,16.67
+maharashtra,fashion,quickpick wholesalers,20,5,25.0
+maharashtra,fashion,nextwave merchants,7,2,28.57
+maharashtra,fashion,trendify traders,10,3,30.0
+maharashtra,fashion,shopease suppliers,18,6,33.33
+maharashtra,fashion,smartkart wholesale,10,1,10.0
+maharashtra,fashion,omnisupply network,13,3,23.08
+maharashtra,fashion,ecomedge retail,9,0,0.0
+maharashtra,fashion,swiftdeal suppliers,11,5,45.45
+maharashtra,fashion,clickmart partners,13,1,7.69
+maharashtra,fashion,directcart distributors,11,3,27.27
+maharashtra,fashion,pack&go logistics,18,7,38.89
+maharashtra,fashion,fastlane wholesale,12,2,16.67
+maharashtra,fashion,instaretail hub,10,1,10.0
+maharashtra,fashion,urbancart traders,13,1,7.69
+maharashtra,fashion,elite ecom ventures,14,3,21.43
+maharashtra,fashion,smartshop network,11,2,18.18
+maharashtra,fashion,zoomkart distributors,13,2,15.38
+maharashtra,fashion,globalreach traders,15,4,26.67
+maharashtra,fashion,trendmart inc.,10,2,20.0
+maharashtra,fashion,quickbasket co.,12,3,25.0
+maharashtra,fashion,ecomgenix suppliers,20,4,20.0
+maharashtra,fashion,cartcraze ventures,16,3,18.75
+maharashtra,fashion,buynow direct,13,1,7.69
+maharashtra,fashion,nextgen wholesalers,16,3,18.75
+maharashtra,fashion,metroshop suppliers,14,2,14.29
+maharashtra,fitness,global ecom supplies,8,2,25.0
+maharashtra,fitness,primelogix traders,12,5,41.67
+maharashtra,fitness,digicart distributors,16,3,18.75
+maharashtra,fitness,urbanmarket co.,10,3,30.0
+maharashtra,fitness,ezyshop solutions,10,1,10.0
+maharashtra,fitness,quickpick wholesalers,16,2,12.5
+maharashtra,fitness,nextwave merchants,10,0,0.0
+maharashtra,fitness,trendify traders,8,0,0.0
+maharashtra,fitness,shopease suppliers,16,4,25.0
+maharashtra,fitness,smartkart wholesale,15,3,20.0
+maharashtra,fitness,omnisupply network,7,0,0.0
+maharashtra,fitness,ecomedge retail,14,2,14.29
+maharashtra,fitness,swiftdeal suppliers,12,2,16.67
+maharashtra,fitness,clickmart partners,9,0,0.0
+maharashtra,fitness,directcart distributors,13,2,15.38
+maharashtra,fitness,pack&go logistics,12,3,25.0
+maharashtra,fitness,fastlane wholesale,9,2,22.22
+maharashtra,fitness,instaretail hub,4,2,50.0
+maharashtra,fitness,urbancart traders,15,2,13.33
+maharashtra,fitness,elite ecom ventures,6,2,33.33
+maharashtra,fitness,smartshop network,11,1,9.09
+maharashtra,fitness,zoomkart distributors,13,1,7.69
+maharashtra,fitness,globalreach traders,14,4,28.57
+maharashtra,fitness,trendmart inc.,11,2,18.18
+maharashtra,fitness,quickbasket co.,7,2,28.57
+maharashtra,fitness,ecomgenix suppliers,13,0,0.0
+maharashtra,fitness,cartcraze ventures,12,4,33.33
+maharashtra,fitness,buynow direct,18,7,38.89
+maharashtra,fitness,nextgen wholesalers,14,1,7.14
+maharashtra,fitness,metroshop suppliers,10,2,20.0
+maharashtra,home appliance,global ecom supplies,14,2,14.29
+maharashtra,home appliance,primelogix traders,18,3,16.67
+maharashtra,home appliance,digicart distributors,19,4,21.05
+maharashtra,home appliance,urbanmarket co.,12,0,0.0
+maharashtra,home appliance,ezyshop solutions,9,1,11.11
+maharashtra,home appliance,quickpick wholesalers,13,3,23.08
+maharashtra,home appliance,nextwave merchants,18,2,11.11
+maharashtra,home appliance,trendify traders,17,2,11.76
+maharashtra,home appliance,shopease suppliers,15,3,20.0
+maharashtra,home appliance,smartkart wholesale,15,3,20.0
+maharashtra,home appliance,omnisupply network,10,3,30.0
+maharashtra,home appliance,ecomedge retail,20,5,25.0
+maharashtra,home appliance,swiftdeal suppliers,8,4,50.0
+maharashtra,home appliance,clickmart partners,8,1,12.5
+maharashtra,home appliance,directcart distributors,18,3,16.67
+maharashtra,home appliance,pack&go logistics,14,1,7.14
+maharashtra,home appliance,fastlane wholesale,14,4,28.57
+maharashtra,home appliance,instaretail hub,12,1,8.33
+maharashtra,home appliance,urbancart traders,14,1,7.14
+maharashtra,home appliance,elite ecom ventures,16,2,12.5
+maharashtra,home appliance,smartshop network,15,4,26.67
+maharashtra,home appliance,zoomkart distributors,10,2,20.0
+maharashtra,home appliance,globalreach traders,13,2,15.38
+maharashtra,home appliance,trendmart inc.,11,2,18.18
+maharashtra,home appliance,quickbasket co.,11,1,9.09
+maharashtra,home appliance,ecomgenix suppliers,9,0,0.0
+maharashtra,home appliance,cartcraze ventures,16,4,25.0
+maharashtra,home appliance,buynow direct,9,1,11.11
+maharashtra,home appliance,nextgen wholesalers,14,3,21.43
+maharashtra,home appliance,metroshop suppliers,14,3,21.43
+rajasthan,books,global ecom supplies,4,0,0.0
+rajasthan,books,primelogix traders,2,0,0.0
+rajasthan,books,digicart distributors,2,0,0.0
+rajasthan,books,urbanmarket co.,3,0,0.0
+rajasthan,books,ezyshop solutions,3,1,33.33
+rajasthan,books,nextwave merchants,2,0,0.0
+rajasthan,books,trendify traders,1,0,0.0
+rajasthan,books,shopease suppliers,6,1,16.67
+rajasthan,books,smartkart wholesale,5,1,20.0
+rajasthan,books,omnisupply network,6,1,16.67
+rajasthan,books,ecomedge retail,4,0,0.0
+rajasthan,books,swiftdeal suppliers,3,0,0.0
+rajasthan,books,clickmart partners,4,0,0.0
+rajasthan,books,directcart distributors,3,1,33.33
+rajasthan,books,pack&go logistics,3,0,0.0
+rajasthan,books,fastlane wholesale,2,1,50.0
+rajasthan,books,instaretail hub,2,0,0.0
+rajasthan,books,urbancart traders,2,1,50.0
+rajasthan,books,elite ecom ventures,3,0,0.0
+rajasthan,books,smartshop network,6,0,0.0
+rajasthan,books,zoomkart distributors,1,0,0.0
+rajasthan,books,globalreach traders,4,1,25.0
+rajasthan,books,trendmart inc.,3,0,0.0
+rajasthan,books,quickbasket co.,3,0,0.0
+rajasthan,books,ecomgenix suppliers,3,0,0.0
+rajasthan,books,cartcraze ventures,1,0,0.0
+rajasthan,books,buynow direct,3,0,0.0
+rajasthan,books,nextgen wholesalers,2,0,0.0
+rajasthan,books,metroshop suppliers,3,0,0.0
+rajasthan,electronics,global ecom supplies,6,0,0.0
+rajasthan,electronics,primelogix traders,4,0,0.0
+rajasthan,electronics,digicart distributors,1,0,0.0
+rajasthan,electronics,urbanmarket co.,2,0,0.0
+rajasthan,electronics,ezyshop solutions,2,1,50.0
+rajasthan,electronics,quickpick wholesalers,3,1,33.33
+rajasthan,electronics,nextwave merchants,1,0,0.0
+rajasthan,electronics,trendify traders,1,1,100.0
+rajasthan,electronics,shopease suppliers,5,3,60.0
+rajasthan,electronics,smartkart wholesale,3,0,0.0
+rajasthan,electronics,omnisupply network,6,0,0.0
+rajasthan,electronics,ecomedge retail,2,1,50.0
+rajasthan,electronics,swiftdeal suppliers,2,1,50.0
+rajasthan,electronics,clickmart partners,6,2,33.33
+rajasthan,electronics,directcart distributors,3,0,0.0
+rajasthan,electronics,pack&go logistics,4,1,25.0
+rajasthan,electronics,fastlane wholesale,3,2,66.67
+rajasthan,electronics,instaretail hub,5,3,60.0
+rajasthan,electronics,urbancart traders,2,0,0.0
+rajasthan,electronics,elite ecom ventures,2,1,50.0
+rajasthan,electronics,smartshop network,4,1,25.0
+rajasthan,electronics,zoomkart distributors,3,0,0.0
+rajasthan,electronics,globalreach traders,3,1,33.33
+rajasthan,electronics,trendmart inc.,3,1,33.33
+rajasthan,electronics,quickbasket co.,3,0,0.0
+rajasthan,electronics,ecomgenix suppliers,5,1,20.0
+rajasthan,electronics,cartcraze ventures,1,0,0.0
+rajasthan,electronics,buynow direct,5,2,40.0
+rajasthan,electronics,nextgen wholesalers,3,0,0.0
+rajasthan,electronics,metroshop suppliers,3,0,0.0
+rajasthan,fashion,global ecom supplies,2,0,0.0
+rajasthan,fashion,primelogix traders,2,1,50.0
+rajasthan,fashion,digicart distributors,6,0,0.0
+rajasthan,fashion,urbanmarket co.,6,2,33.33
+rajasthan,fashion,ezyshop solutions,3,0,0.0
+rajasthan,fashion,quickpick wholesalers,2,2,100.0
+rajasthan,fashion,nextwave merchants,2,1,50.0
+rajasthan,fashion,trendify traders,5,0,0.0
+rajasthan,fashion,shopease suppliers,4,2,50.0
+rajasthan,fashion,smartkart wholesale,1,0,0.0
+rajasthan,fashion,omnisupply network,6,2,33.33
+rajasthan,fashion,ecomedge retail,3,1,33.33
+rajasthan,fashion,swiftdeal suppliers,1,0,0.0
+rajasthan,fashion,clickmart partners,2,0,0.0
+rajasthan,fashion,directcart distributors,2,0,0.0
+rajasthan,fashion,pack&go logistics,3,0,0.0
+rajasthan,fashion,fastlane wholesale,3,0,0.0
+rajasthan,fashion,instaretail hub,3,0,0.0
+rajasthan,fashion,urbancart traders,1,0,0.0
+rajasthan,fashion,elite ecom ventures,5,1,20.0
+rajasthan,fashion,smartshop network,3,0,0.0
+rajasthan,fashion,zoomkart distributors,4,0,0.0
+rajasthan,fashion,globalreach traders,3,0,0.0
+rajasthan,fashion,trendmart inc.,2,0,0.0
+rajasthan,fashion,quickbasket co.,2,0,0.0
+rajasthan,fashion,ecomgenix suppliers,1,0,0.0
+rajasthan,fashion,cartcraze ventures,2,1,50.0
+rajasthan,fashion,buynow direct,1,0,0.0
+rajasthan,fashion,nextgen wholesalers,1,0,0.0
+rajasthan,fashion,metroshop suppliers,5,0,0.0
+rajasthan,fitness,global ecom supplies,4,0,0.0
+rajasthan,fitness,primelogix traders,3,0,0.0
+rajasthan,fitness,digicart distributors,2,0,0.0
+rajasthan,fitness,urbanmarket co.,2,0,0.0
+rajasthan,fitness,ezyshop solutions,7,2,28.57
+rajasthan,fitness,quickpick wholesalers,5,0,0.0
+rajasthan,fitness,nextwave merchants,2,1,50.0
+rajasthan,fitness,trendify traders,3,1,33.33
+rajasthan,fitness,shopease suppliers,8,0,0.0
+rajasthan,fitness,smartkart wholesale,4,1,25.0
+rajasthan,fitness,omnisupply network,2,0,0.0
+rajasthan,fitness,ecomedge retail,2,1,50.0
+rajasthan,fitness,swiftdeal suppliers,1,1,100.0
+rajasthan,fitness,clickmart partners,6,0,0.0
+rajasthan,fitness,directcart distributors,1,0,0.0
+rajasthan,fitness,pack&go logistics,7,2,28.57
+rajasthan,fitness,instaretail hub,5,1,20.0
+rajasthan,fitness,urbancart traders,3,2,66.67
+rajasthan,fitness,elite ecom ventures,4,0,0.0
+rajasthan,fitness,smartshop network,2,0,0.0
+rajasthan,fitness,zoomkart distributors,5,0,0.0
+rajasthan,fitness,globalreach traders,5,0,0.0
+rajasthan,fitness,trendmart inc.,4,0,0.0
+rajasthan,fitness,quickbasket co.,3,1,33.33
+rajasthan,fitness,ecomgenix suppliers,3,0,0.0
+rajasthan,fitness,cartcraze ventures,5,2,40.0
+rajasthan,fitness,buynow direct,2,0,0.0
+rajasthan,fitness,nextgen wholesalers,4,0,0.0
+rajasthan,fitness,metroshop suppliers,3,1,33.33
+rajasthan,home appliance,global ecom supplies,2,0,0.0
+rajasthan,home appliance,digicart distributors,5,1,20.0
+rajasthan,home appliance,urbanmarket co.,7,1,14.29
+rajasthan,home appliance,ezyshop solutions,5,0,0.0
+rajasthan,home appliance,quickpick wholesalers,1,0,0.0
+rajasthan,home appliance,nextwave merchants,2,0,0.0
+rajasthan,home appliance,trendify traders,4,0,0.0
+rajasthan,home appliance,shopease suppliers,5,2,40.0
+rajasthan,home appliance,smartkart wholesale,2,0,0.0
+rajasthan,home appliance,omnisupply network,6,3,50.0
+rajasthan,home appliance,swiftdeal suppliers,2,0,0.0
+rajasthan,home appliance,clickmart partners,4,0,0.0
+rajasthan,home appliance,directcart distributors,5,0,0.0
+rajasthan,home appliance,pack&go logistics,2,0,0.0
+rajasthan,home appliance,fastlane wholesale,4,0,0.0
+rajasthan,home appliance,urbancart traders,3,0,0.0
+rajasthan,home appliance,elite ecom ventures,2,0,0.0
+rajasthan,home appliance,smartshop network,3,1,33.33
+rajasthan,home appliance,zoomkart distributors,4,2,50.0
+rajasthan,home appliance,globalreach traders,3,1,33.33
+rajasthan,home appliance,trendmart inc.,2,0,0.0
+rajasthan,home appliance,quickbasket co.,4,1,25.0
+rajasthan,home appliance,ecomgenix suppliers,1,0,0.0
+rajasthan,home appliance,cartcraze ventures,6,0,0.0
+rajasthan,home appliance,buynow direct,2,0,0.0
+rajasthan,home appliance,nextgen wholesalers,3,0,0.0
+rajasthan,home appliance,metroshop suppliers,1,0,0.0
+tamil nadu,books,global ecom supplies,6,2,33.33
+tamil nadu,books,primelogix traders,3,0,0.0
+tamil nadu,books,digicart distributors,6,0,0.0
+tamil nadu,books,urbanmarket co.,2,0,0.0
+tamil nadu,books,quickpick wholesalers,4,1,25.0
+tamil nadu,books,nextwave merchants,2,0,0.0
+tamil nadu,books,trendify traders,4,0,0.0
+tamil nadu,books,shopease suppliers,4,1,25.0
+tamil nadu,books,smartkart wholesale,3,0,0.0
+tamil nadu,books,omnisupply network,4,0,0.0
+tamil nadu,books,ecomedge retail,4,0,0.0
+tamil nadu,books,swiftdeal suppliers,2,0,0.0
+tamil nadu,books,clickmart partners,2,0,0.0
+tamil nadu,books,directcart distributors,1,0,0.0
+tamil nadu,books,pack&go logistics,5,0,0.0
+tamil nadu,books,fastlane wholesale,4,0,0.0
+tamil nadu,books,instaretail hub,4,1,25.0
+tamil nadu,books,urbancart traders,3,0,0.0
+tamil nadu,books,elite ecom ventures,4,2,50.0
+tamil nadu,books,smartshop network,1,0,0.0
+tamil nadu,books,zoomkart distributors,5,1,20.0
+tamil nadu,books,trendmart inc.,2,0,0.0
+tamil nadu,books,quickbasket co.,5,0,0.0
+tamil nadu,books,ecomgenix suppliers,4,0,0.0
+tamil nadu,books,cartcraze ventures,2,0,0.0
+tamil nadu,books,buynow direct,5,1,20.0
+tamil nadu,books,nextgen wholesalers,4,1,25.0
+tamil nadu,books,metroshop suppliers,7,2,28.57
+tamil nadu,electronics,global ecom supplies,2,0,0.0
+tamil nadu,electronics,primelogix traders,3,0,0.0
+tamil nadu,electronics,digicart distributors,3,2,66.67
+tamil nadu,electronics,urbanmarket co.,1,0,0.0
+tamil nadu,electronics,ezyshop solutions,5,0,0.0
+tamil nadu,electronics,quickpick wholesalers,5,0,0.0
+tamil nadu,electronics,nextwave merchants,5,0,0.0
+tamil nadu,electronics,trendify traders,2,0,0.0
+tamil nadu,electronics,shopease suppliers,4,0,0.0
+tamil nadu,electronics,smartkart wholesale,6,1,16.67
+tamil nadu,electronics,omnisupply network,3,1,33.33
+tamil nadu,electronics,ecomedge retail,4,1,25.0
+tamil nadu,electronics,swiftdeal suppliers,6,2,33.33
+tamil nadu,electronics,clickmart partners,3,1,33.33
+tamil nadu,electronics,directcart distributors,2,1,50.0
+tamil nadu,electronics,pack&go logistics,6,0,0.0
+tamil nadu,electronics,fastlane wholesale,3,2,66.67
+tamil nadu,electronics,instaretail hub,4,0,0.0
+tamil nadu,electronics,urbancart traders,4,2,50.0
+tamil nadu,electronics,elite ecom ventures,6,1,16.67
+tamil nadu,electronics,smartshop network,6,0,0.0
+tamil nadu,electronics,zoomkart distributors,3,1,33.33
+tamil nadu,electronics,globalreach traders,4,1,25.0
+tamil nadu,electronics,trendmart inc.,3,0,0.0
+tamil nadu,electronics,quickbasket co.,5,2,40.0
+tamil nadu,electronics,ecomgenix suppliers,4,1,25.0
+tamil nadu,electronics,cartcraze ventures,5,3,60.0
+tamil nadu,electronics,buynow direct,4,0,0.0
+tamil nadu,electronics,nextgen wholesalers,4,0,0.0
+tamil nadu,electronics,metroshop suppliers,1,0,0.0
+tamil nadu,fashion,global ecom supplies,3,0,0.0
+tamil nadu,fashion,primelogix traders,6,1,16.67
+tamil nadu,fashion,digicart distributors,12,2,16.67
+tamil nadu,fashion,urbanmarket co.,1,0,0.0
+tamil nadu,fashion,ezyshop solutions,7,1,14.29
+tamil nadu,fashion,quickpick wholesalers,8,0,0.0
+tamil nadu,fashion,nextwave merchants,5,1,20.0
+tamil nadu,fashion,trendify traders,2,1,50.0
+tamil nadu,fashion,shopease suppliers,3,1,33.33
+tamil nadu,fashion,smartkart wholesale,4,0,0.0
+tamil nadu,fashion,omnisupply network,6,1,16.67
+tamil nadu,fashion,ecomedge retail,6,3,50.0
+tamil nadu,fashion,swiftdeal suppliers,2,0,0.0
+tamil nadu,fashion,clickmart partners,8,1,12.5
+tamil nadu,fashion,directcart distributors,6,1,16.67
+tamil nadu,fashion,pack&go logistics,5,0,0.0
+tamil nadu,fashion,fastlane wholesale,7,1,14.29
+tamil nadu,fashion,instaretail hub,3,0,0.0
+tamil nadu,fashion,urbancart traders,3,1,33.33
+tamil nadu,fashion,elite ecom ventures,5,4,80.0
+tamil nadu,fashion,smartshop network,1,0,0.0
+tamil nadu,fashion,zoomkart distributors,7,1,14.29
+tamil nadu,fashion,globalreach traders,3,0,0.0
+tamil nadu,fashion,trendmart inc.,1,0,0.0
+tamil nadu,fashion,quickbasket co.,3,1,33.33
+tamil nadu,fashion,ecomgenix suppliers,4,1,25.0
+tamil nadu,fashion,cartcraze ventures,1,0,0.0
+tamil nadu,fashion,buynow direct,5,1,20.0
+tamil nadu,fashion,nextgen wholesalers,2,1,50.0
+tamil nadu,fashion,metroshop suppliers,4,1,25.0
+tamil nadu,fitness,global ecom supplies,2,0,0.0
+tamil nadu,fitness,primelogix traders,3,2,66.67
+tamil nadu,fitness,digicart distributors,2,1,50.0
+tamil nadu,fitness,urbanmarket co.,4,3,75.0
+tamil nadu,fitness,ezyshop solutions,3,1,33.33
+tamil nadu,fitness,quickpick wholesalers,4,1,25.0
+tamil nadu,fitness,nextwave merchants,4,0,0.0
+tamil nadu,fitness,trendify traders,4,0,0.0
+tamil nadu,fitness,shopease suppliers,5,0,0.0
+tamil nadu,fitness,smartkart wholesale,3,0,0.0
+tamil nadu,fitness,omnisupply network,4,1,25.0
+tamil nadu,fitness,ecomedge retail,3,1,33.33
+tamil nadu,fitness,swiftdeal suppliers,5,0,0.0
+tamil nadu,fitness,clickmart partners,1,0,0.0
+tamil nadu,fitness,directcart distributors,3,0,0.0
+tamil nadu,fitness,pack&go logistics,6,1,16.67
+tamil nadu,fitness,fastlane wholesale,2,0,0.0
+tamil nadu,fitness,instaretail hub,6,2,33.33
+tamil nadu,fitness,urbancart traders,2,0,0.0
+tamil nadu,fitness,elite ecom ventures,10,0,0.0
+tamil nadu,fitness,smartshop network,1,0,0.0
+tamil nadu,fitness,zoomkart distributors,5,0,0.0
+tamil nadu,fitness,globalreach traders,7,2,28.57
+tamil nadu,fitness,trendmart inc.,5,0,0.0
+tamil nadu,fitness,quickbasket co.,4,1,25.0
+tamil nadu,fitness,ecomgenix suppliers,4,0,0.0
+tamil nadu,fitness,cartcraze ventures,9,0,0.0
+tamil nadu,fitness,buynow direct,4,0,0.0
+tamil nadu,fitness,nextgen wholesalers,2,1,50.0
+tamil nadu,fitness,metroshop suppliers,3,0,0.0
+tamil nadu,home appliance,global ecom supplies,6,1,16.67
+tamil nadu,home appliance,primelogix traders,2,0,0.0
+tamil nadu,home appliance,digicart distributors,3,0,0.0
+tamil nadu,home appliance,urbanmarket co.,6,1,16.67
+tamil nadu,home appliance,ezyshop solutions,2,0,0.0
+tamil nadu,home appliance,quickpick wholesalers,9,0,0.0
+tamil nadu,home appliance,nextwave merchants,8,2,25.0
+tamil nadu,home appliance,trendify traders,2,0,0.0
+tamil nadu,home appliance,shopease suppliers,3,1,33.33
+tamil nadu,home appliance,smartkart wholesale,7,1,14.29
+tamil nadu,home appliance,omnisupply network,5,1,20.0
+tamil nadu,home appliance,ecomedge retail,2,0,0.0
+tamil nadu,home appliance,swiftdeal suppliers,1,0,0.0
+tamil nadu,home appliance,clickmart partners,3,0,0.0
+tamil nadu,home appliance,directcart distributors,2,0,0.0
+tamil nadu,home appliance,pack&go logistics,1,0,0.0
+tamil nadu,home appliance,fastlane wholesale,3,1,33.33
+tamil nadu,home appliance,instaretail hub,4,1,25.0
+tamil nadu,home appliance,urbancart traders,4,1,25.0
+tamil nadu,home appliance,elite ecom ventures,4,2,50.0
+tamil nadu,home appliance,smartshop network,7,0,0.0
+tamil nadu,home appliance,zoomkart distributors,5,3,60.0
+tamil nadu,home appliance,globalreach traders,4,1,25.0
+tamil nadu,home appliance,trendmart inc.,2,1,50.0
+tamil nadu,home appliance,quickbasket co.,4,0,0.0
+tamil nadu,home appliance,ecomgenix suppliers,5,1,20.0
+tamil nadu,home appliance,cartcraze ventures,4,1,25.0
+tamil nadu,home appliance,buynow direct,3,0,0.0
+tamil nadu,home appliance,nextgen wholesalers,4,0,0.0
+tamil nadu,home appliance,metroshop suppliers,3,1,33.33
+telangana,books,global ecom supplies,2,0,0.0
+telangana,books,primelogix traders,3,0,0.0
+telangana,books,digicart distributors,4,0,0.0
+telangana,books,urbanmarket co.,5,2,40.0
+telangana,books,ezyshop solutions,4,0,0.0
+telangana,books,nextwave merchants,1,0,0.0
+telangana,books,trendify traders,6,1,16.67
+telangana,books,shopease suppliers,5,1,20.0
+telangana,books,smartkart wholesale,4,2,50.0
+telangana,books,omnisupply network,2,2,100.0
+telangana,books,ecomedge retail,1,0,0.0
+telangana,books,swiftdeal suppliers,2,0,0.0
+telangana,books,clickmart partners,2,1,50.0
+telangana,books,directcart distributors,3,0,0.0
+telangana,books,pack&go logistics,4,1,25.0
+telangana,books,fastlane wholesale,2,0,0.0
+telangana,books,instaretail hub,5,1,20.0
+telangana,books,urbancart traders,4,1,25.0
+telangana,books,elite ecom ventures,4,0,0.0
+telangana,books,smartshop network,4,1,25.0
+telangana,books,zoomkart distributors,1,0,0.0
+telangana,books,globalreach traders,2,0,0.0
+telangana,books,trendmart inc.,2,0,0.0
+telangana,books,quickbasket co.,2,0,0.0
+telangana,books,ecomgenix suppliers,3,0,0.0
+telangana,books,cartcraze ventures,5,2,40.0
+telangana,books,buynow direct,7,1,14.29
+telangana,books,nextgen wholesalers,2,1,50.0
+telangana,books,metroshop suppliers,6,1,16.67
+telangana,electronics,global ecom supplies,3,1,33.33
+telangana,electronics,primelogix traders,6,1,16.67
+telangana,electronics,digicart distributors,4,0,0.0
+telangana,electronics,urbanmarket co.,3,1,33.33
+telangana,electronics,ezyshop solutions,1,0,0.0
+telangana,electronics,quickpick wholesalers,5,2,40.0
+telangana,electronics,nextwave merchants,4,0,0.0
+telangana,electronics,trendify traders,5,0,0.0
+telangana,electronics,shopease suppliers,2,0,0.0
+telangana,electronics,smartkart wholesale,1,0,0.0
+telangana,electronics,omnisupply network,4,0,0.0
+telangana,electronics,ecomedge retail,1,1,100.0
+telangana,electronics,swiftdeal suppliers,4,0,0.0
+telangana,electronics,clickmart partners,2,1,50.0
+telangana,electronics,directcart distributors,3,0,0.0
+telangana,electronics,pack&go logistics,3,2,66.67
+telangana,electronics,fastlane wholesale,4,0,0.0
+telangana,electronics,instaretail hub,3,1,33.33
+telangana,electronics,urbancart traders,5,1,20.0
+telangana,electronics,elite ecom ventures,3,1,33.33
+telangana,electronics,smartshop network,5,0,0.0
+telangana,electronics,zoomkart distributors,1,0,0.0
+telangana,electronics,globalreach traders,2,0,0.0
+telangana,electronics,trendmart inc.,3,1,33.33
+telangana,electronics,quickbasket co.,4,0,0.0
+telangana,electronics,ecomgenix suppliers,3,0,0.0
+telangana,electronics,cartcraze ventures,1,0,0.0
+telangana,electronics,buynow direct,3,0,0.0
+telangana,electronics,nextgen wholesalers,2,0,0.0
+telangana,electronics,metroshop suppliers,5,1,20.0
+telangana,fashion,global ecom supplies,3,0,0.0
+telangana,fashion,primelogix traders,3,1,33.33
+telangana,fashion,digicart distributors,5,1,20.0
+telangana,fashion,urbanmarket co.,2,0,0.0
+telangana,fashion,ezyshop solutions,2,0,0.0
+telangana,fashion,quickpick wholesalers,2,0,0.0
+telangana,fashion,nextwave merchants,4,0,0.0
+telangana,fashion,trendify traders,3,1,33.33
+telangana,fashion,shopease suppliers,5,1,20.0
+telangana,fashion,smartkart wholesale,5,0,0.0
+telangana,fashion,omnisupply network,1,0,0.0
+telangana,fashion,ecomedge retail,6,1,16.67
+telangana,fashion,swiftdeal suppliers,5,1,20.0
+telangana,fashion,clickmart partners,4,1,25.0
+telangana,fashion,directcart distributors,2,0,0.0
+telangana,fashion,pack&go logistics,6,0,0.0
+telangana,fashion,fastlane wholesale,3,0,0.0
+telangana,fashion,instaretail hub,4,2,50.0
+telangana,fashion,urbancart traders,1,0,0.0
+telangana,fashion,elite ecom ventures,3,1,33.33
+telangana,fashion,smartshop network,3,0,0.0
+telangana,fashion,zoomkart distributors,5,1,20.0
+telangana,fashion,globalreach traders,9,2,22.22
+telangana,fashion,trendmart inc.,5,2,40.0
+telangana,fashion,quickbasket co.,3,0,0.0
+telangana,fashion,ecomgenix suppliers,4,0,0.0
+telangana,fashion,cartcraze ventures,3,2,66.67
+telangana,fashion,buynow direct,6,1,16.67
+telangana,fashion,nextgen wholesalers,5,0,0.0
+telangana,fashion,metroshop suppliers,5,1,20.0
+telangana,fitness,global ecom supplies,2,0,0.0
+telangana,fitness,primelogix traders,4,2,50.0
+telangana,fitness,digicart distributors,4,2,50.0
+telangana,fitness,urbanmarket co.,4,1,25.0
+telangana,fitness,ezyshop solutions,4,1,25.0
+telangana,fitness,quickpick wholesalers,3,0,0.0
+telangana,fitness,nextwave merchants,5,1,20.0
+telangana,fitness,trendify traders,5,0,0.0
+telangana,fitness,shopease suppliers,8,4,50.0
+telangana,fitness,smartkart wholesale,5,1,20.0
+telangana,fitness,omnisupply network,2,0,0.0
+telangana,fitness,ecomedge retail,1,0,0.0
+telangana,fitness,swiftdeal suppliers,2,2,100.0
+telangana,fitness,clickmart partners,3,0,0.0
+telangana,fitness,directcart distributors,2,0,0.0
+telangana,fitness,pack&go logistics,3,0,0.0
+telangana,fitness,fastlane wholesale,4,1,25.0
+telangana,fitness,instaretail hub,2,0,0.0
+telangana,fitness,urbancart traders,1,0,0.0
+telangana,fitness,elite ecom ventures,3,0,0.0
+telangana,fitness,smartshop network,3,0,0.0
+telangana,fitness,zoomkart distributors,3,0,0.0
+telangana,fitness,globalreach traders,1,0,0.0
+telangana,fitness,trendmart inc.,5,2,40.0
+telangana,fitness,quickbasket co.,7,1,14.29
+telangana,fitness,ecomgenix suppliers,3,0,0.0
+telangana,fitness,cartcraze ventures,2,1,50.0
+telangana,fitness,buynow direct,4,0,0.0
+telangana,fitness,nextgen wholesalers,4,0,0.0
+telangana,fitness,metroshop suppliers,2,1,50.0
+telangana,home appliance,global ecom supplies,4,0,0.0
+telangana,home appliance,primelogix traders,5,0,0.0
+telangana,home appliance,digicart distributors,6,0,0.0
+telangana,home appliance,urbanmarket co.,3,0,0.0
+telangana,home appliance,ezyshop solutions,6,0,0.0
+telangana,home appliance,quickpick wholesalers,2,2,100.0
+telangana,home appliance,nextwave merchants,1,0,0.0
+telangana,home appliance,trendify traders,2,0,0.0
+telangana,home appliance,shopease suppliers,1,0,0.0
+telangana,home appliance,smartkart wholesale,3,0,0.0
+telangana,home appliance,omnisupply network,1,1,100.0
+telangana,home appliance,ecomedge retail,7,2,28.57
+telangana,home appliance,swiftdeal suppliers,2,0,0.0
+telangana,home appliance,clickmart partners,4,0,0.0
+telangana,home appliance,directcart distributors,5,2,40.0
+telangana,home appliance,pack&go logistics,4,1,25.0
+telangana,home appliance,fastlane wholesale,2,0,0.0
+telangana,home appliance,instaretail hub,6,0,0.0
+telangana,home appliance,urbancart traders,2,0,0.0
+telangana,home appliance,elite ecom ventures,3,0,0.0
+telangana,home appliance,smartshop network,3,1,33.33
+telangana,home appliance,zoomkart distributors,3,0,0.0
+telangana,home appliance,globalreach traders,3,2,66.67
+telangana,home appliance,trendmart inc.,3,1,33.33
+telangana,home appliance,quickbasket co.,1,0,0.0
+telangana,home appliance,ecomgenix suppliers,6,2,33.33
+telangana,home appliance,cartcraze ventures,5,0,0.0
+telangana,home appliance,buynow direct,4,0,0.0
+telangana,home appliance,nextgen wholesalers,4,1,25.0
+telangana,home appliance,metroshop suppliers,2,1,50.0
+uttar pradesh,books,global ecom supplies,6,0,0.0
+uttar pradesh,books,primelogix traders,6,1,16.67
+uttar pradesh,books,digicart distributors,9,1,11.11
+uttar pradesh,books,urbanmarket co.,9,0,0.0
+uttar pradesh,books,ezyshop solutions,9,2,22.22
+uttar pradesh,books,quickpick wholesalers,21,6,28.57
+uttar pradesh,books,nextwave merchants,11,1,9.09
+uttar pradesh,books,trendify traders,12,1,8.33
+uttar pradesh,books,shopease suppliers,12,2,16.67
+uttar pradesh,books,smartkart wholesale,11,4,36.36
+uttar pradesh,books,omnisupply network,5,0,0.0
+uttar pradesh,books,ecomedge retail,9,1,11.11
+uttar pradesh,books,swiftdeal suppliers,12,4,33.33
+uttar pradesh,books,clickmart partners,8,2,25.0
+uttar pradesh,books,directcart distributors,8,0,0.0
+uttar pradesh,books,pack&go logistics,12,2,16.67
+uttar pradesh,books,fastlane wholesale,6,3,50.0
+uttar pradesh,books,instaretail hub,4,0,0.0
+uttar pradesh,books,urbancart traders,4,1,25.0
+uttar pradesh,books,elite ecom ventures,7,2,28.57
+uttar pradesh,books,smartshop network,9,1,11.11
+uttar pradesh,books,zoomkart distributors,6,0,0.0
+uttar pradesh,books,globalreach traders,6,1,16.67
+uttar pradesh,books,trendmart inc.,11,6,54.55
+uttar pradesh,books,quickbasket co.,11,4,36.36
+uttar pradesh,books,ecomgenix suppliers,10,1,10.0
+uttar pradesh,books,cartcraze ventures,11,1,9.09
+uttar pradesh,books,buynow direct,10,2,20.0
+uttar pradesh,books,nextgen wholesalers,8,0,0.0
+uttar pradesh,books,metroshop suppliers,2,1,50.0
+uttar pradesh,electronics,global ecom supplies,7,2,28.57
+uttar pradesh,electronics,primelogix traders,13,4,30.77
+uttar pradesh,electronics,digicart distributors,10,1,10.0
+uttar pradesh,electronics,urbanmarket co.,9,0,0.0
+uttar pradesh,electronics,ezyshop solutions,9,2,22.22
+uttar pradesh,electronics,quickpick wholesalers,16,4,25.0
+uttar pradesh,electronics,nextwave merchants,11,2,18.18
+uttar pradesh,electronics,trendify traders,13,5,38.46
+uttar pradesh,electronics,shopease suppliers,10,2,20.0
+uttar pradesh,electronics,smartkart wholesale,9,3,33.33
+uttar pradesh,electronics,omnisupply network,8,1,12.5
+uttar pradesh,electronics,ecomedge retail,6,0,0.0
+uttar pradesh,electronics,swiftdeal suppliers,9,1,11.11
+uttar pradesh,electronics,clickmart partners,7,0,0.0
+uttar pradesh,electronics,directcart distributors,13,2,15.38
+uttar pradesh,electronics,pack&go logistics,14,1,7.14
+uttar pradesh,electronics,fastlane wholesale,10,3,30.0
+uttar pradesh,electronics,instaretail hub,8,2,25.0
+uttar pradesh,electronics,urbancart traders,10,3,30.0
+uttar pradesh,electronics,elite ecom ventures,7,0,0.0
+uttar pradesh,electronics,smartshop network,17,3,17.65
+uttar pradesh,electronics,zoomkart distributors,12,2,16.67
+uttar pradesh,electronics,globalreach traders,11,3,27.27
+uttar pradesh,electronics,trendmart inc.,11,5,45.45
+uttar pradesh,electronics,quickbasket co.,13,2,15.38
+uttar pradesh,electronics,ecomgenix suppliers,17,4,23.53
+uttar pradesh,electronics,cartcraze ventures,12,2,16.67
+uttar pradesh,electronics,buynow direct,10,2,20.0
+uttar pradesh,electronics,nextgen wholesalers,11,2,18.18
+uttar pradesh,electronics,metroshop suppliers,14,1,7.14
+uttar pradesh,fashion,global ecom supplies,15,1,6.67
+uttar pradesh,fashion,primelogix traders,12,0,0.0
+uttar pradesh,fashion,digicart distributors,11,3,27.27
+uttar pradesh,fashion,urbanmarket co.,12,2,16.67
+uttar pradesh,fashion,ezyshop solutions,11,2,18.18
+uttar pradesh,fashion,quickpick wholesalers,18,5,27.78
+uttar pradesh,fashion,nextwave merchants,8,0,0.0
+uttar pradesh,fashion,trendify traders,13,1,7.69
+uttar pradesh,fashion,shopease suppliers,6,1,16.67
+uttar pradesh,fashion,smartkart wholesale,17,4,23.53
+uttar pradesh,fashion,omnisupply network,8,1,12.5
+uttar pradesh,fashion,ecomedge retail,3,0,0.0
+uttar pradesh,fashion,swiftdeal suppliers,6,1,16.67
+uttar pradesh,fashion,clickmart partners,7,2,28.57
+uttar pradesh,fashion,directcart distributors,8,3,37.5
+uttar pradesh,fashion,pack&go logistics,13,7,53.85
+uttar pradesh,fashion,fastlane wholesale,11,4,36.36
+uttar pradesh,fashion,instaretail hub,9,2,22.22
+uttar pradesh,fashion,urbancart traders,13,1,7.69
+uttar pradesh,fashion,elite ecom ventures,13,2,15.38
+uttar pradesh,fashion,smartshop network,15,3,20.0
+uttar pradesh,fashion,zoomkart distributors,15,2,13.33
+uttar pradesh,fashion,globalreach traders,9,3,33.33
+uttar pradesh,fashion,trendmart inc.,10,2,20.0
+uttar pradesh,fashion,quickbasket co.,8,1,12.5
+uttar pradesh,fashion,ecomgenix suppliers,9,1,11.11
+uttar pradesh,fashion,cartcraze ventures,9,2,22.22
+uttar pradesh,fashion,buynow direct,7,1,14.29
+uttar pradesh,fashion,nextgen wholesalers,8,1,12.5
+uttar pradesh,fashion,metroshop suppliers,14,4,28.57
+uttar pradesh,fitness,global ecom supplies,9,3,33.33
+uttar pradesh,fitness,primelogix traders,2,1,50.0
+uttar pradesh,fitness,digicart distributors,7,1,14.29
+uttar pradesh,fitness,urbanmarket co.,5,1,20.0
+uttar pradesh,fitness,ezyshop solutions,6,2,33.33
+uttar pradesh,fitness,quickpick wholesalers,11,2,18.18
+uttar pradesh,fitness,nextwave merchants,9,3,33.33
+uttar pradesh,fitness,trendify traders,10,3,30.0
+uttar pradesh,fitness,shopease suppliers,6,1,16.67
+uttar pradesh,fitness,smartkart wholesale,6,0,0.0
+uttar pradesh,fitness,omnisupply network,15,2,13.33
+uttar pradesh,fitness,ecomedge retail,10,2,20.0
+uttar pradesh,fitness,swiftdeal suppliers,7,1,14.29
+uttar pradesh,fitness,clickmart partners,13,3,23.08
+uttar pradesh,fitness,directcart distributors,10,3,30.0
+uttar pradesh,fitness,pack&go logistics,10,2,20.0
+uttar pradesh,fitness,fastlane wholesale,17,8,47.06
+uttar pradesh,fitness,instaretail hub,2,0,0.0
+uttar pradesh,fitness,urbancart traders,8,2,25.0
+uttar pradesh,fitness,elite ecom ventures,7,2,28.57
+uttar pradesh,fitness,smartshop network,17,3,17.65
+uttar pradesh,fitness,zoomkart distributors,11,0,0.0
+uttar pradesh,fitness,globalreach traders,10,4,40.0
+uttar pradesh,fitness,trendmart inc.,15,3,20.0
+uttar pradesh,fitness,quickbasket co.,11,2,18.18
+uttar pradesh,fitness,ecomgenix suppliers,12,2,16.67
+uttar pradesh,fitness,cartcraze ventures,4,0,0.0
+uttar pradesh,fitness,buynow direct,3,1,33.33
+uttar pradesh,fitness,nextgen wholesalers,10,2,20.0
+uttar pradesh,fitness,metroshop suppliers,7,2,28.57
+uttar pradesh,home appliance,global ecom supplies,10,2,20.0
+uttar pradesh,home appliance,primelogix traders,12,4,33.33
+uttar pradesh,home appliance,digicart distributors,6,3,50.0
+uttar pradesh,home appliance,urbanmarket co.,9,4,44.44
+uttar pradesh,home appliance,ezyshop solutions,15,3,20.0
+uttar pradesh,home appliance,quickpick wholesalers,12,2,16.67
+uttar pradesh,home appliance,nextwave merchants,13,1,7.69
+uttar pradesh,home appliance,trendify traders,18,4,22.22
+uttar pradesh,home appliance,shopease suppliers,10,0,0.0
+uttar pradesh,home appliance,smartkart wholesale,14,2,14.29
+uttar pradesh,home appliance,omnisupply network,9,1,11.11
+uttar pradesh,home appliance,ecomedge retail,7,1,14.29
+uttar pradesh,home appliance,swiftdeal suppliers,10,2,20.0
+uttar pradesh,home appliance,clickmart partners,8,2,25.0
+uttar pradesh,home appliance,directcart distributors,13,4,30.77
+uttar pradesh,home appliance,pack&go logistics,10,3,30.0
+uttar pradesh,home appliance,fastlane wholesale,12,2,16.67
+uttar pradesh,home appliance,instaretail hub,14,3,21.43
+uttar pradesh,home appliance,urbancart traders,14,4,28.57
+uttar pradesh,home appliance,elite ecom ventures,6,4,66.67
+uttar pradesh,home appliance,smartshop network,9,1,11.11
+uttar pradesh,home appliance,zoomkart distributors,6,1,16.67
+uttar pradesh,home appliance,globalreach traders,10,2,20.0
+uttar pradesh,home appliance,trendmart inc.,7,0,0.0
+uttar pradesh,home appliance,quickbasket co.,9,1,11.11
+uttar pradesh,home appliance,ecomgenix suppliers,15,3,20.0
+uttar pradesh,home appliance,cartcraze ventures,13,4,30.77
+uttar pradesh,home appliance,buynow direct,9,2,22.22
+uttar pradesh,home appliance,nextgen wholesalers,5,1,20.0
+uttar pradesh,home appliance,metroshop suppliers,9,5,55.56
+west bengal,books,global ecom supplies,5,1,20.0
+west bengal,books,primelogix traders,4,1,25.0
+west bengal,books,digicart distributors,2,0,0.0
+west bengal,books,ezyshop solutions,2,0,0.0
+west bengal,books,quickpick wholesalers,5,3,60.0
+west bengal,books,nextwave merchants,3,1,33.33
+west bengal,books,trendify traders,6,0,0.0
+west bengal,books,shopease suppliers,1,0,0.0
+west bengal,books,smartkart wholesale,5,2,40.0
+west bengal,books,omnisupply network,4,0,0.0
+west bengal,books,ecomedge retail,6,3,50.0
+west bengal,books,swiftdeal suppliers,3,1,33.33
+west bengal,books,clickmart partners,1,0,0.0
+west bengal,books,directcart distributors,5,0,0.0
+west bengal,books,pack&go logistics,3,2,66.67
+west bengal,books,fastlane wholesale,4,0,0.0
+west bengal,books,instaretail hub,2,0,0.0
+west bengal,books,urbancart traders,4,0,0.0
+west bengal,books,elite ecom ventures,3,0,0.0
+west bengal,books,smartshop network,6,0,0.0
+west bengal,books,zoomkart distributors,5,1,20.0
+west bengal,books,globalreach traders,4,1,25.0
+west bengal,books,trendmart inc.,3,0,0.0
+west bengal,books,quickbasket co.,4,1,25.0
+west bengal,books,ecomgenix suppliers,4,0,0.0
+west bengal,books,cartcraze ventures,4,1,25.0
+west bengal,books,buynow direct,2,0,0.0
+west bengal,books,nextgen wholesalers,3,2,66.67
+west bengal,books,metroshop suppliers,3,1,33.33
+west bengal,electronics,global ecom supplies,2,0,0.0
+west bengal,electronics,primelogix traders,4,0,0.0
+west bengal,electronics,digicart distributors,4,0,0.0
+west bengal,electronics,urbanmarket co.,5,0,0.0
+west bengal,electronics,ezyshop solutions,4,2,50.0
+west bengal,electronics,quickpick wholesalers,2,1,50.0
+west bengal,electronics,nextwave merchants,2,1,50.0
+west bengal,electronics,trendify traders,1,0,0.0
+west bengal,electronics,shopease suppliers,4,1,25.0
+west bengal,electronics,smartkart wholesale,4,0,0.0
+west bengal,electronics,omnisupply network,3,1,33.33
+west bengal,electronics,swiftdeal suppliers,3,0,0.0
+west bengal,electronics,clickmart partners,4,0,0.0
+west bengal,electronics,pack&go logistics,3,3,100.0
+west bengal,electronics,fastlane wholesale,3,0,0.0
+west bengal,electronics,instaretail hub,1,0,0.0
+west bengal,electronics,urbancart traders,5,1,20.0
+west bengal,electronics,elite ecom ventures,3,1,33.33
+west bengal,electronics,smartshop network,2,1,50.0
+west bengal,electronics,zoomkart distributors,1,1,100.0
+west bengal,electronics,globalreach traders,2,0,0.0
+west bengal,electronics,trendmart inc.,3,1,33.33
+west bengal,electronics,quickbasket co.,1,0,0.0
+west bengal,electronics,ecomgenix suppliers,2,0,0.0
+west bengal,electronics,cartcraze ventures,3,0,0.0
+west bengal,electronics,buynow direct,2,0,0.0
+west bengal,electronics,nextgen wholesalers,6,1,16.67
+west bengal,electronics,metroshop suppliers,3,0,0.0
+west bengal,fashion,global ecom supplies,1,1,100.0
+west bengal,fashion,primelogix traders,1,0,0.0
+west bengal,fashion,digicart distributors,2,0,0.0
+west bengal,fashion,urbanmarket co.,1,0,0.0
+west bengal,fashion,ezyshop solutions,3,2,66.67
+west bengal,fashion,quickpick wholesalers,1,0,0.0
+west bengal,fashion,trendify traders,4,1,25.0
+west bengal,fashion,shopease suppliers,3,0,0.0
+west bengal,fashion,smartkart wholesale,3,0,0.0
+west bengal,fashion,omnisupply network,2,0,0.0
+west bengal,fashion,ecomedge retail,4,1,25.0
+west bengal,fashion,swiftdeal suppliers,2,0,0.0
+west bengal,fashion,clickmart partners,4,0,0.0
+west bengal,fashion,directcart distributors,3,0,0.0
+west bengal,fashion,pack&go logistics,2,0,0.0
+west bengal,fashion,fastlane wholesale,6,2,33.33
+west bengal,fashion,instaretail hub,2,1,50.0
+west bengal,fashion,urbancart traders,4,0,0.0
+west bengal,fashion,elite ecom ventures,1,0,0.0
+west bengal,fashion,smartshop network,6,0,0.0
+west bengal,fashion,zoomkart distributors,4,1,25.0
+west bengal,fashion,globalreach traders,4,1,25.0
+west bengal,fashion,trendmart inc.,2,0,0.0
+west bengal,fashion,quickbasket co.,4,0,0.0
+west bengal,fashion,ecomgenix suppliers,2,0,0.0
+west bengal,fashion,cartcraze ventures,5,2,40.0
+west bengal,fashion,buynow direct,1,1,100.0
+west bengal,fashion,nextgen wholesalers,2,0,0.0
+west bengal,fashion,metroshop suppliers,1,1,100.0
+west bengal,fitness,global ecom supplies,6,2,33.33
+west bengal,fitness,primelogix traders,2,0,0.0
+west bengal,fitness,digicart distributors,1,0,0.0
+west bengal,fitness,urbanmarket co.,3,2,66.67
+west bengal,fitness,ezyshop solutions,1,0,0.0
+west bengal,fitness,quickpick wholesalers,2,0,0.0
+west bengal,fitness,nextwave merchants,2,0,0.0
+west bengal,fitness,trendify traders,7,1,14.29
+west bengal,fitness,shopease suppliers,3,0,0.0
+west bengal,fitness,smartkart wholesale,5,1,20.0
+west bengal,fitness,ecomedge retail,3,1,33.33
+west bengal,fitness,swiftdeal suppliers,4,1,25.0
+west bengal,fitness,clickmart partners,7,0,0.0
+west bengal,fitness,directcart distributors,7,1,14.29
+west bengal,fitness,pack&go logistics,6,2,33.33
+west bengal,fitness,fastlane wholesale,6,2,33.33
+west bengal,fitness,instaretail hub,7,1,14.29
+west bengal,fitness,urbancart traders,5,1,20.0
+west bengal,fitness,elite ecom ventures,2,0,0.0
+west bengal,fitness,smartshop network,3,2,66.67
+west bengal,fitness,zoomkart distributors,2,0,0.0
+west bengal,fitness,globalreach traders,3,1,33.33
+west bengal,fitness,trendmart inc.,2,0,0.0
+west bengal,fitness,ecomgenix suppliers,1,0,0.0
+west bengal,fitness,cartcraze ventures,6,2,33.33
+west bengal,fitness,buynow direct,4,1,25.0
+west bengal,fitness,nextgen wholesalers,4,0,0.0
+west bengal,fitness,metroshop suppliers,6,2,33.33
+west bengal,home appliance,global ecom supplies,4,0,0.0
+west bengal,home appliance,primelogix traders,5,0,0.0
+west bengal,home appliance,digicart distributors,2,1,50.0
+west bengal,home appliance,urbanmarket co.,1,0,0.0
+west bengal,home appliance,ezyshop solutions,3,0,0.0
+west bengal,home appliance,quickpick wholesalers,7,3,42.86
+west bengal,home appliance,nextwave merchants,1,0,0.0
+west bengal,home appliance,trendify traders,1,0,0.0
+west bengal,home appliance,shopease suppliers,3,0,0.0
+west bengal,home appliance,smartkart wholesale,4,2,50.0
+west bengal,home appliance,omnisupply network,4,0,0.0
+west bengal,home appliance,ecomedge retail,3,0,0.0
+west bengal,home appliance,swiftdeal suppliers,4,1,25.0
+west bengal,home appliance,clickmart partners,3,2,66.67
+west bengal,home appliance,directcart distributors,7,1,14.29
+west bengal,home appliance,pack&go logistics,4,0,0.0
+west bengal,home appliance,fastlane wholesale,3,1,33.33
+west bengal,home appliance,instaretail hub,3,0,0.0
+west bengal,home appliance,urbancart traders,2,0,0.0
+west bengal,home appliance,elite ecom ventures,6,1,16.67
+west bengal,home appliance,smartshop network,4,0,0.0
+west bengal,home appliance,zoomkart distributors,4,3,75.0
+west bengal,home appliance,globalreach traders,5,2,40.0
+west bengal,home appliance,trendmart inc.,4,1,25.0
+west bengal,home appliance,quickbasket co.,3,0,0.0
+west bengal,home appliance,ecomgenix suppliers,2,1,50.0
+west bengal,home appliance,cartcraze ventures,2,1,50.0
+west bengal,home appliance,buynow direct,3,1,33.33
+west bengal,home appliance,nextgen wholesalers,5,4,80.0
+west bengal,home appliance,metroshop suppliers,6,2,33.33

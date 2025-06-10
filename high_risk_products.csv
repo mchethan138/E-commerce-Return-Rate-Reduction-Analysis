@@ -1,0 +1,992 @@
+order_datetime,qty,gender,state,city,age,category,price,dp_ratings,prod_rating,delivery_service_rating,sup_name,transaction_mode,tran_status,target,return_probability
+2024-10-27 07:22:31,2,female,madhya pradesh,indore,18,fitness,495.09,0.0,5.0,4.0,elite ecom ventures,debit card,successful,0,0.95130694252954
+2024-10-27 07:22:31,2,female,madhya pradesh,indore,18,fitness,495.09,0.0,2.0,4.0,elite ecom ventures,debit card,successful,0,0.9508841686692888
+2024-02-07 07:26:58,3,female,delhi,delhi,23,fitness,488.42,3.7,1.0,4.0,trendify traders,upi,successful,1,0.9445019077402752
+2024-02-07 07:26:58,3,female,delhi,delhi,23,fitness,488.42,3.7,1.0,4.0,trendify traders,wallet,successful,1,0.9442267282947148
+2024-02-07 07:26:58,3,female,delhi,delhi,23,fitness,488.42,3.7,1.0,4.0,trendify traders,net banking,successful,1,0.9417002484430508
+2023-05-02 01:32:01,2,female,maharashtra,nagpur,22,home appliance,490.6,0.0,2.0,5.0,metroshop suppliers,net banking,successful,0,0.9349466546669054
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,2.0,5.0,shopease suppliers,credit card,successful,1,0.934640710351848
+2023-08-07 09:23:49,4,male,gujarat,ahmedabad,23,books,498.01,3.4,5.0,4.0,pack&go logistics,credit card,successful,0,0.9333705858791944
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,2.0,5.0,shopease suppliers,debit card,successful,1,0.9325945260294982
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,2.0,5.0,shopease suppliers,debit card,successful,1,0.9325945260294982
+2023-08-07 09:23:49,4,male,gujarat,ahmedabad,23,books,498.01,3.4,5.0,4.0,pack&go logistics,debit card,successful,0,0.931287561445098
+2023-12-28 02:12:10,3,female,maharashtra,nagpur,19,electronics,478.82,3.5,4.0,3.0,shopease suppliers,upi,successful,0,0.929583788895174
+2023-05-02 01:32:01,2,female,maharashtra,nagpur,22,home appliance,490.6,0.0,5.0,2.0,metroshop suppliers,net banking,successful,0,0.9284401801718636
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,4.0,1.0,shopease suppliers,credit card,successful,1,0.9253796013013932
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,4.0,1.0,shopease suppliers,debit card,successful,1,0.9230673473992208
+2024-03-19 19:21:36,8,male,west bengal,kolkata,25,home appliance,498.22,3.9,4.0,1.0,shopease suppliers,debit card,successful,1,0.9230673473992208
+2023-06-01 03:08:02,3,male,uttar pradesh,ghaziabad,19,fashion,492.98,4.0,0.0,0.0,ecomedge retail,net banking,successful,1,0.9209872292498178
+2023-05-23 18:47:45,4,female,gujarat,ahmedabad,27,fitness,499.95,3.2,1.0,5.0,quickpick wholesalers,net banking,successful,0,0.918384460015984
+2023-08-30 06:37:16,4,male,gujarat,ahmedabad,20,electronics,486.48,4.7,0.0,0.0,trendmart inc.,wallet,successful,1,0.9167427221914196
+2024-05-02 21:30:19,8,male,maharashtra,mumbai,18,fashion,492.39,3.0,3.0,3.0,trendmart inc.,wallet,successful,0,0.9149090811223484
+2024-05-14 09:47:00,4,male,madhya pradesh,bhopal,27,fitness,487.26,3.3,4.0,5.0,ezyshop solutions,net banking,successful,0,0.9146091488875776
+2023-09-22 04:43:04,1,female,uttar pradesh,kanpur,25,home appliance,484.47,3.8,0.0,0.0,pack&go logistics,net banking,successful,1,0.9145490163494754
+2023-10-23 09:32:12,2,female,maharashtra,pune,24,electronics,489.54,3.8,0.0,0.0,primelogix traders,wallet,successful,0,0.9143841121846024
+2023-08-25 12:49:43,6,female,maharashtra,mumbai,20,books,499.81,3.1,0.0,0.0,swiftdeal suppliers,debit card,successful,0,0.9136963190804596
+2023-05-13 20:20:12,4,female,maharashtra,pune,23,fitness,479.25,3.6,4.0,4.0,trendmart inc.,wallet,successful,0,0.913279226784434
+2023-05-13 20:20:12,4,female,maharashtra,pune,23,fitness,479.25,3.6,3.0,4.0,trendmart inc.,wallet,successful,0,0.913038963450012
+2024-04-22 21:05:29,4,female,delhi,delhi,21,books,486.46,3.8,0.0,0.0,digicart distributors,debit card,successful,0,0.912161747140932
+2023-06-26 10:58:55,7,male,uttar pradesh,kanpur,24,fitness,499.95,4.6,0.0,0.0,quickpick wholesalers,net banking,successful,0,0.911365555446845
+2023-05-23 18:47:45,4,female,gujarat,ahmedabad,27,fitness,499.95,3.2,5.0,2.0,quickpick wholesalers,net banking,successful,0,0.9106271513111412
+2023-05-23 18:47:45,4,female,gujarat,ahmedabad,27,fitness,499.95,3.2,5.0,2.0,quickpick wholesalers,net banking,successful,0,0.9106271513111412
+2023-05-23 18:47:45,4,female,gujarat,ahmedabad,27,fitness,499.95,3.2,3.0,2.0,quickpick wholesalers,net banking,successful,0,0.9101327566128272
+2023-05-13 20:20:12,4,female,maharashtra,pune,23,fitness,479.25,3.6,4.0,4.0,trendmart inc.,net banking,successful,0,0.9094852398623574
+2023-05-13 20:20:12,4,female,maharashtra,pune,23,fitness,479.25,3.6,3.0,4.0,trendmart inc.,net banking,successful,0,0.909235509791274
+2024-05-25 06:40:08,8,female,gujarat,surat,20,home appliance,499.52,4.3,5.0,5.0,urbanmarket co.,net banking,successful,0,0.9087758567000968
+2024-05-25 06:40:08,8,female,gujarat,surat,20,home appliance,499.52,4.3,5.0,5.0,urbanmarket co.,net banking,successful,0,0.9087758567000968
+2024-01-10 10:46:41,1,male,uttar pradesh,kanpur,22,electronics,479.65,4.8,0.0,0.0,digicart distributors,credit card,successful,0,0.908631473732553
+2023-05-23 18:47:45,4,female,gujarat,ahmedabad,27,fitness,499.95,3.2,4.0,1.0,quickpick wholesalers,net banking,successful,0,0.9073041273093808
+2024-06-30 22:44:26,2,male,uttar pradesh,lucknow,35,electronics,488.82,3.6,2.0,5.0,shopease suppliers,debit card,successful,1,0.9035528222780655
+2024-06-16 13:33:02,5,female,gujarat,vadodara,21,electronics,498.07,5.0,2.0,3.0,buynow direct,net banking,successful,0,0.9031446552409764
+2024-02-26 09:00:28,3,male,gujarat,ahmedabad,27,electronics,499.52,4.9,0.0,0.0,urbancart traders,debit card,successful,0,0.9018977769166748
+2023-03-02 18:13:57,9,male,gujarat,surat,20,fitness,495.14,3.9,4.0,2.0,nextgen wholesalers,debit card,successful,0,0.9008707909157516
+2023-03-02 18:13:57,9,male,gujarat,surat,20,fitness,495.14,3.9,4.0,2.0,nextgen wholesalers,debit card,successful,0,0.9008707909157516
+2023-12-22 14:56:03,1,female,bihar,patna,25,home appliance,477.06,3.5,0.0,0.0,urbancart traders,wallet,successful,0,0.9003051439398418
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,4.0,4.0,clickmart partners,upi,successful,0,0.8970523171059404
+2023-07-26 14:00:11,2,male,maharashtra,mumbai,21,fitness,452.17,0.0,4.0,1.0,elite ecom ventures,debit card,successful,0,0.8967794662167444
+2023-07-26 14:00:11,2,male,maharashtra,mumbai,21,fitness,452.17,0.0,4.0,1.0,elite ecom ventures,debit card,successful,0,0.8967794662167444
+2023-09-30 16:11:30,6,male,gujarat,surat,25,home appliance,482.35,5.0,1.0,4.0,digicart distributors,wallet,successful,1,0.8964650891126077
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,4.0,4.0,clickmart partners,debit card,successful,0,0.8958084391978679
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,4.0,4.0,clickmart partners,debit card,successful,0,0.8958084391978679
+2024-03-23 23:57:02,8,male,delhi,delhi,22,books,486.21,3.7,0.0,0.0,zoomkart distributors,net banking,successful,1,0.8956904593594492
+2023-07-02 01:16:46,4,male,uttar pradesh,kanpur,23,fitness,474.69,4.2,3.0,2.0,nextwave merchants,net banking,successful,0,0.8950832159050682
+2023-07-02 01:16:46,4,male,uttar pradesh,kanpur,23,fitness,474.69,4.2,3.0,2.0,nextwave merchants,net banking,successful,0,0.8950832159050682
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,3.0,trendmart inc.,upi,successful,1,0.8936736983039575
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,3.0,trendmart inc.,wallet,successful,1,0.8931749988264648
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,3.0,trendmart inc.,debit card,successful,1,0.892393894703592
+2023-08-05 08:02:04,1,female,rajasthan,jaipur,29,fitness,469.65,3.2,1.0,3.0,pack&go logistics,debit card,successful,0,0.8922483601230108
+2024-10-25 00:16:28,3,male,madhya pradesh,bhopal,31,books,467.44,3.2,2.0,4.0,ezyshop solutions,wallet,successful,1,0.8921883219812222
+2024-06-25 11:27:55,6,female,maharashtra,mumbai,26,fashion,499.97,4.4,1.0,1.0,swiftdeal suppliers,upi,successful,0,0.8913095698914477
+2024-06-30 22:44:26,2,male,uttar pradesh,lucknow,35,electronics,488.82,3.6,5.0,1.0,shopease suppliers,debit card,successful,1,0.8906985549503467
+2023-12-23 00:18:52,1,male,uttar pradesh,ghaziabad,30,books,472.93,4.2,4.0,4.0,directcart distributors,upi,successful,0,0.8903902312869973
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,2.0,trendmart inc.,upi,successful,1,0.8900933526374822
+2023-12-23 00:18:52,1,male,uttar pradesh,ghaziabad,30,books,472.93,4.2,4.0,4.0,directcart distributors,wallet,successful,0,0.8898780291424517
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,2.0,trendmart inc.,wallet,successful,1,0.8895799352343403
+2023-10-04 09:24:09,3,male,bihar,patna,20,fashion,470.47,3.2,0.0,0.0,digicart distributors,debit card,successful,0,0.8894308650583207
+2024-12-03 06:33:43,1,male,rajasthan,jaipur,18,electronics,448.43,4.2,1.0,5.0,quickbasket co.,wallet,successful,0,0.8894132192695567
+2024-06-18 01:44:35,3,male,karnataka,bengaluru,34,books,495.65,3.5,0.0,0.0,globalreach traders,upi,successful,0,0.8892490661006979
+2023-12-23 00:18:52,1,male,uttar pradesh,ghaziabad,30,books,472.93,4.2,4.0,4.0,directcart distributors,debit card,successful,0,0.8890758115094333
+2023-04-27 19:28:48,8,male,maharashtra,nagpur,33,fashion,485.81,4.9,2.0,2.0,trendmart inc.,debit card,successful,1,0.8887758174627314
+2024-12-03 06:33:43,1,male,rajasthan,jaipur,18,electronics,448.43,4.2,1.0,5.0,quickbasket co.,debit card,successful,0,0.8886080394395688
+2023-08-07 09:43:20,7,female,karnataka,bengaluru,20,electronics,495.96,3.3,1.0,1.0,zoomkart distributors,net banking,successful,0,0.8885578138451399
+2024-12-12 12:58:20,8,female,andhra pradesh,visakhapatnam,22,home appliance,496.91,3.5,0.0,0.0,shopease suppliers,net banking,successful,0,0.8876168750156271
+2024-06-06 20:12:53,3,female,andhra pradesh,visakhapatnam,27,fashion,483.74,4.2,0.0,0.0,zoomkart distributors,credit card,successful,0,0.8876122636933415
+2023-06-08 23:29:13,4,female,delhi,delhi,28,home appliance,478.13,4.8,2.0,4.0,global ecom supplies,credit card,successful,0,0.8865577795889716
+2023-07-25 22:05:59,7,female,uttar pradesh,lucknow,27,books,496.97,3.3,0.0,0.0,digicart distributors,credit card,successful,0,0.8857042072328637
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,1.0,1.0,clickmart partners,upi,successful,0,0.8853810228638664
+2024-06-12 09:18:01,1,female,maharashtra,mumbai,25,fitness,458.62,4.4,5.0,2.0,trendify traders,upi,successful,0,0.884264034762439
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,1.0,1.0,clickmart partners,debit card,successful,0,0.884014358480378
+2023-11-21 02:28:53,1,female,maharashtra,thane,21,electronics,458.74,4.2,1.0,1.0,clickmart partners,debit card,successful,0,0.884014358480378
+2023-04-27 13:26:26,4,male,maharashtra,pune,25,fashion,468.49,4.2,0.0,0.0,cartcraze ventures,wallet,successful,0,0.883908048522958
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,4.0,5.0,globalreach traders,net banking,successful,1,0.882855121666696
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,4.0,5.0,globalreach traders,net banking,successful,1,0.882855121666696
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,credit card,successful,0,0.8825044789908227
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,credit card,successful,0,0.8825044789908227
+2024-10-25 00:16:28,3,male,madhya pradesh,bhopal,31,books,467.44,3.2,5.0,1.0,ezyshop solutions,wallet,successful,1,0.8819452645437611
+2024-11-23 17:24:15,5,male,maharashtra,mumbai,18,books,453.34,3.8,3.0,2.0,buynow direct,upi,successful,0,0.8809402512992018
+2023-06-09 02:09:19,8,male,gujarat,surat,34,fitness,495.09,0.0,4.0,5.0,elite ecom ventures,credit card,successful,0,0.8799415950534768
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,wallet,successful,0,0.8799023348603934
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,wallet,successful,0,0.8799023348603934
+2023-09-15 16:23:11,7,female,uttar pradesh,kanpur,25,fashion,480.21,3.5,0.0,0.0,globalreach traders,wallet,successful,1,0.8778486124263941
+2024-12-15 18:09:17,7,male,maharashtra,nagpur,27,fitness,474.24,4.5,1.0,4.0,swiftdeal suppliers,net banking,successful,0,0.8757219450482525
+2023-12-31 22:35:18,1,female,maharashtra,pune,18,books,444.8,4.6,0.0,0.0,buynow direct,debit card,successful,0,0.8756689035002617
+2024-02-19 06:39:52,8,female,uttar pradesh,lucknow,29,home appliance,496.57,4.8,2.0,2.0,directcart distributors,wallet,successful,0,0.8751047083077531
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,5.0,ezyshop solutions,debit card,successful,0,0.8750632560476004
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,5.0,ezyshop solutions,debit card,successful,0,0.8750632560476004
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,net banking,successful,0,0.8748482292326406
+2023-06-20 06:47:38,9,male,west bengal,kolkata,18,fitness,465.26,3.7,2.0,5.0,nextwave merchants,net banking,successful,0,0.8748482292326406
+2024-11-05 12:02:10,4,female,madhya pradesh,indore,33,fitness,467.77,0.0,4.0,3.0,nextwave merchants,wallet,successful,1,0.8743559027689867
+2024-09-17 17:47:47,1,female,andhra pradesh,visakhapatnam,35,fitness,466.59,4.3,1.0,5.0,ecomgenix suppliers,net banking,successful,0,0.8739936557373821
+2023-01-05 19:54:10,3,female,maharashtra,mumbai,42,fashion,475.82,4.6,3.0,5.0,directcart distributors,credit card,successful,1,0.8734605851001311
+2023-01-05 19:54:10,3,female,maharashtra,mumbai,42,fashion,475.82,4.6,3.0,5.0,directcart distributors,credit card,successful,1,0.8734605851001311
+2023-07-12 21:35:54,2,female,bihar,patna,35,fitness,464.8,4.3,4.0,2.0,directcart distributors,wallet,successful,1,0.8734122926089439
+2023-06-09 02:09:19,8,male,gujarat,surat,34,fitness,495.09,0.0,5.0,3.0,elite ecom ventures,credit card,successful,0,0.8722098921945378
+2024-07-20 16:32:18,1,male,maharashtra,mumbai,28,electronics,454.31,4.6,3.0,5.0,pack&go logistics,upi,successful,0,0.870385508849865
+2024-08-10 05:24:31,8,female,tamil nadu,chennai,24,fashion,497.96,0.0,0.0,0.0,globalreach traders,wallet,successful,0,0.870289270676638
+2024-11-05 12:02:10,4,female,madhya pradesh,indore,33,fitness,467.77,0.0,4.0,2.0,nextwave merchants,wallet,successful,1,0.8702195305917864
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,4.0,3.0,quickbasket co.,debit card,successful,0,0.870143078302377
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,4.0,3.0,quickbasket co.,debit card,successful,0,0.870143078302377
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,1.0,2.0,globalreach traders,net banking,successful,1,0.8698078749788407
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,1.0,2.0,globalreach traders,net banking,successful,1,0.8698078749788407
+2023-10-13 14:41:33,1,female,bihar,patna,37,fashion,491.58,3.9,4.0,1.0,buynow direct,debit card,successful,0,0.8681320888102559
+2023-06-11 13:46:03,8,female,andhra pradesh,visakhapatnam,25,electronics,463.1,3.5,2.0,5.0,elite ecom ventures,debit card,successful,1,0.8678492812305869
+2023-06-09 02:09:19,8,male,gujarat,surat,34,fitness,495.09,0.0,4.0,2.0,elite ecom ventures,credit card,successful,0,0.867666033432055
+2024-10-01 13:27:15,7,female,karnataka,bengaluru,20,books,479.68,3.1,0.0,0.0,instaretail hub,wallet,successful,0,0.8668188018598862
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,3.0,ezyshop solutions,debit card,successful,0,0.866715235927943
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,3.0,ezyshop solutions,debit card,successful,0,0.866715235927943
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,4.0,1.0,globalreach traders,net banking,successful,1,0.8665990942624947
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,4.0,1.0,globalreach traders,net banking,successful,1,0.8665990942624947
+2024-07-20 16:32:18,1,male,maharashtra,mumbai,28,electronics,454.31,4.6,4.0,4.0,pack&go logistics,upi,successful,0,0.8664893333638654
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,3.0,1.0,globalreach traders,net banking,successful,1,0.8662484422851321
+2023-05-17 21:33:13,7,male,maharashtra,nagpur,31,fashion,462.76,4.7,3.0,1.0,globalreach traders,net banking,successful,1,0.8662484422851321
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,5.0,2.0,quickbasket co.,debit card,successful,0,0.8662407353352612
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,5.0,2.0,quickbasket co.,debit card,successful,0,0.8662407353352612
+2024-02-09 09:09:19,8,male,delhi,delhi,25,electronics,463.8,0.0,4.0,2.0,elite ecom ventures,debit card,successful,1,0.865921571907036
+2024-07-20 16:32:18,1,male,maharashtra,mumbai,28,electronics,454.31,4.6,2.0,4.0,pack&go logistics,upi,successful,0,0.865786762129764
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,4.0,3.0,quickbasket co.,net banking,successful,0,0.8656930255725
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,4.0,3.0,quickbasket co.,net banking,successful,0,0.8656930255725
+2023-09-17 03:47:17,4,male,madhya pradesh,bhopal,22,fashion,454.1,3.5,0.0,0.0,cartcraze ventures,upi,successful,0,0.8655914694083153
+2023-09-03 19:22:47,1,female,andhra pradesh,visakhapatnam,19,books,435.53,3.2,1.0,3.0,primelogix traders,wallet,successful,0,0.8655399877980859
+2024-09-12 09:41:02,1,male,maharashtra,mumbai,28,home appliance,464.97,3.2,0.0,0.0,ecomedge retail,credit card,successful,0,0.8652409918190288
+2024-09-12 09:41:02,1,male,maharashtra,mumbai,28,home appliance,464.97,3.2,0.0,0.0,ecomedge retail,credit card,successful,0,0.8652409918190288
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,3.0,3.0,smartkart wholesale,credit card,successful,0,0.8638193558566646
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,2.0,3.0,smartkart wholesale,credit card,successful,0,0.8634625483877166
+2023-06-09 02:09:19,8,male,gujarat,surat,34,fitness,495.09,0.0,4.0,1.0,elite ecom ventures,credit card,successful,0,0.8633438437853853
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,2.0,ezyshop solutions,debit card,successful,0,0.8623669180273298
+2023-11-22 08:35:40,6,female,maharashtra,nagpur,36,books,495.69,4.1,5.0,2.0,ezyshop solutions,debit card,successful,0,0.8623669180273298
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,5.0,2.0,quickbasket co.,net banking,successful,0,0.8616782117859701
+2024-10-08 10:44:49,5,female,maharashtra,pune,35,electronics,499.19,4.3,5.0,2.0,quickbasket co.,net banking,successful,0,0.8616782117859701
+2024-07-20 16:32:18,1,male,maharashtra,mumbai,28,electronics,454.31,4.6,2.0,3.0,pack&go logistics,upi,successful,0,0.8614129969196451
+2023-09-22 22:56:46,5,male,madhya pradesh,bhopal,36,home appliance,491.79,4.9,0.0,0.0,cartcraze ventures,debit card,successful,0,0.8608436837982034
+2023-09-27 02:48:31,4,female,rajasthan,jaipur,23,electronics,463.02,4.8,0.0,0.0,primelogix traders,credit card,successful,1,0.8603011141076939
+2024-08-06 16:17:00,2,female,maharashtra,pune,21,books,446.91,4.2,0.0,0.0,buynow direct,upi,successful,0,0.8600892589641109
+2023-07-05 18:52:07,5,female,maharashtra,thane,43,home appliance,493.3,3.1,4.0,5.0,shopease suppliers,upi,successful,0,0.8600750892083943
+2024-06-27 12:01:15,6,male,uttar pradesh,kanpur,33,electronics,494.35,3.4,3.0,4.0,metroshop suppliers,wallet,successful,0,0.8600468549374441
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,3.0,3.0,smartkart wholesale,0,successful,0,0.8598198441174714
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,4.0,2.0,smartkart wholesale,credit card,successful,0,0.8597576063135306
+2024-10-06 17:38:08,5,male,tamil nadu,chennai,25,fashion,472.33,3.6,4.0,4.0,quickbasket co.,net banking,successful,1,0.8596442005236267
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,2.0,3.0,smartkart wholesale,0,successful,0,0.8594542624951496
+2024-11-17 23:34:29,3,male,tamil nadu,chennai,26,fitness,462.65,4.7,1.0,5.0,primelogix traders,upi,successful,0,0.8589895996393199
+2024-11-08 16:55:22,7,male,maharashtra,nagpur,22,home appliance,432.91,4.2,3.0,5.0,elite ecom ventures,debit card,successful,1,0.8587369960657458
+2024-11-03 22:30:58,4,female,gujarat,ahmedabad,37,home appliance,495.57,0.0,0.0,0.0,quickpick wholesalers,upi,successful,0,0.8581038221677515
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,5.0,5.0,elite ecom ventures,debit card,successful,0,0.857708277780231
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,4.0,5.0,elite ecom ventures,debit card,successful,0,0.8573381030156328
+2024-12-04 21:44:30,9,female,west bengal,kolkata,18,fashion,468.37,3.5,2.0,3.0,omnisupply network,wallet,successful,0,0.8571059390088693
+2023-09-22 22:56:46,5,male,madhya pradesh,bhopal,36,home appliance,491.79,4.9,0.0,0.0,cartcraze ventures,net banking,successful,0,0.8561276427326981
+2024-12-02 21:32:24,1,female,uttar pradesh,lucknow,40,fitness,477.84,3.2,0.0,0.0,directcart distributors,upi,successful,0,0.8558126888748416
+2023-01-05 19:54:10,3,female,maharashtra,mumbai,42,fashion,475.82,4.6,2.0,1.0,directcart distributors,credit card,successful,1,0.8557397351174798
+2023-01-05 19:54:10,3,female,maharashtra,mumbai,42,fashion,475.82,4.6,2.0,1.0,directcart distributors,credit card,successful,1,0.8557397351174798
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,4.0,2.0,smartkart wholesale,0,successful,0,0.8556587373670643
+2023-06-11 13:46:03,8,female,andhra pradesh,visakhapatnam,25,electronics,463.1,3.5,4.0,2.0,elite ecom ventures,debit card,successful,1,0.8552933014964386
+2024-09-01 01:39:42,2,male,uttar pradesh,lucknow,40,fashion,498.0,4.4,0.0,0.0,ezyshop solutions,wallet,successful,0,0.8536676041938197
+2023-11-10 15:44:42,5,male,maharashtra,thane,30,home appliance,461.98,4.2,4.0,4.0,shopease suppliers,net banking,successful,0,0.8536197119687745
+2024-11-08 16:55:22,7,male,maharashtra,nagpur,22,home appliance,432.91,4.2,1.0,4.0,elite ecom ventures,debit card,successful,1,0.8534157650702963
+2024-05-20 01:19:16,3,male,andhra pradesh,visakhapatnam,36,home appliance,479.57,4.9,2.0,5.0,omnisupply network,net banking,successful,0,0.852893348651491
+2024-09-01 01:39:42,2,male,uttar pradesh,lucknow,40,fashion,498.0,4.4,0.0,0.0,ezyshop solutions,debit card,successful,0,0.8526452807756439
+2024-11-17 23:34:29,3,male,tamil nadu,chennai,26,fitness,462.65,4.7,1.0,5.0,primelogix traders,net banking,successful,0,0.8525450427722526
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,3.0,4.0,elite ecom ventures,debit card,successful,0,0.8523549585574428
+2023-04-01 18:39:32,1,male,karnataka,bengaluru,32,fashion,466.48,4.2,5.0,3.0,smartshop network,upi,successful,0,0.851899863435293
+2024-04-16 13:10:55,3,female,madhya pradesh,indore,22,electronics,453.83,4.2,5.0,5.0,instaretail hub,upi,successful,0,0.8515575476376696
+2023-04-26 02:13:36,5,male,maharashtra,nagpur,18,electronics,436.83,5.0,3.0,5.0,ezyshop solutions,wallet,successful,0,0.8514550436341779
+2024-09-10 12:31:13,3,female,tamil nadu,chennai,22,fitness,455.5,3.8,0.0,0.0,cartcraze ventures,credit card,successful,0,0.8513352081094047
+2024-06-09 08:58:23,3,female,maharashtra,nagpur,28,home appliance,445.13,3.2,4.0,4.0,pack&go logistics,debit card,successful,0,0.8505960719823723
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,4.0,0.0,smartkart wholesale,credit card,successful,0,0.8505615434490599
+2024-01-27 13:01:23,4,female,andhra pradesh,visakhapatnam,31,fashion,480.86,4.4,0.0,0.0,buynow direct,upi,successful,0,0.8502687543470133
+2023-06-11 13:46:03,8,female,andhra pradesh,visakhapatnam,25,electronics,463.1,3.5,3.0,1.0,elite ecom ventures,debit card,successful,1,0.8502512081281326
+2024-04-16 13:10:55,3,female,madhya pradesh,indore,22,electronics,453.83,4.2,5.0,5.0,instaretail hub,debit card,successful,0,0.8498559789556329
+2024-09-10 12:31:13,3,female,tamil nadu,chennai,22,fitness,455.5,3.8,0.0,0.0,cartcraze ventures,upi,successful,0,0.8488348087264408
+2023-09-03 03:02:30,5,female,maharashtra,thane,18,fashion,452.06,4.8,0.0,0.0,smartkart wholesale,upi,successful,0,0.8487379705068164
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,5.0,3.0,elite ecom ventures,debit card,successful,0,0.8484015298472268
+2024-08-15 18:56:51,8,female,karnataka,bengaluru,28,home appliance,497.9,3.9,0.0,0.0,clickmart partners,net banking,successful,0,0.8481960277166979
+2023-04-21 05:55:41,3,female,bihar,patna,27,home appliance,435.53,0.0,4.0,4.0,urbanmarket co.,wallet,successful,1,0.8481403057776383
+2023-04-11 15:36:00,5,male,rajasthan,jaipur,39,home appliance,493.63,3.3,4.0,2.0,quickpick wholesalers,net banking,successful,0,0.8477043102039435
+2023-12-30 11:34:20,2,male,maharashtra,thane,35,fitness,457.84,3.8,4.0,1.0,fastlane wholesale,wallet,successful,0,0.8475823651490869
+2023-12-30 11:34:20,2,male,maharashtra,thane,35,fitness,457.84,3.8,4.0,1.0,fastlane wholesale,wallet,successful,0,0.8475823651490869
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,2.0,3.0,elite ecom ventures,debit card,successful,0,0.8472287702941138
+2024-07-02 06:58:42,1,male,gujarat,surat,46,electronics,494.35,4.2,2.0,1.0,metroshop suppliers,debit card,successful,1,0.8470115622441713
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,1.0,3.0,elite ecom ventures,debit card,successful,0,0.8468362012621067
+2023-05-22 19:40:25,3,female,gujarat,vadodara,43,electronics,488.25,4.0,2.0,4.0,shopease suppliers,wallet,successful,1,0.8462715486497919
+2023-05-22 19:40:25,3,female,gujarat,vadodara,43,electronics,488.25,4.0,2.0,4.0,shopease suppliers,wallet,successful,1,0.8462715486497919
+2024-08-06 05:25:31,4,male,rajasthan,jaipur,27,fashion,481.2,3.2,4.0,0.0,smartkart wholesale,0,successful,0,0.8462419680344828
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,2.0,3.0,metroshop suppliers,credit card,successful,0,0.8457526020337144
+2023-04-01 18:39:32,1,male,karnataka,bengaluru,32,fashion,466.48,4.2,1.0,2.0,smartshop network,upi,successful,0,0.8455775726771457
+2024-11-17 23:34:29,3,male,tamil nadu,chennai,26,fitness,462.65,4.7,1.0,2.0,primelogix traders,upi,successful,0,0.8449492483258777
+2024-06-09 08:58:23,3,female,maharashtra,nagpur,28,home appliance,445.13,3.2,1.0,3.0,pack&go logistics,debit card,successful,0,0.8446263273206225
+2024-12-27 00:35:08,8,female,andhra pradesh,visakhapatnam,31,fitness,467.72,4.2,4.0,5.0,ecomedge retail,upi,successful,1,0.8434383902072914
+2024-09-01 09:39:26,8,male,telangana,hyderabad,20,electronics,473.43,3.9,3.0,2.0,omnisupply network,net banking,successful,0,0.8430037386154485
+2024-10-26 00:16:28,9,male,maharashtra,pune,19,fashion,465.81,3.6,0.0,0.0,omnisupply network,net banking,successful,0,0.8429958426971327
+2023-10-26 19:25:39,5,male,telangana,hyderabad,40,books,495.66,3.3,3.0,2.0,elite ecom ventures,debit card,successful,0,0.842762259552662
+2024-07-02 06:58:42,1,male,gujarat,surat,46,electronics,494.35,4.2,2.0,1.0,metroshop suppliers,net banking,successful,1,0.8419128338905547
+2023-11-06 07:13:38,5,male,west bengal,kolkata,40,fashion,484.62,4.9,5.0,5.0,pack&go logistics,net banking,successful,0,0.841884850390525
+2024-03-13 15:00:36,5,female,madhya pradesh,indore,30,fitness,443.53,0.0,2.0,4.0,fastlane wholesale,wallet,successful,1,0.8417874402411956
+2024-12-28 20:32:53,3,female,maharashtra,nagpur,28,electronics,453.73,3.0,0.0,0.0,primelogix traders,wallet,successful,1,0.8414733699560123
+2024-08-23 18:13:42,8,male,karnataka,bengaluru,26,fashion,485.94,3.6,0.0,0.0,ecomedge retail,wallet,successful,0,0.8413500206596078
+2024-11-15 21:58:49,4,female,andhra pradesh,visakhapatnam,25,fitness,446.41,3.8,4.0,1.0,urbanmarket co.,credit card,successful,0,0.8407872709053265
+2024-11-23 15:21:49,4,female,gujarat,ahmedabad,41,fitness,492.86,4.9,0.0,0.0,smartshop network,net banking,successful,1,0.8407349776758712
+2024-08-23 18:13:42,8,male,karnataka,bengaluru,26,fashion,485.94,3.6,0.0,0.0,ecomedge retail,debit card,successful,0,0.8402577456990695
+2023-01-31 19:12:48,10,male,uttar pradesh,lucknow,31,books,495.93,3.8,5.0,2.0,trendify traders,wallet,successful,0,0.8401543497057207
+2023-01-31 19:12:48,10,male,uttar pradesh,lucknow,31,books,495.93,3.8,5.0,2.0,trendify traders,debit card,successful,0,0.8390554174976774
+2023-04-29 04:43:55,2,female,uttar pradesh,lucknow,33,electronics,458.7,4.8,5.0,5.0,metroshop suppliers,credit card,successful,1,0.8390392464968324
+2024-11-08 16:55:22,7,male,maharashtra,nagpur,22,home appliance,432.91,4.2,1.0,1.0,elite ecom ventures,debit card,successful,1,0.8389244984589852
+2023-04-19 20:16:42,3,male,madhya pradesh,indore,37,fashion,470.9,4.2,0.0,0.0,directcart distributors,credit card,successful,0,0.8388457152992953
+2023-04-21 05:55:41,3,female,bihar,patna,27,home appliance,435.53,0.0,4.0,2.0,urbanmarket co.,wallet,successful,1,0.838325715324426
+2024-08-09 03:13:24,1,male,uttar pradesh,lucknow,44,fashion,496.56,4.8,2.0,3.0,metroshop suppliers,net banking,successful,0,0.8381142388313616
+2024-08-09 03:13:24,1,male,uttar pradesh,lucknow,44,fashion,496.56,4.8,2.0,3.0,metroshop suppliers,net banking,successful,0,0.8381142388313616
+2024-08-09 03:13:24,1,male,uttar pradesh,lucknow,44,fashion,496.56,4.8,2.0,3.0,metroshop suppliers,net banking,successful,0,0.8381142388313616
+2024-08-09 03:13:24,1,male,uttar pradesh,lucknow,44,fashion,496.56,4.8,2.0,3.0,metroshop suppliers,net banking,successful,0,0.8381142388313616
+2024-11-17 23:34:29,3,male,tamil nadu,chennai,26,fitness,462.65,4.7,1.0,2.0,primelogix traders,net banking,successful,0,0.8379840385060646
+2024-09-01 09:39:26,8,male,telangana,hyderabad,20,electronics,473.43,3.9,2.0,1.0,omnisupply network,net banking,successful,0,0.8376147333363324
+2023-04-26 02:13:36,5,male,maharashtra,nagpur,18,electronics,436.83,5.0,4.0,2.0,ezyshop solutions,wallet,successful,0,0.8372203401826313
+2024-10-29 11:46:57,9,female,maharashtra,pune,33,electronics,495.45,3.6,0.0,0.0,directcart distributors,net banking,successful,0,0.8369692163377663
+2024-03-13 15:00:36,5,female,madhya pradesh,indore,30,fitness,443.53,0.0,2.0,3.0,fastlane wholesale,wallet,successful,1,0.8367790237837756
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,4.0,1.0,metroshop suppliers,credit card,successful,0,0.8366434377875928
+2023-03-08 04:55:20,2,female,uttar pradesh,lucknow,33,fitness,467.91,3.6,0.0,0.0,omnisupply network,credit card,successful,0,0.836579781923407
+2024-05-15 00:55:44,5,male,tamil nadu,chennai,32,fashion,482.11,3.1,3.0,4.0,nextwave merchants,upi,successful,0,0.8362873979767242
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,3.0,1.0,metroshop suppliers,credit card,successful,0,0.8362289260634138
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,2.0,3.0,metroshop suppliers,net banking,successful,0,0.836146169983507
+2024-05-15 00:55:44,5,male,tamil nadu,chennai,32,fashion,482.11,3.1,3.0,4.0,nextwave merchants,wallet,successful,0,0.8355690644931268
+2024-03-13 15:00:36,5,female,madhya pradesh,indore,30,fitness,443.53,0.0,2.0,4.0,fastlane wholesale,net banking,successful,1,0.83542933501942
+2024-07-12 05:30:29,2,female,delhi,delhi,44,electronics,494.67,4.2,3.0,4.0,smartkart wholesale,upi,successful,0,0.8354070173063318
+2024-04-18 01:04:56,8,male,maharashtra,pune,21,electronics,468.4,4.8,2.0,1.0,instaretail hub,debit card,successful,0,0.8352369847885738
+2024-07-06 18:45:54,10,male,maharashtra,pune,22,fitness,462.16,3.2,0.0,0.0,urbancart traders,credit card,successful,0,0.8352073324160482
+2024-08-23 18:13:42,8,male,karnataka,bengaluru,26,fashion,485.94,3.6,0.0,0.0,ecomedge retail,net banking,successful,0,0.834977782886666
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,5.0,5.0,elite ecom ventures,upi,successful,1,0.8345849246425501
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,5.0,5.0,elite ecom ventures,upi,successful,1,0.8345849246425501
+2023-04-21 05:55:41,3,female,bihar,patna,27,home appliance,435.53,0.0,3.0,1.0,urbanmarket co.,wallet,successful,1,0.8328079806005049
+2023-04-26 02:13:36,5,male,maharashtra,nagpur,18,electronics,436.83,5.0,5.0,1.0,ezyshop solutions,wallet,successful,0,0.832519060898216
+2023-12-19 08:59:53,8,male,andhra pradesh,visakhapatnam,31,books,482.82,4.1,3.0,2.0,global ecom supplies,credit card,successful,0,0.8321675933737112
+2023-11-06 07:13:38,5,male,west bengal,kolkata,40,fashion,484.62,4.9,3.0,3.0,pack&go logistics,net banking,successful,0,0.8308964571972557
+2024-07-06 18:45:54,10,male,maharashtra,pune,22,fitness,462.16,3.2,0.0,0.0,urbancart traders,debit card,successful,0,0.8306123817588386
+2024-03-13 15:00:36,5,female,madhya pradesh,indore,30,fitness,443.53,0.0,2.0,3.0,fastlane wholesale,net banking,successful,1,0.8302602300511768
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,credit card,successful,1,0.8298774984909798
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,credit card,successful,1,0.8298774984909798
+2024-04-18 01:04:56,8,male,maharashtra,pune,21,electronics,468.4,4.8,2.0,1.0,instaretail hub,net banking,successful,0,0.829824680401149
+2023-12-26 10:43:16,5,female,uttar pradesh,kanpur,47,home appliance,499.91,3.1,5.0,1.0,quickbasket co.,net banking,successful,1,0.8295112220935473
+2024-05-15 00:55:44,5,male,tamil nadu,chennai,32,fashion,482.11,3.1,3.0,4.0,nextwave merchants,net banking,successful,0,0.829011821405306
+2024-06-28 19:17:12,10,male,uttar pradesh,ghaziabad,23,fitness,465.26,4.8,3.0,5.0,nextwave merchants,wallet,successful,0,0.8287981178660396
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,upi,successful,1,0.8270895012267517
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,upi,successful,1,0.8270895012267517
+2023-05-16 23:09:22,3,female,maharashtra,nagpur,46,fitness,469.15,4.3,3.0,4.0,ecomgenix suppliers,upi,successful,0,0.8269160470548482
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,4.0,1.0,metroshop suppliers,net banking,successful,0,0.8265860151109473
+2024-01-30 23:45:06,6,male,tamil nadu,chennai,28,home appliance,480.96,4.8,3.0,3.0,smartshop network,net banking,successful,0,0.8265607904853388
+2023-03-08 04:55:20,2,female,uttar pradesh,lucknow,33,fitness,467.91,3.6,0.0,0.0,omnisupply network,net banking,successful,0,0.8265192527692689
+2023-03-08 04:55:20,2,female,uttar pradesh,lucknow,33,fitness,467.91,3.6,0.0,0.0,omnisupply network,net banking,successful,0,0.8265192527692689
+2023-12-19 08:59:53,8,male,andhra pradesh,visakhapatnam,31,books,482.82,4.1,2.0,1.0,global ecom supplies,credit card,successful,0,0.8264831906610416
+2023-09-09 16:59:24,8,female,uttar pradesh,kanpur,30,books,491.29,4.6,3.0,1.0,metroshop suppliers,net banking,successful,0,0.8261512859744001
+2023-12-19 08:59:53,8,male,andhra pradesh,visakhapatnam,31,books,482.82,4.1,1.0,1.0,global ecom supplies,credit card,successful,0,0.8260482580017973
+2024-07-12 05:30:29,2,female,delhi,delhi,44,electronics,494.67,4.2,4.0,2.0,smartkart wholesale,upi,successful,0,0.8253764620891734
+2024-04-22 00:53:21,8,male,maharashtra,pune,22,electronics,447.41,4.9,5.0,5.0,fastlane wholesale,wallet,successful,0,0.8253317881906812
+2023-11-07 15:56:21,7,female,gujarat,vadodara,21,books,454.29,3.5,1.0,4.0,quickpick wholesalers,net banking,successful,0,0.8252172274098123
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,debit card,successful,1,0.8251650442141402
+2024-02-15 07:04:20,4,female,gujarat,ahmedabad,32,books,445.95,3.1,0.0,0.0,cartcraze ventures,debit card,successful,1,0.8251650442141402
+2024-11-06 13:47:03,2,female,madhya pradesh,bhopal,46,home appliance,483.0,3.5,1.0,4.0,urbanmarket co.,net banking,successful,0,0.8234379227259547
+2023-05-02 17:38:35,2,female,rajasthan,jaipur,23,fitness,422.04,3.4,4.0,3.0,cartcraze ventures,net banking,successful,0,0.8233965792328355
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,3.0,3.0,elite ecom ventures,upi,successful,1,0.8231957563407927
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,3.0,3.0,elite ecom ventures,upi,successful,1,0.8231957563407927
+2024-07-08 23:16:04,4,male,uttar pradesh,lucknow,40,books,485.74,4.9,0.0,0.0,urbanmarket co.,0,successful,0,0.8229751877740167
+2024-10-12 15:42:25,10,male,madhya pradesh,bhopal,32,home appliance,483.86,4.2,0.0,0.0,pack&go logistics,upi,successful,0,0.8227678594024328
+2024-06-06 20:52:50,5,male,uttar pradesh,lucknow,40,fashion,465.08,3.4,4.0,4.0,quickpick wholesalers,upi,successful,1,0.822320209925639
+2024-12-02 12:01:50,2,male,telangana,hyderabad,20,fashion,416.65,0.0,1.0,2.0,shopease suppliers,net banking,successful,1,0.8221924810678196
+2024-06-06 20:52:50,5,male,uttar pradesh,lucknow,40,fashion,465.08,3.4,4.0,4.0,quickpick wholesalers,wallet,successful,1,0.8215536685203605
+2024-06-06 20:52:50,5,male,uttar pradesh,lucknow,40,fashion,465.08,3.4,4.0,4.0,quickpick wholesalers,wallet,successful,1,0.8215536685203605
+2023-07-18 16:33:24,10,male,delhi,delhi,33,fashion,483.84,4.7,1.0,4.0,trendmart inc.,wallet,successful,0,0.8215212024870877
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,4.0,5.0,pack&go logistics,credit card,successful,0,0.8212487029860015
+2024-12-23 09:12:07,1,female,gujarat,ahmedabad,35,electronics,471.0,3.4,4.0,1.0,fastlane wholesale,net banking,successful,0,0.8211246159356823
+2023-07-18 16:33:24,10,male,delhi,delhi,33,fashion,483.84,4.7,1.0,4.0,trendmart inc.,debit card,successful,0,0.8203215645450618
+2024-07-12 05:30:29,2,female,delhi,delhi,44,electronics,494.67,4.2,3.0,1.0,smartkart wholesale,upi,successful,0,0.8195119341994603
+2024-11-06 13:47:03,2,female,madhya pradesh,bhopal,46,home appliance,483.0,3.5,4.0,3.0,urbanmarket co.,net banking,successful,0,0.8193236788759939
+2024-07-23 02:05:20,1,female,andhra pradesh,visakhapatnam,45,books,453.8,3.9,5.0,5.0,nextgen wholesalers,credit card,successful,1,0.8188790377135551
+2024-07-23 02:05:20,1,female,andhra pradesh,visakhapatnam,45,books,453.8,3.9,4.0,5.0,nextgen wholesalers,credit card,successful,1,0.8184292320731403
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,4.0,5.0,pack&go logistics,upi,successful,0,0.8183502484308449
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,5.0,quickbasket co.,credit card,successful,1,0.8183016176315135
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,5.0,quickbasket co.,credit card,successful,1,0.8183016176315135
+2023-02-28 00:47:54,5,female,rajasthan,jaipur,25,electronics,447.96,3.6,4.0,4.0,shopease suppliers,upi,successful,1,0.8182288122618121
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,3.0,3.0,swiftdeal suppliers,wallet,successful,1,0.8181523956992599
+2024-11-07 18:17:22,6,female,rajasthan,jaipur,40,fashion,492.64,3.7,1.0,4.0,nextwave merchants,0,successful,0,0.8181425257006851
+2024-11-25 09:08:03,5,female,west bengal,kolkata,43,fashion,497.7,4.8,4.0,2.0,instaretail hub,credit card,successful,0,0.8178283250577681
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,2.0,3.0,swiftdeal suppliers,wallet,successful,1,0.8177011872125981
+2023-09-25 18:20:14,3,female,telangana,hyderabad,21,home appliance,436.54,3.4,0.0,0.0,digicart distributors,debit card,successful,0,0.8171148675611322
+2024-06-28 19:17:12,10,male,uttar pradesh,ghaziabad,23,fitness,465.26,4.8,1.0,3.0,nextwave merchants,wallet,successful,0,0.8170978340986507
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,3.0,3.0,swiftdeal suppliers,debit card,successful,1,0.8169351602112714
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,2.0,3.0,swiftdeal suppliers,debit card,successful,1,0.8164816089343309
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,4.0,5.0,pack&go logistics,0,successful,0,0.8162648591061624
+2023-07-18 16:33:24,10,male,delhi,delhi,33,fashion,483.84,4.7,1.0,3.0,trendmart inc.,wallet,successful,0,0.8160114564738028
+2023-08-01 06:47:01,1,female,gujarat,ahmedabad,20,electronics,428.67,3.5,2.0,3.0,smartshop network,upi,successful,0,0.8157083731912136
+2023-08-01 06:47:01,1,female,gujarat,ahmedabad,20,electronics,428.67,3.5,2.0,3.0,smartshop network,upi,successful,0,0.8157083731912136
+2024-11-25 09:08:03,5,female,west bengal,kolkata,43,fashion,497.7,4.8,4.0,2.0,instaretail hub,upi,successful,0,0.8148869102919782
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,2.0,4.0,pack&go logistics,credit card,successful,0,0.814819845281858
+2023-07-18 16:33:24,10,male,delhi,delhi,33,fashion,483.84,4.7,1.0,3.0,trendmart inc.,debit card,successful,0,0.8147831344304514
+2023-11-07 15:56:21,7,female,gujarat,vadodara,21,books,454.29,3.5,2.0,2.0,quickpick wholesalers,net banking,successful,0,0.8147034265898525
+2024-12-28 08:42:36,7,male,uttar pradesh,lucknow,26,electronics,446.34,4.1,5.0,5.0,globalreach traders,upi,successful,1,0.8138925355932224
+2024-12-28 08:42:36,7,male,uttar pradesh,lucknow,26,electronics,446.34,4.1,5.0,5.0,globalreach traders,upi,successful,1,0.8138925355932224
+2023-02-28 09:43:35,5,female,gujarat,ahmedabad,35,fashion,485.74,3.8,0.0,0.0,smartkart wholesale,credit card,successful,0,0.8133126407253912
+2023-04-10 02:25:17,6,female,telangana,hyderabad,37,electronics,489.8,4.5,0.0,0.0,cartcraze ventures,wallet,successful,0,0.8132341325221504
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,1.0,5.0,elite ecom ventures,wallet,successful,1,0.8126038341702898
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,1.0,5.0,elite ecom ventures,wallet,successful,1,0.8126038341702898
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,2.0,4.0,pack&go logistics,upi,successful,0,0.8118410304023358
+2023-11-26 14:15:27,9,female,maharashtra,pune,31,home appliance,471.24,4.6,0.0,0.0,shopease suppliers,wallet,successful,1,0.8117539777487078
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,2.0,1.0,elite ecom ventures,upi,successful,1,0.8116634089126114
+2023-07-25 05:32:26,4,female,rajasthan,jaipur,19,home appliance,409.42,3.7,2.0,1.0,elite ecom ventures,upi,successful,1,0.8116634089126114
+2023-09-24 00:51:33,8,female,madhya pradesh,bhopal,50,fitness,490.39,0.0,4.0,4.0,nextgen wholesalers,credit card,successful,1,0.8112821258196076
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,3.0,3.0,swiftdeal suppliers,net banking,successful,1,0.8110576579623308
+2024-02-04 03:43:19,6,male,maharashtra,pune,28,books,448.74,3.5,1.0,4.0,swiftdeal suppliers,wallet,successful,0,0.8109999207261491
+2024-02-04 03:59:36,4,male,uttar pradesh,ghaziabad,50,fitness,486.35,4.4,1.0,5.0,fastlane wholesale,wallet,successful,1,0.8109737641989597
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,1.0,4.0,quickbasket co.,credit card,successful,1,0.8108634775898322
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,1.0,4.0,quickbasket co.,credit card,successful,1,0.8108634775898322
+2023-04-22 08:00:23,6,male,delhi,delhi,32,home appliance,457.98,5.0,3.0,2.0,elite ecom ventures,wallet,successful,0,0.8108064079212187
+2024-06-14 16:48:20,8,male,gujarat,ahmedabad,34,home appliance,490.76,5.0,0.0,0.0,fastlane wholesale,debit card,successful,0,0.8106792962259688
+2024-03-21 03:09:01,1,female,maharashtra,thane,34,electronics,430.95,3.3,5.0,3.0,quickbasket co.,net banking,successful,1,0.8106115922692403
+2024-06-25 21:30:15,5,male,maharashtra,thane,18,fashion,400.59,4.5,2.0,3.0,swiftdeal suppliers,net banking,successful,1,0.8105929210712234
+2024-06-07 09:17:53,3,female,gujarat,vadodara,24,home appliance,453.52,3.9,0.0,0.0,global ecom supplies,debit card,successful,0,0.8101328300597265
+2023-10-21 16:13:28,6,male,andhra pradesh,visakhapatnam,43,home appliance,483.86,3.1,2.0,4.0,pack&go logistics,0,successful,0,0.8096982908498036
+2023-09-21 19:18:17,9,female,madhya pradesh,bhopal,19,fashion,454.16,4.1,0.0,0.0,trendify traders,upi,successful,0,0.8096238068527735
+2024-12-29 21:13:19,10,female,karnataka,bengaluru,19,electronics,459.89,4.2,1.0,4.0,buynow direct,debit card,successful,0,0.8095265011149325
+2024-12-29 21:13:19,10,female,karnataka,bengaluru,19,electronics,459.89,4.2,1.0,4.0,buynow direct,debit card,successful,0,0.8095265011149325
+2023-07-13 04:38:39,10,male,maharashtra,pune,28,home appliance,461.98,3.8,0.0,0.0,shopease suppliers,credit card,successful,1,0.809471996722565
+2023-08-01 15:57:45,2,male,uttar pradesh,kanpur,53,books,496.97,0.0,0.0,0.0,digicart distributors,credit card,successful,0,0.8094009847270196
+2024-09-08 11:27:40,5,female,bihar,patna,29,electronics,449.86,3.6,2.0,5.0,urbancart traders,wallet,successful,1,0.8085798906307834
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,5.0,quickbasket co.,net banking,successful,1,0.8073749335545485
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,5.0,quickbasket co.,net banking,successful,1,0.8073749335545485
+2023-01-15 18:22:17,7,female,gujarat,surat,36,home appliance,483.86,3.9,0.0,0.0,pack&go logistics,credit card,successful,0,0.8072214239168938
+2024-03-16 02:30:38,6,male,madhya pradesh,indore,35,fashion,475.82,5.0,0.0,0.0,directcart distributors,net banking,successful,0,0.8069369675710943
+2023-09-10 22:42:39,5,female,madhya pradesh,bhopal,43,fitness,487.06,4.1,0.0,0.0,smartshop network,wallet,successful,0,0.8068174897785397
+2023-08-01 15:57:45,2,male,uttar pradesh,kanpur,53,books,496.97,0.0,0.0,0.0,digicart distributors,upi,successful,0,0.8063557175789402
+2023-08-17 07:27:27,2,male,madhya pradesh,indore,35,books,446.5,4.8,1.0,5.0,shopease suppliers,credit card,successful,0,0.8059321813822765
+2024-07-11 14:06:35,7,male,rajasthan,jaipur,28,fashion,465.0,4.8,5.0,4.0,instaretail hub,upi,successful,0,0.8044565742925348
+2024-04-07 11:41:55,10,male,maharashtra,nagpur,32,books,468.8,4.3,1.0,3.0,nextgen wholesalers,credit card,successful,0,0.8043982979065669
+2023-04-05 08:16:10,8,male,karnataka,bengaluru,42,fitness,486.35,4.8,0.0,0.0,fastlane wholesale,credit card,successful,1,0.8042557814411397
+2024-06-07 09:17:53,3,female,gujarat,vadodara,24,home appliance,453.52,3.9,0.0,0.0,global ecom supplies,net banking,successful,0,0.8040893054089856
+2024-07-11 14:06:35,7,male,rajasthan,jaipur,28,fashion,465.0,4.8,5.0,4.0,instaretail hub,wallet,successful,0,0.8036313694894893
+2024-07-20 02:53:27,2,female,maharashtra,mumbai,41,electronics,468.42,4.2,0.0,0.0,urbancart traders,net banking,successful,1,0.8027898951261245
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,3.0,3.0,elite ecom ventures,wallet,successful,1,0.8019953621573636
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,3.0,3.0,elite ecom ventures,wallet,successful,1,0.8019953621573636
+2024-08-15 01:20:39,9,male,madhya pradesh,bhopal,43,fashion,497.59,4.1,0.0,0.0,quickbasket co.,debit card,successful,0,0.8018709895986629
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,credit card,successful,1,0.8015205870114148
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,credit card,successful,1,0.8015205870114148
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,credit card,successful,1,0.8015205870114148
+2023-07-29 07:33:52,7,female,west bengal,kolkata,22,books,438.08,4.2,3.0,1.0,urbancart traders,debit card,successful,0,0.8010309544235782
+2024-04-07 11:41:55,10,male,maharashtra,nagpur,32,books,468.8,4.3,1.0,3.0,nextgen wholesalers,wallet,successful,0,0.8004574791365947
+2023-09-05 16:02:31,8,male,maharashtra,pune,44,electronics,498.6,4.9,2.0,5.0,global ecom supplies,wallet,successful,0,0.8001778621609652
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,1.0,4.0,quickbasket co.,net banking,successful,1,0.7995990345205237
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,1.0,4.0,quickbasket co.,net banking,successful,1,0.7995990345205237
+2024-12-29 21:13:19,10,female,karnataka,bengaluru,19,electronics,459.89,4.2,4.0,2.0,buynow direct,debit card,successful,0,0.7992734893454577
+2024-12-29 21:13:19,10,female,karnataka,bengaluru,19,electronics,459.89,4.2,4.0,2.0,buynow direct,debit card,successful,0,0.7992734893454577
+2024-04-07 11:41:55,10,male,maharashtra,nagpur,32,books,468.8,4.3,1.0,3.0,nextgen wholesalers,debit card,successful,0,0.7991508760860248
+2023-11-22 07:24:30,5,male,bihar,patna,31,electronics,464.71,3.2,0.0,0.0,quickbasket co.,net banking,successful,0,0.7991294809236237
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,3.0,5.0,global ecom supplies,debit card,successful,0,0.7989552201046874
+2023-10-27 18:07:30,3,female,gujarat,ahmedabad,40,books,474.53,5.0,1.0,3.0,clickmart partners,credit card,successful,0,0.7987025507108201
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,wallet,successful,1,0.7975363832797886
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,wallet,successful,1,0.7975363832797886
+2024-01-09 05:50:20,4,male,gujarat,vadodara,21,fitness,404.5,3.9,0.0,0.0,globalreach traders,wallet,successful,1,0.7975363832797886
+2024-02-17 23:28:05,3,male,uttar pradesh,lucknow,46,books,482.92,4.1,4.0,3.0,smartshop network,debit card,successful,0,0.7974556277195606
+2024-02-22 16:31:41,2,male,bihar,patna,47,books,486.21,3.9,0.0,0.0,zoomkart distributors,upi,successful,0,0.7971842807993266
+2023-08-17 07:27:27,2,male,madhya pradesh,indore,35,books,446.5,4.8,5.0,3.0,shopease suppliers,credit card,successful,0,0.7960269458381894
+2024-09-07 10:11:21,10,male,telangana,hyderabad,39,books,489.83,4.2,3.0,4.0,trendmart inc.,credit card,successful,0,0.795810883216208
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,1.0,quickbasket co.,credit card,successful,1,0.7951659662874637
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,1.0,quickbasket co.,credit card,successful,1,0.7951659662874637
+2023-02-18 16:46:20,3,female,andhra pradesh,visakhapatnam,52,fitness,482.03,4.1,3.0,5.0,omnisupply network,debit card,successful,1,0.795100022263171
+2024-07-23 02:05:20,1,female,andhra pradesh,visakhapatnam,45,books,453.8,3.9,2.0,1.0,nextgen wholesalers,credit card,successful,1,0.7943175234420102
+2024-03-24 17:23:46,6,male,andhra pradesh,visakhapatnam,39,home appliance,480.78,4.0,0.0,0.0,quickpick wholesalers,net banking,successful,0,0.7942330620835181
+2023-10-05 03:06:03,1,female,madhya pradesh,bhopal,40,books,460.32,4.4,0.0,0.0,omnisupply network,credit card,successful,0,0.7940465304708937
+2023-03-02 16:35:25,4,female,west bengal,kolkata,24,home appliance,434.85,3.2,1.0,3.0,zoomkart distributors,net banking,successful,0,0.7940055385120024
+2023-10-27 18:07:30,3,female,gujarat,ahmedabad,40,books,474.53,5.0,1.0,3.0,clickmart partners,debit card,successful,0,0.7933415846409991
+2023-03-24 04:40:06,8,male,karnataka,bengaluru,40,electronics,498.07,4.6,0.0,0.0,buynow direct,credit card,successful,0,0.7930459663487167
+2023-12-30 03:07:20,5,female,rajasthan,jaipur,32,electronics,459.38,0.0,5.0,1.0,pack&go logistics,upi,successful,0,0.7929586236010083
+2024-09-14 10:08:56,5,female,uttar pradesh,kanpur,25,electronics,447.96,4.2,0.0,0.0,shopease suppliers,credit card,successful,0,0.7928501829380006
+2023-09-18 02:50:51,4,female,uttar pradesh,lucknow,18,fashion,420.42,4.8,5.0,4.0,urbancart traders,upi,successful,0,0.7927451028776967
+2023-10-27 18:07:30,3,female,gujarat,ahmedabad,40,books,474.53,5.0,1.0,2.0,clickmart partners,credit card,successful,0,0.7926661608327925
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,3.0,5.0,global ecom supplies,net banking,successful,0,0.792646972359169
+2024-04-30 00:14:13,3,male,uttar pradesh,ghaziabad,36,electronics,474.68,4.9,0.0,0.0,smartshop network,credit card,successful,0,0.7921014545157472
+2023-12-30 03:07:20,5,female,rajasthan,jaipur,32,electronics,459.38,0.0,3.0,1.0,pack&go logistics,upi,successful,0,0.7919620142533199
+2023-09-18 02:50:51,4,female,uttar pradesh,lucknow,18,fashion,420.42,4.8,5.0,4.0,urbancart traders,wallet,successful,0,0.7918832609648305
+2023-09-18 02:50:51,4,female,uttar pradesh,lucknow,18,fashion,420.42,4.8,3.0,4.0,urbancart traders,upi,successful,0,0.7917477356592808
+2023-10-06 06:58:21,3,male,telangana,hyderabad,46,home appliance,475.24,0.0,0.0,0.0,directcart distributors,upi,successful,0,0.791608539460742
+2024-11-12 20:33:46,3,female,maharashtra,thane,48,fitness,469.33,4.9,3.0,4.0,zoomkart distributors,wallet,successful,0,0.791375514782811
+2023-08-24 07:37:25,4,male,uttar pradesh,ghaziabad,46,books,472.36,3.8,2.0,4.0,quickpick wholesalers,debit card,successful,1,0.7910307369280095
+2023-09-18 02:50:51,4,female,uttar pradesh,lucknow,18,fashion,420.42,4.8,3.0,4.0,urbancart traders,wallet,successful,0,0.7908828403695646
+2023-12-30 03:07:20,5,female,rajasthan,jaipur,32,electronics,459.38,0.0,5.0,1.0,pack&go logistics,debit card,successful,0,0.7907504022910036
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,4.0,1.0,elite ecom ventures,wallet,successful,1,0.7904394154821706
+2024-07-03 11:39:58,4,female,telangana,hyderabad,19,electronics,404.6,4.3,4.0,1.0,elite ecom ventures,wallet,successful,1,0.7904394154821706
+2024-04-25 07:59:59,3,male,maharashtra,thane,52,electronics,476.52,4.0,0.0,0.0,shopease suppliers,wallet,successful,1,0.7903041384473306
+2024-04-25 07:59:59,3,male,maharashtra,thane,52,electronics,476.52,4.0,0.0,0.0,shopease suppliers,wallet,successful,1,0.7903041384473306
+2024-09-07 10:11:21,10,male,telangana,hyderabad,39,books,489.83,4.2,4.0,3.0,trendmart inc.,credit card,successful,0,0.790213324363548
+2023-12-30 03:07:20,5,female,rajasthan,jaipur,32,electronics,459.38,0.0,3.0,1.0,pack&go logistics,debit card,successful,0,0.7897459819128639
+2024-11-22 20:08:27,4,male,gujarat,surat,46,fitness,474.24,4.1,5.0,5.0,swiftdeal suppliers,credit card,successful,0,0.7890903722016066
+2024-05-13 09:49:18,9,female,madhya pradesh,indore,23,books,446.5,3.3,2.0,5.0,shopease suppliers,debit card,successful,0,0.7890361761085334
+2023-03-24 04:40:06,8,male,karnataka,bengaluru,40,electronics,498.07,4.6,0.0,0.0,buynow direct,wallet,successful,0,0.7889364427416543
+2024-10-27 00:49:38,6,female,telangana,hyderabad,47,fashion,492.64,5.0,4.0,4.0,nextwave merchants,upi,successful,0,0.7888971501896125
+2024-11-24 23:42:26,3,female,gujarat,ahmedabad,29,fashion,436.92,3.4,4.0,5.0,quickpick wholesalers,upi,successful,0,0.7877495491144817
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,4.0,3.0,global ecom supplies,debit card,successful,0,0.7872689080434901
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,4.0,3.0,global ecom supplies,debit card,successful,0,0.7872689080434901
+2023-10-27 18:07:30,3,female,gujarat,ahmedabad,40,books,474.53,5.0,1.0,2.0,clickmart partners,debit card,successful,0,0.7871872678449549
+2024-02-25 13:34:37,1,male,telangana,hyderabad,41,home appliance,444.2,0.0,5.0,4.0,pack&go logistics,credit card,successful,0,0.7870592432929933
+2023-01-12 01:23:38,10,male,gujarat,vadodara,21,electronics,458.7,3.1,2.0,3.0,metroshop suppliers,credit card,successful,0,0.7869034486207219
+2024-08-10 09:26:45,6,female,bihar,patna,24,electronics,435.25,3.5,0.0,0.0,pack&go logistics,wallet,successful,1,0.7867838004760903
+2024-10-05 07:05:59,6,male,maharashtra,thane,23,home appliance,411.28,0.0,0.0,0.0,shopease suppliers,debit card,successful,1,0.7862464475108174
+2024-10-05 07:05:59,6,male,maharashtra,thane,23,home appliance,411.28,0.0,0.0,0.0,shopease suppliers,debit card,successful,1,0.7862464475108174
+2024-04-19 17:53:12,3,male,madhya pradesh,bhopal,18,home appliance,388.44,4.2,1.0,3.0,quickpick wholesalers,debit card,successful,1,0.7861473663948383
+2024-01-20 09:31:19,3,male,maharashtra,thane,48,electronics,484.43,3.6,0.0,0.0,omnisupply network,net banking,successful,0,0.7857420784725127
+2024-03-07 13:34:01,5,male,uttar pradesh,kanpur,25,fitness,432.92,3.9,0.0,0.0,instaretail hub,credit card,successful,0,0.7855300874862288
+2024-11-24 23:42:26,3,female,gujarat,ahmedabad,29,fashion,436.92,3.4,4.0,5.0,quickpick wholesalers,debit card,successful,0,0.785500798570914
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,3.0,3.0,metroshop suppliers,upi,successful,0,0.7838065814868901
+2023-04-29 08:01:27,5,male,gujarat,vadodara,41,home appliance,476.25,4.2,1.0,1.0,global ecom supplies,wallet,successful,1,0.7836187647277897
+2023-01-20 17:48:00,4,male,bihar,patna,39,books,458.88,0.0,4.0,5.0,global ecom supplies,debit card,successful,0,0.7835865143673494
+2024-10-25 12:02:34,1,female,maharashtra,mumbai,43,books,470.76,3.8,0.0,0.0,smartshop network,net banking,successful,0,0.7835751099959438
+2024-11-22 20:08:27,4,male,gujarat,surat,46,fitness,474.24,4.1,5.0,5.0,swiftdeal suppliers,debit card,successful,0,0.7835427906951554
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,1.0,4.0,elite ecom ventures,upi,successful,1,0.783489880918286
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,1.0,4.0,elite ecom ventures,upi,successful,1,0.783489880918286
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,1.0,4.0,elite ecom ventures,upi,successful,1,0.783489880918286
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,1.0,4.0,elite ecom ventures,upi,successful,1,0.783489880918286
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,1.0,quickbasket co.,net banking,successful,1,0.7832165677222608
+2023-01-11 03:16:08,2,male,maharashtra,pune,45,fitness,432.98,4.3,5.0,1.0,quickbasket co.,net banking,successful,1,0.7832165677222608
+2023-05-27 05:36:56,3,male,uttar pradesh,ghaziabad,56,electronics,495.45,4.5,4.0,5.0,directcart distributors,credit card,successful,0,0.7830846776062432
+2024-05-13 09:49:18,9,female,madhya pradesh,indore,23,books,446.5,3.3,2.0,5.0,shopease suppliers,net banking,successful,0,0.782501421871153
+2024-09-07 10:11:21,10,male,telangana,hyderabad,39,books,489.83,4.2,1.0,2.0,trendmart inc.,credit card,successful,0,0.782447948475746
+2024-06-17 08:19:38,7,female,maharashtra,mumbai,31,books,455.74,3.2,2.0,4.0,global ecom supplies,credit card,successful,0,0.7821941032168053
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,3.0,3.0,metroshop suppliers,debit card,successful,0,0.7815276417511903
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,4.0,3.0,global ecom supplies,net banking,successful,0,0.780694626566634
+2023-10-19 21:58:40,3,male,madhya pradesh,indore,36,home appliance,461.68,4.2,4.0,3.0,global ecom supplies,net banking,successful,0,0.780694626566634
+2024-04-19 17:53:12,3,male,madhya pradesh,bhopal,18,home appliance,388.44,4.2,1.0,3.0,quickpick wholesalers,net banking,successful,1,0.779548130207979
+2023-09-16 09:39:11,5,male,uttar pradesh,ghaziabad,37,fashion,466.73,4.0,2.0,2.0,globalreach traders,upi,successful,0,0.7792831979460749
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,5.0,3.0,elite ecom ventures,upi,successful,1,0.7792166322519868
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,5.0,3.0,elite ecom ventures,upi,successful,1,0.7792166322519868
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,5.0,3.0,elite ecom ventures,upi,successful,1,0.7792166322519868
+2023-02-07 04:17:32,1,female,madhya pradesh,bhopal,30,fashion,398.37,5.0,5.0,3.0,elite ecom ventures,upi,successful,1,0.7792166322519868
+2024-12-13 16:17:45,10,female,maharashtra,thane,28,books,455.15,3.8,5.0,3.0,nextgen wholesalers,net banking,successful,0,0.7791193977514825
+2024-06-17 08:19:38,7,female,maharashtra,mumbai,31,books,455.74,3.2,2.0,4.0,global ecom supplies,upi,successful,0,0.7788329213681903
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,5.0,2.0,metroshop suppliers,upi,successful,0,0.7784946592444555
+2023-01-13 21:52:45,9,female,gujarat,vadodara,40,fitness,491.38,3.3,3.0,1.0,buynow direct,debit card,successful,0,0.7780517219060821
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,4.0,2.0,swiftdeal suppliers,wallet,successful,0,0.7777066224925336
+2024-08-14 06:41:51,2,female,gujarat,surat,26,books,421.9,4.8,2.0,3.0,elite ecom ventures,wallet,successful,0,0.7768364356787008
+2024-10-27 00:49:38,6,female,telangana,hyderabad,47,fashion,492.64,5.0,5.0,2.0,nextwave merchants,upi,successful,0,0.7767895231775087
+2023-03-24 23:15:13,6,female,telangana,hyderabad,45,electronics,490.52,4.2,4.0,2.0,globalreach traders,wallet,successful,0,0.7764964391184326
+2023-03-31 07:48:35,1,female,maharashtra,thane,56,books,487.29,3.5,0.0,0.0,smartkart wholesale,wallet,successful,0,0.7762625806700593
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,5.0,2.0,metroshop suppliers,debit card,successful,0,0.7761757151353251
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,1.0,2.0,swiftdeal suppliers,wallet,successful,0,0.7761312793146087
+2023-02-02 04:02:17,7,male,maharashtra,pune,19,fashion,426.07,3.3,0.0,0.0,quickbasket co.,debit card,successful,0,0.7757448081451763
+2024-11-22 20:08:27,4,male,gujarat,surat,46,fitness,474.24,4.1,3.0,3.0,swiftdeal suppliers,credit card,successful,0,0.7754117429133247
+2024-06-28 15:54:22,10,female,maharashtra,nagpur,42,fashion,493.84,4.9,0.0,0.0,trendmart inc.,debit card,successful,0,0.7747141179601483
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,3.0,3.0,elite ecom ventures,upi,successful,0,0.7742605125631011
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,3.0,3.0,elite ecom ventures,upi,successful,0,0.7742605125631011
+2024-11-24 23:42:26,3,female,gujarat,ahmedabad,29,fashion,436.92,3.4,1.0,3.0,quickpick wholesalers,upi,successful,0,0.773478451336446
+2024-11-12 20:33:46,3,female,maharashtra,thane,48,fitness,469.33,4.9,5.0,1.0,zoomkart distributors,wallet,successful,0,0.7734503271130538
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,3.0,3.0,elite ecom ventures,wallet,successful,0,0.7733437818549594
+2023-05-14 10:09:57,2,male,maharashtra,nagpur,66,fitness,486.65,3.4,3.0,4.0,zoomkart distributors,net banking,successful,1,0.7727374392813707
+2024-12-13 16:17:45,10,female,maharashtra,thane,28,books,455.15,3.8,5.0,2.0,nextgen wholesalers,net banking,successful,0,0.77266290994635
+2024-09-17 17:02:00,9,female,uttar pradesh,kanpur,39,fashion,478.28,5.0,3.0,5.0,ecomgenix suppliers,credit card,successful,0,0.7722362871794347
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,5.0,1.0,swiftdeal suppliers,wallet,successful,0,0.7717551043128279
+2024-08-14 05:04:45,10,female,delhi,delhi,46,fashion,492.25,3.8,5.0,2.0,cartcraze ventures,debit card,successful,0,0.771730340932128
+2024-11-24 23:42:26,3,female,gujarat,ahmedabad,29,fashion,436.92,3.4,1.0,3.0,quickpick wholesalers,debit card,successful,0,0.7711224317970627
+2023-06-14 06:44:59,5,male,maharashtra,thane,54,fashion,492.12,4.2,0.0,0.0,quickbasket co.,upi,successful,0,0.7708793911045642
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,2.0,1.0,metroshop suppliers,upi,successful,0,0.7704215330646279
+2023-12-17 19:25:16,10,male,karnataka,bengaluru,21,home appliance,442.34,3.5,4.0,5.0,clickmart partners,debit card,successful,0,0.7701199112301882
+2023-12-17 19:25:16,10,male,karnataka,bengaluru,21,home appliance,442.34,3.5,4.0,5.0,clickmart partners,debit card,successful,0,0.7701199112301882
+2024-11-22 20:08:27,4,male,gujarat,surat,46,fitness,474.24,4.1,3.0,3.0,swiftdeal suppliers,debit card,successful,0,0.7696094187755558
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,4.0,2.0,swiftdeal suppliers,net banking,successful,0,0.7694785131470837
+2023-07-25 01:10:20,8,female,bihar,patna,40,books,484.44,4.2,0.0,0.0,quickpick wholesalers,credit card,successful,0,0.769279595891015
+2023-07-25 01:10:20,8,female,bihar,patna,40,books,484.44,4.2,0.0,0.0,quickpick wholesalers,credit card,successful,0,0.769279595891015
+2023-01-20 17:48:00,4,male,bihar,patna,39,books,458.88,0.0,1.0,3.0,global ecom supplies,debit card,successful,0,0.7691175455709669
+2024-01-31 11:29:26,6,male,maharashtra,pune,30,fashion,452.93,4.9,0.0,0.0,metroshop suppliers,credit card,successful,0,0.7690796865551562
+2023-03-06 23:55:26,9,female,delhi,delhi,25,fashion,452.93,0.0,2.0,1.0,metroshop suppliers,debit card,successful,0,0.7680432537465065
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,1.0,2.0,swiftdeal suppliers,net banking,successful,0,0.7678622643939095
+2024-03-24 01:13:14,8,female,tamil nadu,chennai,18,electronics,434.11,0.0,1.0,5.0,ecomgenix suppliers,credit card,successful,0,0.7677644796692125
+2024-04-07 21:20:01,2,male,uttar pradesh,kanpur,51,fitness,469.65,4.8,0.0,0.0,pack&go logistics,net banking,successful,0,0.7673746534127274
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,1.0,2.0,elite ecom ventures,upi,successful,0,0.7666219472473963
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,1.0,2.0,elite ecom ventures,upi,successful,0,0.7666219472473963
+2024-12-13 16:17:45,10,female,maharashtra,thane,28,books,455.15,3.8,5.0,1.0,nextgen wholesalers,net banking,successful,0,0.7660743589008642
+2023-08-04 04:55:34,9,female,maharashtra,thane,20,books,417.84,4.4,5.0,5.0,digicart distributors,debit card,successful,0,0.7657934430242266
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,1.0,2.0,elite ecom ventures,wallet,successful,0,0.7656835839886782
+2024-12-13 16:17:45,10,female,maharashtra,thane,28,books,455.15,3.8,4.0,1.0,nextgen wholesalers,net banking,successful,0,0.7655309639017254
+2024-09-30 13:55:37,10,female,rajasthan,jaipur,33,books,471.87,3.5,1.0,3.0,fastlane wholesale,credit card,successful,0,0.7654667080640172
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,3.0,3.0,elite ecom ventures,net banking,successful,0,0.7650029801197895
+2024-09-08 02:32:16,4,female,gujarat,surat,33,electronics,452.16,3.2,1.0,4.0,ecomgenix suppliers,net banking,successful,0,0.7644301767216456
+2024-09-08 02:32:16,4,female,gujarat,surat,33,electronics,452.16,3.2,1.0,4.0,ecomgenix suppliers,net banking,successful,0,0.7644301767216456
+2024-07-17 18:40:39,3,male,maharashtra,mumbai,19,fashion,400.59,3.1,0.0,0.0,swiftdeal suppliers,wallet,successful,1,0.7643274918640313
+2023-02-23 01:52:24,2,female,madhya pradesh,indore,31,fitness,433.85,4.4,0.0,0.0,trendify traders,upi,successful,0,0.7640365984091992
+2023-12-22 16:01:26,7,male,gujarat,ahmedabad,48,books,490.45,4.2,4.0,4.0,trendmart inc.,net banking,successful,0,0.7634221720750235
+2023-12-22 16:01:26,7,male,gujarat,ahmedabad,48,books,490.45,4.2,4.0,4.0,trendmart inc.,net banking,successful,0,0.7634221720750235
+2024-01-31 22:49:50,8,male,bihar,patna,37,fitness,474.24,3.4,5.0,1.0,swiftdeal suppliers,net banking,successful,0,0.7633737284601593
+2024-05-13 09:49:18,9,female,madhya pradesh,indore,23,books,446.5,3.3,2.0,1.0,shopease suppliers,debit card,successful,0,0.7632522545703264
+2024-08-14 06:41:51,2,female,gujarat,surat,26,books,421.9,4.8,1.0,1.0,elite ecom ventures,wallet,successful,0,0.7631502506951805
+2023-11-04 03:21:56,8,female,gujarat,vadodara,27,electronics,455.82,4.7,5.0,5.0,ecomedge retail,upi,successful,0,0.762178037149272
+2023-08-29 16:49:47,4,female,maharashtra,mumbai,29,books,403.18,4.6,4.0,5.0,directcart distributors,credit card,successful,1,0.76216434884471
+2024-07-03 13:32:15,7,female,tamil nadu,chennai,26,home appliance,447.73,4.0,5.0,5.0,trendmart inc.,debit card,successful,0,0.7616202932620625
+2023-07-30 17:55:07,4,female,karnataka,bengaluru,60,books,499.1,3.8,5.0,5.0,elite ecom ventures,credit card,successful,0,0.7615484580199781
+2024-03-24 01:13:14,8,female,tamil nadu,chennai,18,electronics,434.11,0.0,1.0,4.0,ecomgenix suppliers,credit card,successful,0,0.761077862984396
+2024-09-19 08:43:08,2,male,maharashtra,nagpur,49,books,446.99,4.1,2.0,4.0,swiftdeal suppliers,wallet,successful,1,0.7607187588998339
+2023-12-06 23:07:45,1,male,gujarat,surat,18,fitness,389.74,5.0,3.0,5.0,swiftdeal suppliers,net banking,successful,0,0.7602511294422961
+2024-03-25 20:08:53,10,female,uttar pradesh,kanpur,37,fashion,483.84,4.6,3.0,1.0,trendmart inc.,upi,successful,0,0.7599743475773507
+2023-10-23 09:12:49,3,male,uttar pradesh,lucknow,38,books,457.42,4.6,0.0,0.0,zoomkart distributors,credit card,successful,0,0.7598218022081834
+2024-03-25 20:08:53,10,female,uttar pradesh,kanpur,37,fashion,483.84,4.6,2.0,1.0,trendmart inc.,upi,successful,0,0.7594212325706979
+2023-07-30 17:55:07,4,female,karnataka,bengaluru,60,books,499.1,3.8,1.0,5.0,elite ecom ventures,credit card,successful,0,0.7593407171092152
+2023-05-14 10:09:57,2,male,maharashtra,nagpur,66,fitness,486.65,3.4,2.0,2.0,zoomkart distributors,net banking,successful,1,0.7588778977171063
+2024-09-08 02:32:16,4,female,gujarat,surat,33,electronics,452.16,3.2,3.0,3.0,ecomgenix suppliers,net banking,successful,0,0.7587886830679043
+2024-09-08 02:32:16,4,female,gujarat,surat,33,electronics,452.16,3.2,3.0,3.0,ecomgenix suppliers,net banking,successful,0,0.7587886830679043
+2023-12-22 16:01:26,7,male,gujarat,ahmedabad,48,books,490.45,4.2,5.0,3.0,trendmart inc.,net banking,successful,0,0.7572076070306386
+2023-03-01 21:31:27,8,female,west bengal,kolkata,50,books,499.1,3.1,1.0,2.0,elite ecom ventures,net banking,successful,0,0.7571494130239329
+2023-08-24 07:08:54,2,female,gujarat,vadodara,50,fashion,470.47,3.2,4.0,5.0,digicart distributors,upi,successful,1,0.7570401343606189
+2024-02-07 14:06:37,6,female,telangana,hyderabad,59,books,492.59,3.5,2.0,5.0,cartcraze ventures,net banking,successful,1,0.756728762663339
+2023-12-17 19:25:16,10,male,karnataka,bengaluru,21,home appliance,442.34,3.5,4.0,3.0,clickmart partners,debit card,successful,0,0.7567093386026991
+2023-12-17 19:25:16,10,male,karnataka,bengaluru,21,home appliance,442.34,3.5,4.0,3.0,clickmart partners,debit card,successful,0,0.7567093386026991
+2024-10-17 21:12:51,1,male,karnataka,bengaluru,64,home appliance,499.52,3.1,3.0,2.0,urbanmarket co.,wallet,successful,0,0.7565250926848731
+2024-01-20 07:15:28,9,female,andhra pradesh,visakhapatnam,35,home appliance,453.93,4.4,5.0,5.0,metroshop suppliers,wallet,successful,1,0.7564132520839034
+2023-11-09 01:44:48,5,male,gujarat,vadodara,34,home appliance,457.87,3.6,2.0,4.0,smartkart wholesale,debit card,successful,0,0.756365464392083
+2023-10-23 09:12:49,3,male,uttar pradesh,lucknow,38,books,457.42,4.6,0.0,0.0,zoomkart distributors,upi,successful,0,0.7562229706346949
+2024-05-13 09:49:18,9,female,madhya pradesh,indore,23,books,446.5,3.3,2.0,1.0,shopease suppliers,net banking,successful,0,0.7561656381708037
+2023-08-29 16:49:47,4,female,maharashtra,mumbai,29,books,403.18,4.6,4.0,5.0,directcart distributors,debit card,successful,1,0.7561274137525468
+2023-04-16 14:03:56,5,male,andhra pradesh,visakhapatnam,26,electronics,434.96,3.3,3.0,1.0,ecomedge retail,debit card,successful,0,0.7552568423309294
+2023-10-23 09:12:49,3,male,uttar pradesh,lucknow,38,books,457.42,4.6,0.0,0.0,zoomkart distributors,wallet,successful,0,0.755256143803923
+2023-07-24 23:00:40,8,female,madhya pradesh,bhopal,19,books,423.03,4.8,0.0,0.0,omnisupply network,credit card,successful,0,0.7543315659973883
+2023-11-04 03:21:56,8,female,gujarat,vadodara,27,electronics,455.82,4.7,3.0,4.0,ecomedge retail,upi,successful,0,0.7542603876418107
+2024-03-26 05:13:38,1,male,uttar pradesh,kanpur,42,fitness,448.76,3.5,0.0,0.0,global ecom supplies,net banking,successful,0,0.7539435663852814
+2023-03-25 18:08:27,5,female,west bengal,kolkata,60,fashion,492.39,3.5,2.0,4.0,trendmart inc.,wallet,successful,1,0.7525468033679652
+2023-06-09 09:32:50,2,female,west bengal,kolkata,33,home appliance,430.72,3.4,1.0,4.0,global ecom supplies,debit card,successful,0,0.7521778047902168
+2023-04-16 11:33:55,3,male,gujarat,vadodara,21,fitness,409.68,4.2,4.0,1.0,smartshop network,upi,successful,0,0.7515280129392529
+2024-03-05 19:19:47,9,female,gujarat,surat,20,fitness,427.59,4.3,4.0,3.0,shopease suppliers,debit card,successful,0,0.7507001262078611
+2024-03-05 19:19:47,9,female,gujarat,surat,20,fitness,427.59,4.3,4.0,3.0,shopease suppliers,debit card,successful,0,0.7507001262078611
+2023-12-16 21:55:15,2,male,uttar pradesh,kanpur,45,fitness,445.25,0.0,5.0,5.0,metroshop suppliers,credit card,successful,0,0.750607416952727
+2023-10-18 19:42:00,10,female,west bengal,kolkata,35,home appliance,476.25,4.1,0.0,0.0,global ecom supplies,debit card,successful,0,0.7504224884491035
+2024-12-24 00:27:15,7,female,uttar pradesh,lucknow,18,books,416.88,0.0,2.0,2.0,ezyshop solutions,upi,successful,0,0.7503448651543854
+2024-12-09 15:07:05,4,female,andhra pradesh,visakhapatnam,30,electronics,435.25,3.7,0.0,0.0,pack&go logistics,upi,successful,0,0.7502730624995853
+2023-07-11 20:08:53,7,male,gujarat,vadodara,35,fitness,452.11,4.2,0.0,0.0,directcart distributors,upi,successful,0,0.7502461361780861
+2024-06-17 09:13:17,1,female,madhya pradesh,bhopal,19,home appliance,382.82,3.1,4.0,5.0,buynow direct,debit card,successful,0,0.7496526115660939
+2024-01-20 07:15:28,9,female,andhra pradesh,visakhapatnam,35,home appliance,453.93,4.4,5.0,4.0,metroshop suppliers,wallet,successful,1,0.749506438773202
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,5.0,5.0,pack&go logistics,credit card,successful,1,0.7487854699005825
+2023-11-26 20:57:01,6,female,rajasthan,jaipur,21,fashion,424.26,4.3,0.0,0.0,cartcraze ventures,credit card,successful,0,0.7479240478413282
+2024-07-03 13:32:15,7,female,tamil nadu,chennai,26,home appliance,447.73,4.0,4.0,3.0,trendmart inc.,debit card,successful,0,0.7473044829949842
+2024-11-30 10:56:00,9,female,andhra pradesh,visakhapatnam,37,fitness,466.32,4.1,0.0,0.0,pack&go logistics,net banking,successful,0,0.7472964000819288
+2023-04-08 18:35:25,2,male,uttar pradesh,ghaziabad,21,electronics,402.17,3.3,0.0,0.0,directcart distributors,upi,successful,1,0.7466501186707285
+2023-10-11 03:18:44,1,female,uttar pradesh,kanpur,30,fitness,416.99,3.7,0.0,0.0,shopease suppliers,upi,successful,0,0.746642171457702
+2023-09-17 05:46:23,2,female,madhya pradesh,bhopal,25,books,415.28,3.2,0.0,0.0,global ecom supplies,upi,successful,0,0.7465128367036744
+2023-12-06 23:07:45,1,male,gujarat,surat,18,fitness,389.74,5.0,3.0,3.0,swiftdeal suppliers,net banking,successful,0,0.7464543819967181
+2023-02-04 04:46:01,6,female,telangana,hyderabad,45,home appliance,482.52,4.7,0.0,0.0,trendify traders,credit card,successful,0,0.7461194766517487
+2023-06-26 18:08:43,4,male,west bengal,kolkata,55,electronics,493.66,0.0,0.0,0.0,digicart distributors,net banking,successful,0,0.7458180444238414
+2024-04-12 08:45:56,6,male,madhya pradesh,indore,29,fitness,442.04,4.5,0.0,0.0,instaretail hub,debit card,successful,0,0.7456831870082129
+2023-04-14 19:20:11,10,male,west bengal,kolkata,29,electronics,460.35,3.8,4.0,4.0,smartkart wholesale,net banking,successful,0,0.7450014639128821
+2024-05-12 22:25:42,6,female,west bengal,kolkata,43,electronics,480.7,4.6,0.0,0.0,swiftdeal suppliers,credit card,successful,0,0.7449605097473367
+2023-07-24 19:52:51,3,female,gujarat,surat,33,fashion,448.36,4.5,0.0,0.0,omnisupply network,wallet,successful,0,0.7445462215484571
+2023-10-11 03:18:44,1,female,uttar pradesh,kanpur,30,fitness,416.99,3.7,0.0,0.0,shopease suppliers,debit card,successful,0,0.7440993767557269
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,5.0,5.0,pack&go logistics,wallet,successful,1,0.7440806787531774
+2023-09-17 05:46:23,2,female,madhya pradesh,bhopal,25,books,415.28,3.2,0.0,0.0,global ecom supplies,debit card,successful,0,0.7439691890640286
+2023-12-16 21:55:15,2,male,uttar pradesh,kanpur,45,fitness,445.25,0.0,5.0,4.0,metroshop suppliers,credit card,successful,0,0.7435917848227337
+2024-03-26 16:01:56,10,male,gujarat,vadodara,42,fashion,490.83,0.0,0.0,0.0,omnisupply network,debit card,successful,0,0.7426835038675891
+2024-03-26 16:01:56,10,male,gujarat,vadodara,42,fashion,490.83,0.0,0.0,0.0,omnisupply network,debit card,successful,0,0.7426835038675891
+2023-06-23 12:17:11,1,female,gujarat,ahmedabad,47,home appliance,468.36,0.0,0.0,0.0,ezyshop solutions,net banking,successful,0,0.7425473745880443
+2024-07-14 04:28:14,8,female,tamil nadu,chennai,41,books,493.84,4.4,0.0,0.0,ecomgenix suppliers,net banking,successful,0,0.7424732826656052
+2024-07-08 11:58:52,5,male,west bengal,kolkata,57,home appliance,490.76,5.0,3.0,5.0,fastlane wholesale,credit card,successful,0,0.74237893347032
+2024-03-24 01:13:14,8,female,tamil nadu,chennai,18,electronics,434.11,0.0,3.0,1.0,ecomgenix suppliers,credit card,successful,0,0.7414001303962872
+2024-05-12 22:25:42,6,female,west bengal,kolkata,43,electronics,480.7,4.6,0.0,0.0,swiftdeal suppliers,upi,successful,0,0.7412148388900959
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,3.0,4.0,pack&go logistics,credit card,successful,1,0.7405737134272271
+2023-10-03 17:32:08,2,male,maharashtra,mumbai,56,fitness,475.84,4.4,0.0,0.0,urbanmarket co.,upi,successful,0,0.7400861246125044
+2023-10-03 17:32:08,2,male,maharashtra,mumbai,56,fitness,475.84,4.4,0.0,0.0,urbanmarket co.,wallet,successful,0,0.7390773804780144
+2023-07-03 13:27:54,6,female,telangana,hyderabad,43,electronics,468.4,4.6,3.0,4.0,instaretail hub,debit card,successful,1,0.7390507918467918
+2024-10-22 06:05:18,4,male,delhi,delhi,28,fashion,411.78,3.6,2.0,3.0,elite ecom ventures,wallet,successful,0,0.7386717782933361
+2023-01-02 15:09:19,3,female,tamil nadu,chennai,32,home appliance,436.29,3.1,2.0,4.0,cartcraze ventures,net banking,successful,0,0.7385313821796738
+2023-01-24 16:36:40,1,female,west bengal,kolkata,29,home appliance,412.28,3.9,1.0,1.0,ezyshop solutions,debit card,successful,0,0.7383553144543413
+2023-04-14 19:20:11,10,male,west bengal,kolkata,29,electronics,460.35,3.8,4.0,3.0,smartkart wholesale,net banking,successful,0,0.7378832013628722
+2023-04-07 00:46:31,3,male,madhya pradesh,indore,51,fashion,446.59,3.9,3.0,5.0,pack&go logistics,credit card,successful,1,0.7378701441570868
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,4.0,4.0,metroshop suppliers,credit card,successful,0,0.7378309118112375
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,4.0,4.0,metroshop suppliers,credit card,successful,0,0.7378309118112375
+2024-12-29 19:21:11,8,male,uttar pradesh,kanpur,24,electronics,438.96,4.1,0.0,0.0,buynow direct,upi,successful,0,0.7374149479581572
+2023-03-18 17:42:56,8,male,delhi,delhi,61,fashion,498.92,0.0,1.0,5.0,cartcraze ventures,upi,successful,0,0.7373435066569269
+2023-06-09 18:44:25,6,male,uttar pradesh,ghaziabad,33,electronics,458.74,4.2,1.0,2.0,clickmart partners,wallet,successful,0,0.7370441589500776
+2024-02-07 14:06:37,6,female,telangana,hyderabad,59,books,492.59,3.5,4.0,2.0,cartcraze ventures,net banking,successful,1,0.7368167008891734
+2023-09-27 06:46:56,10,female,gujarat,vadodara,33,fitness,466.59,3.5,0.0,0.0,ecomgenix suppliers,debit card,successful,0,0.7363734761742506
+2024-07-08 11:58:52,5,male,west bengal,kolkata,57,home appliance,490.76,5.0,3.0,5.0,fastlane wholesale,debit card,successful,0,0.7360137363017472
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,3.0,4.0,pack&go logistics,wallet,successful,1,0.7357694007116624
+2023-04-06 15:48:59,9,male,uttar pradesh,lucknow,45,fitness,486.65,5.0,5.0,2.0,zoomkart distributors,net banking,successful,0,0.7353816652090556
+2023-01-29 09:34:48,9,female,telangana,hyderabad,30,books,442.28,0.0,5.0,1.0,directcart distributors,upi,successful,0,0.7352282212210836
+2023-12-16 00:42:26,6,male,delhi,delhi,40,books,459.05,3.4,0.0,0.0,buynow direct,net banking,successful,0,0.7350716962752011
+2023-11-09 01:44:48,5,male,gujarat,vadodara,34,home appliance,457.87,3.6,1.0,1.0,smartkart wholesale,debit card,successful,0,0.7346659806115262
+2023-01-20 02:55:30,5,female,maharashtra,pune,46,fashion,467.8,0.0,0.0,0.0,trendify traders,debit card,successful,0,0.7337613780795018
+2023-02-25 21:46:53,1,male,madhya pradesh,indore,58,books,484.05,3.3,5.0,1.0,clickmart partners,debit card,successful,0,0.7334288083182301
+2023-06-30 14:42:55,9,female,rajasthan,jaipur,44,electronics,494.67,4.6,0.0,0.0,smartkart wholesale,upi,successful,1,0.7331616119845811
+2023-07-13 06:19:50,10,male,delhi,delhi,48,home appliance,488.39,3.6,4.0,5.0,global ecom supplies,wallet,successful,0,0.7329930297673275
+2023-07-30 17:55:07,4,female,karnataka,bengaluru,60,books,499.1,3.8,4.0,1.0,elite ecom ventures,credit card,successful,0,0.732946900949563
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,2.0,3.0,pack&go logistics,credit card,successful,1,0.7327832285145893
+2024-08-09 13:54:53,1,female,delhi,delhi,35,fashion,430.3,4.8,0.0,0.0,zoomkart distributors,credit card,successful,0,0.7325342662333335
+2024-07-03 13:32:15,7,female,tamil nadu,chennai,26,home appliance,447.73,4.0,3.0,1.0,trendmart inc.,debit card,successful,0,0.7324309785624146
+2023-07-30 17:55:07,4,female,karnataka,bengaluru,60,books,499.1,3.8,3.0,1.0,elite ecom ventures,credit card,successful,0,0.7323534382956858
+2024-10-06 04:38:19,3,male,bihar,patna,40,fitness,445.86,3.5,0.0,0.0,buynow direct,debit card,successful,0,0.7319513019879558
+2023-12-06 23:07:45,1,male,gujarat,surat,18,fitness,389.74,5.0,1.0,1.0,swiftdeal suppliers,net banking,successful,0,0.7309533864231749
+2024-12-25 08:42:05,7,female,maharashtra,mumbai,56,electronics,486.45,4.5,3.0,5.0,smartshop network,debit card,successful,1,0.7303141969733791
+2023-06-11 04:10:54,2,male,madhya pradesh,bhopal,53,fashion,481.2,4.6,0.0,0.0,smartkart wholesale,upi,successful,0,0.730293122260696
+2024-01-09 00:59:19,5,male,maharashtra,pune,60,fitness,488.42,3.5,2.0,1.0,trendify traders,upi,successful,0,0.729996248562796
+2023-09-26 21:22:52,4,female,uttar pradesh,lucknow,33,books,429.17,4.2,1.0,5.0,shopease suppliers,debit card,successful,0,0.7296236586281036
+2024-07-30 17:58:00,2,male,maharashtra,mumbai,51,fitness,452.33,3.5,0.0,0.0,zoomkart distributors,credit card,successful,1,0.7288792020048561
+2023-01-24 07:55:52,2,male,uttar pradesh,kanpur,38,books,415.11,3.8,2.0,1.0,pack&go logistics,upi,successful,1,0.7281311247000429
+2023-01-24 07:55:52,2,male,uttar pradesh,kanpur,38,books,415.11,3.8,2.0,1.0,pack&go logistics,upi,successful,1,0.7281311247000429
+2023-02-27 00:03:09,1,male,andhra pradesh,visakhapatnam,66,fitness,461.02,4.9,2.0,3.0,pack&go logistics,wallet,successful,1,0.7278876543691202
+2023-06-09 18:44:25,6,male,uttar pradesh,ghaziabad,33,electronics,458.74,4.2,1.0,2.0,clickmart partners,net banking,successful,0,0.7278376627137011
+2024-09-04 11:29:06,3,female,maharashtra,mumbai,53,fitness,469.65,4.0,0.0,0.0,pack&go logistics,upi,successful,0,0.7276877996920041
+2023-01-27 04:00:59,2,male,maharashtra,thane,40,books,437.78,3.5,0.0,0.0,metroshop suppliers,net banking,successful,0,0.7275894255028068
+2023-12-16 21:55:15,2,male,uttar pradesh,kanpur,45,fitness,445.25,0.0,2.0,2.0,metroshop suppliers,credit card,successful,0,0.7273791600710967
+2024-07-08 11:58:52,5,male,west bengal,kolkata,57,home appliance,490.76,5.0,2.0,3.0,fastlane wholesale,credit card,successful,0,0.7273212991881841
+2024-01-15 00:14:03,3,male,maharashtra,mumbai,34,electronics,427.18,3.6,4.0,4.0,trendify traders,debit card,successful,0,0.7267598863558432
+2023-04-06 15:48:59,9,male,uttar pradesh,lucknow,45,fitness,486.65,5.0,2.0,1.0,zoomkart distributors,net banking,successful,0,0.7262896756477258
+2023-04-20 23:31:39,7,female,west bengal,kolkata,22,fitness,411.13,4.7,4.0,4.0,smartkart wholesale,debit card,successful,0,0.7254607460347775
+2024-10-06 04:38:19,3,male,bihar,patna,40,fitness,445.86,3.5,0.0,0.0,buynow direct,net banking,successful,0,0.7242662276713787
+2023-08-15 14:13:15,8,male,uttar pradesh,ghaziabad,18,fitness,409.68,3.5,5.0,5.0,smartshop network,debit card,successful,0,0.724132697053329
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,4.0,4.0,metroshop suppliers,net banking,successful,0,0.7236989808064093
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,4.0,4.0,metroshop suppliers,net banking,successful,0,0.7236989808064093
+2024-12-25 08:42:05,7,female,maharashtra,mumbai,56,electronics,486.45,4.5,4.0,4.0,smartshop network,debit card,successful,1,0.7235448732303332
+2024-09-02 10:58:03,3,male,maharashtra,nagpur,34,books,417.94,3.6,5.0,2.0,zoomkart distributors,upi,successful,0,0.7222289994101587
+2023-09-26 21:22:52,4,female,uttar pradesh,lucknow,33,books,429.17,4.2,1.0,5.0,shopease suppliers,net banking,successful,0,0.7218972053552487
+2024-09-17 18:08:56,8,female,maharashtra,nagpur,34,books,451.33,4.9,0.0,0.0,ezyshop solutions,net banking,successful,0,0.7216507044675602
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,1.0,2.0,metroshop suppliers,credit card,successful,0,0.7213905091882475
+2024-03-27 12:28:25,10,male,delhi,delhi,38,electronics,463.26,4.8,2.0,5.0,global ecom supplies,credit card,successful,0,0.7209372924062549
+2024-07-08 11:58:52,5,male,west bengal,kolkata,57,home appliance,490.76,5.0,2.0,3.0,fastlane wholesale,debit card,successful,0,0.7207240212561542
+2023-03-10 12:30:32,8,female,maharashtra,pune,47,electronics,483.83,4.9,1.0,1.0,pack&go logistics,net banking,successful,0,0.7204533805623522
+2024-06-20 06:57:04,9,female,gujarat,vadodara,21,fashion,426.66,4.1,1.0,4.0,urbanmarket co.,upi,successful,0,0.7199336397269314
+2023-05-05 10:16:18,1,male,uttar pradesh,ghaziabad,60,books,477.49,4.1,1.0,5.0,urbanmarket co.,debit card,successful,0,0.7198706347998091
+2024-02-22 18:44:37,9,female,west bengal,kolkata,27,books,430.08,5.0,0.0,0.0,pack&go logistics,wallet,successful,0,0.719555968570412
+2024-07-22 10:19:46,8,male,madhya pradesh,bhopal,24,books,424.39,4.2,0.0,0.0,trendify traders,wallet,successful,0,0.7194745597567704
+2023-09-23 19:42:00,9,male,west bengal,kolkata,34,books,446.91,4.3,5.0,2.0,buynow direct,credit card,successful,0,0.7192380705255845
+2024-03-22 20:10:57,5,female,gujarat,surat,23,electronics,431.75,3.2,0.0,0.0,smartkart wholesale,wallet,successful,0,0.7186379451595455
+2024-03-06 00:10:54,9,female,rajasthan,jaipur,50,books,484.44,4.0,2.0,4.0,quickpick wholesalers,upi,successful,0,0.7181095909021699
+2024-03-12 17:15:59,10,male,maharashtra,mumbai,34,fashion,464.1,3.9,0.0,0.0,zoomkart distributors,wallet,successful,0,0.7176070136886777
+2023-07-13 06:19:50,10,male,delhi,delhi,48,home appliance,488.39,3.6,3.0,3.0,global ecom supplies,wallet,successful,0,0.7175954889547617
+2024-09-04 11:29:06,3,female,maharashtra,mumbai,53,fitness,469.65,4.0,0.0,0.0,pack&go logistics,net banking,successful,0,0.7172178933584206
+2023-09-15 03:53:58,6,male,delhi,delhi,30,electronics,434.85,4.7,0.0,0.0,fastlane wholesale,credit card,successful,0,0.7171119962481063
+2023-07-28 01:16:13,1,female,bihar,patna,19,electronics,390.15,4.9,3.0,4.0,clickmart partners,wallet,successful,0,0.7168623818555063
+2023-09-05 14:48:26,1,female,maharashtra,thane,50,fashion,446.37,3.2,3.0,5.0,global ecom supplies,upi,successful,0,0.7166500465568855
+2024-08-03 23:17:59,8,male,gujarat,ahmedabad,18,electronics,416.22,4.3,4.0,2.0,nextwave merchants,upi,successful,0,0.7164753332688631
+2023-12-08 05:58:07,4,male,uttar pradesh,ghaziabad,42,books,451.03,3.3,2.0,4.0,zoomkart distributors,credit card,successful,0,0.7163814680914636
+2024-10-01 08:09:02,1,male,gujarat,surat,66,fitness,476.71,4.2,1.0,5.0,directcart distributors,debit card,successful,0,0.7163141227911538
+2023-04-07 00:46:31,3,male,madhya pradesh,indore,51,fashion,446.59,3.9,3.0,2.0,pack&go logistics,credit card,successful,1,0.7157605657492278
+2024-08-03 23:17:59,8,male,gujarat,ahmedabad,18,electronics,416.22,4.3,4.0,2.0,nextwave merchants,wallet,successful,0,0.7154101910039674
+2024-08-03 23:17:59,8,male,gujarat,ahmedabad,18,electronics,416.22,4.3,4.0,2.0,nextwave merchants,wallet,successful,0,0.7154101910039674
+2023-03-30 06:43:23,7,female,maharashtra,mumbai,45,fashion,471.05,3.6,1.0,2.0,clickmart partners,upi,successful,0,0.7153503550872097
+2023-08-15 14:13:15,8,male,uttar pradesh,ghaziabad,18,fitness,409.68,3.5,1.0,4.0,smartshop network,debit card,successful,0,0.7141860401851271
+2024-09-02 10:58:03,3,male,maharashtra,nagpur,34,books,417.94,3.6,4.0,1.0,zoomkart distributors,upi,successful,0,0.7141002991610274
+2023-03-13 03:50:48,3,female,tamil nadu,chennai,22,books,413.87,4.6,5.0,4.0,smartkart wholesale,upi,successful,0,0.7136547281875175
+2023-03-13 16:55:06,4,female,maharashtra,mumbai,53,home appliance,489.25,4.2,0.0,0.0,global ecom supplies,net banking,successful,0,0.7134250522942575
+2023-09-29 20:05:36,3,male,rajasthan,jaipur,59,electronics,498.47,4.2,0.0,0.0,shopease suppliers,net banking,successful,0,0.7127395842017124
+2023-09-15 03:53:58,6,male,delhi,delhi,30,electronics,434.85,4.7,0.0,0.0,fastlane wholesale,wallet,successful,0,0.712042138273941
+2023-09-23 19:42:00,9,male,west bengal,kolkata,34,books,446.91,4.3,5.0,1.0,buynow direct,credit card,successful,0,0.7116789541193702
+2024-12-09 09:23:40,2,male,andhra pradesh,visakhapatnam,33,books,411.18,4.9,3.0,5.0,instaretail hub,net banking,successful,1,0.7114960837642405
+2023-04-30 13:49:57,2,female,maharashtra,nagpur,32,fashion,409.27,3.4,3.0,2.0,nextgen wholesalers,wallet,successful,0,0.7114928397713787
+2023-07-25 05:02:51,10,male,andhra pradesh,visakhapatnam,26,fashion,432.23,4.3,0.0,0.0,ezyshop solutions,wallet,successful,1,0.7107916350626724
+2024-10-23 09:53:33,9,male,maharashtra,pune,30,books,434.61,4.4,0.0,0.0,cartcraze ventures,credit card,successful,0,0.710782384114177
+2023-09-06 11:11:47,4,female,uttar pradesh,ghaziabad,59,electronics,492.06,3.8,5.0,4.0,cartcraze ventures,credit card,successful,0,0.7105449289276844
+2023-07-28 01:16:13,1,female,bihar,patna,19,electronics,390.15,4.9,5.0,3.0,clickmart partners,wallet,successful,0,0.7105131194153058
+2023-05-23 19:16:15,8,male,maharashtra,thane,45,fitness,452.59,4.9,4.0,5.0,metroshop suppliers,credit card,successful,0,0.710230443077912
+2024-11-23 16:40:34,8,female,maharashtra,thane,43,books,457.12,4.4,4.0,5.0,instaretail hub,upi,successful,0,0.709777865849567
+2024-11-23 16:40:34,8,female,maharashtra,thane,43,books,457.12,4.4,3.0,5.0,instaretail hub,upi,successful,0,0.7091533467346697
+2024-08-27 22:48:04,5,male,maharashtra,mumbai,70,books,493.57,0.0,5.0,4.0,nextwave merchants,credit card,successful,1,0.7083866834078689
+2023-04-07 00:46:31,3,male,madhya pradesh,indore,51,fashion,446.59,3.9,2.0,1.0,pack&go logistics,credit card,successful,1,0.7075192307218252
+2023-03-20 19:11:57,3,male,maharashtra,mumbai,48,fashion,462.12,0.0,0.0,0.0,metroshop suppliers,wallet,successful,0,0.7074677832161476
+2024-11-29 01:17:52,5,male,maharashtra,nagpur,32,home appliance,422.58,3.3,5.0,4.0,smartkart wholesale,net banking,successful,0,0.7072543142828026
+2023-06-27 14:24:58,3,male,gujarat,ahmedabad,35,home appliance,422.38,5.0,2.0,4.0,cartcraze ventures,net banking,successful,0,0.7070770717091678
+2023-06-03 00:21:01,1,male,tamil nadu,chennai,49,fitness,452.08,3.9,5.0,4.0,ecomgenix suppliers,debit card,successful,0,0.7069202686560374
+2023-06-03 00:21:01,1,male,tamil nadu,chennai,49,fitness,452.08,3.9,5.0,4.0,ecomgenix suppliers,debit card,successful,0,0.7069202686560374
+2023-10-22 23:33:03,9,female,madhya pradesh,indore,32,fashion,462.12,4.7,1.0,2.0,metroshop suppliers,net banking,successful,0,0.7067246268773292
+2024-10-15 12:50:15,8,male,gujarat,vadodara,35,fashion,447.32,4.6,4.0,4.0,pack&go logistics,net banking,successful,0,0.7060604988533271
+2023-01-28 19:20:19,4,male,bihar,patna,33,fitness,411.28,4.2,3.0,1.0,omnisupply network,wallet,successful,1,0.7058022881949574
+2024-10-23 09:53:33,9,male,maharashtra,pune,30,books,434.61,4.4,0.0,0.0,cartcraze ventures,wallet,successful,0,0.705645651286257
+2023-05-23 19:16:15,8,male,maharashtra,thane,45,fitness,452.59,4.9,4.0,5.0,metroshop suppliers,wallet,successful,0,0.7050879746846485
+2023-01-28 19:20:19,4,male,bihar,patna,33,fitness,411.28,4.2,3.0,1.0,omnisupply network,debit card,successful,1,0.7041049978097699
+2024-06-20 17:43:43,3,female,bihar,patna,28,electronics,403.72,4.3,4.0,5.0,elite ecom ventures,credit card,successful,0,0.7037250496752265
+2023-09-06 11:11:47,4,female,uttar pradesh,ghaziabad,59,electronics,492.06,3.8,5.0,4.0,cartcraze ventures,debit card,successful,0,0.7037071088638306
+2024-10-15 22:32:22,3,male,bihar,patna,54,electronics,473.43,4.7,4.0,4.0,omnisupply network,upi,successful,0,0.7037023693024144
+2023-11-26 07:31:12,4,female,andhra pradesh,visakhapatnam,18,home appliance,375.83,3.4,4.0,4.0,ezyshop solutions,wallet,successful,1,0.7035426209147483
+2024-08-05 14:46:51,7,female,telangana,hyderabad,23,electronics,425.05,3.8,4.0,1.0,fastlane wholesale,credit card,successful,0,0.703433243948139
+2024-01-01 16:30:52,1,female,karnataka,bengaluru,51,home appliance,457.31,4.2,3.0,3.0,digicart distributors,upi,successful,0,0.7032761467743119
+2024-02-16 22:43:37,5,male,madhya pradesh,bhopal,38,fitness,418.79,3.7,3.0,3.0,trendmart inc.,upi,successful,0,0.7031450163059968
+2024-10-14 23:36:50,5,male,karnataka,bengaluru,39,fitness,436.12,3.4,5.0,3.0,buynow direct,debit card,successful,0,0.7031309818300516
+2023-12-01 17:55:38,4,male,andhra pradesh,visakhapatnam,35,fitness,420.63,4.1,4.0,4.0,global ecom supplies,debit card,successful,0,0.7030128036713859
+2023-04-09 10:14:39,2,male,telangana,hyderabad,43,books,444.8,3.2,0.0,0.0,buynow direct,debit card,successful,0,0.702844654759948
+2024-01-01 16:30:52,1,female,karnataka,bengaluru,51,home appliance,457.31,4.2,2.0,3.0,digicart distributors,upi,successful,0,0.7026434981917642
+2023-12-05 00:48:09,2,female,andhra pradesh,visakhapatnam,44,books,433.29,3.7,5.0,5.0,fastlane wholesale,credit card,successful,0,0.7024659188577421
+2023-09-15 03:53:58,6,male,delhi,delhi,30,electronics,434.85,4.7,0.0,0.0,fastlane wholesale,net banking,successful,0,0.7023138328885127
+2024-10-14 23:36:50,5,male,karnataka,bengaluru,39,fitness,436.12,3.4,3.0,3.0,buynow direct,debit card,successful,0,0.7018645505098734
+2023-10-23 04:00:48,6,female,andhra pradesh,visakhapatnam,27,fitness,405.27,3.8,0.0,0.0,clickmart partners,credit card,successful,1,0.7012522281139449
+2023-09-23 01:50:42,3,female,rajasthan,jaipur,51,fitness,452.59,3.5,3.0,5.0,trendmart inc.,credit card,successful,0,0.7011493446140059
+2023-10-21 21:57:04,1,female,maharashtra,nagpur,34,books,385.39,0.0,2.0,4.0,zoomkart distributors,debit card,successful,1,0.7011337695532631
+2023-04-22 10:41:47,7,male,madhya pradesh,bhopal,46,fashion,459.89,4.5,1.0,4.0,nextwave merchants,credit card,successful,0,0.7010819428805388
+2024-03-14 08:00:57,7,female,gujarat,surat,27,fashion,421.18,3.6,0.0,0.0,quickbasket co.,upi,successful,1,0.700790016226717
+2024-10-14 23:36:50,5,male,karnataka,bengaluru,39,fitness,436.12,3.4,1.0,3.0,buynow direct,debit card,successful,0,0.7005950171389911
+2024-08-07 23:17:13,6,male,gujarat,surat,18,books,393.21,4.0,4.0,5.0,zoomkart distributors,debit card,successful,0,0.7003570898353191
+2023-01-30 02:12:31,7,male,karnataka,bengaluru,54,electronics,468.44,4.2,1.0,4.0,shopease suppliers,debit card,successful,1,0.699923197373672
+2023-08-25 17:32:37,7,female,west bengal,kolkata,40,fashion,430.64,4.3,3.0,5.0,trendmart inc.,net banking,successful,1,0.699609435193277
+2023-08-25 17:32:37,7,female,west bengal,kolkata,40,fashion,430.64,4.3,3.0,5.0,trendmart inc.,net banking,successful,1,0.699609435193277
+2024-12-25 08:42:05,7,female,maharashtra,mumbai,56,electronics,486.45,4.5,2.0,1.0,smartshop network,debit card,successful,1,0.6994447718586501
+2023-12-05 00:48:09,2,female,andhra pradesh,visakhapatnam,44,books,433.29,3.7,5.0,5.0,fastlane wholesale,upi,successful,0,0.6983488586121128
+2023-08-23 08:22:51,3,female,gujarat,surat,57,electronics,486.93,4.0,0.0,0.0,buynow direct,wallet,successful,0,0.6981856616941113
+2023-10-09 16:18:52,5,female,tamil nadu,chennai,41,books,461.74,3.6,0.0,0.0,urbanmarket co.,upi,successful,0,0.6975498672175662
+2024-02-25 22:31:51,2,male,west bengal,kolkata,45,home appliance,435.71,4.2,3.0,4.0,primelogix traders,upi,successful,0,0.6973525680513909
+2024-02-25 22:31:51,2,male,west bengal,kolkata,45,home appliance,435.71,4.2,3.0,4.0,primelogix traders,upi,successful,0,0.6973525680513909
+2024-01-13 22:32:57,10,male,bihar,patna,18,books,409.46,4.2,1.0,4.0,digicart distributors,debit card,successful,0,0.6972846416108824
+2024-06-20 06:57:04,9,female,gujarat,vadodara,21,fashion,426.66,4.1,1.0,1.0,urbanmarket co.,upi,successful,0,0.6969325762039605
+2024-01-01 16:30:52,1,female,karnataka,bengaluru,51,home appliance,457.31,4.2,5.0,2.0,digicart distributors,upi,successful,0,0.6967510985611479
+2023-02-16 01:22:18,3,male,uttar pradesh,ghaziabad,60,fitness,468.12,3.2,0.0,0.0,cartcraze ventures,upi,successful,1,0.6966455639316012
+2023-02-13 06:43:58,10,female,maharashtra,mumbai,46,electronics,479.03,0.0,4.0,1.0,elite ecom ventures,debit card,successful,0,0.695830359465165
+2024-03-18 08:14:32,5,male,tamil nadu,chennai,47,electronics,479.65,4.3,0.0,0.0,digicart distributors,credit card,successful,0,0.6952705383675213
+2023-09-23 01:50:42,3,female,rajasthan,jaipur,51,fitness,452.59,3.5,5.0,4.0,trendmart inc.,credit card,successful,0,0.6945978371214203
+2023-09-05 14:48:26,1,female,maharashtra,thane,50,fashion,446.37,3.2,4.0,2.0,global ecom supplies,upi,successful,0,0.694137762514212
+2023-02-16 01:22:18,3,male,uttar pradesh,ghaziabad,60,fitness,468.12,3.2,0.0,0.0,cartcraze ventures,debit card,successful,1,0.6938067632022551
+2024-02-26 16:30:23,9,male,gujarat,vadodara,21,books,389.91,3.3,5.0,5.0,cartcraze ventures,credit card,successful,1,0.6937468134097238
+2023-07-28 01:16:13,1,female,bihar,patna,19,electronics,390.15,4.9,3.0,1.0,clickmart partners,wallet,successful,0,0.6937163931524117
+2023-05-19 18:56:48,9,female,tamil nadu,chennai,46,books,493.57,3.7,0.0,0.0,nextwave merchants,upi,successful,0,0.6937033670396546
+2024-02-26 16:30:23,9,male,gujarat,vadodara,21,books,389.91,3.3,4.0,5.0,cartcraze ventures,credit card,successful,1,0.6931027134637888
+2023-02-03 01:20:12,5,male,west bengal,kolkata,32,fitness,414.37,3.0,0.0,0.0,trendmart inc.,credit card,successful,0,0.6925780426452547
+2023-01-30 02:12:31,7,male,karnataka,bengaluru,54,electronics,468.44,4.2,1.0,4.0,shopease suppliers,net banking,successful,1,0.6917066285741993
+2023-01-28 07:33:57,7,male,tamil nadu,chennai,24,home appliance,421.71,3.5,2.0,3.0,ecomedge retail,upi,successful,1,0.6911270679582965
+2023-09-14 22:34:03,1,male,gujarat,surat,65,fashion,482.11,4.1,3.0,3.0,nextwave merchants,debit card,successful,0,0.6909710913748698
+2023-05-19 18:56:48,9,female,tamil nadu,chennai,46,books,493.57,3.7,0.0,0.0,nextwave merchants,0,successful,0,0.6907277955208797
+2024-01-13 22:32:57,10,male,bihar,patna,18,books,409.46,4.2,2.0,3.0,digicart distributors,debit card,successful,0,0.6900381253392188
+2023-07-04 00:30:36,3,male,bihar,patna,56,electronics,470.54,3.6,4.0,5.0,primelogix traders,wallet,successful,0,0.6896934908365202
+2023-07-05 06:55:51,3,female,west bengal,kolkata,56,fitness,456.06,4.8,1.0,3.0,nextwave merchants,credit card,successful,0,0.6888768033178478
+2024-08-05 14:46:51,7,female,telangana,hyderabad,23,electronics,425.05,3.8,4.0,1.0,fastlane wholesale,net banking,successful,0,0.6882306210786411
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,4.0,3.0,smartshop network,upi,successful,1,0.6880274077485823
+2023-07-04 00:30:36,3,male,bihar,patna,56,electronics,470.54,3.6,4.0,5.0,primelogix traders,debit card,successful,0,0.6879443546273966
+2024-10-14 16:08:01,1,male,madhya pradesh,indore,43,books,433.91,4.4,0.0,0.0,shopease suppliers,credit card,successful,0,0.6878746813381065
+2024-10-01 08:09:02,1,male,gujarat,surat,66,fitness,476.71,4.2,5.0,1.0,directcart distributors,debit card,successful,0,0.6877966282608513
+2023-04-20 15:03:22,3,male,andhra pradesh,visakhapatnam,35,fitness,415.98,3.6,0.0,0.0,urbancart traders,debit card,successful,0,0.6875302400269832
+2023-04-20 15:03:22,3,male,andhra pradesh,visakhapatnam,35,fitness,415.98,3.6,0.0,0.0,urbancart traders,debit card,successful,0,0.6875302400269832
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,2.0,2.0,elite ecom ventures,credit card,successful,1,0.687411848858143
+2023-02-10 19:58:02,6,male,west bengal,kolkata,24,books,395.66,4.8,3.0,4.0,elite ecom ventures,debit card,successful,0,0.687322520690488
+2023-02-03 01:20:12,5,male,west bengal,kolkata,32,fitness,414.37,3.0,0.0,0.0,trendmart inc.,wallet,successful,0,0.6872602466382743
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,4.0,3.0,smartshop network,wallet,successful,1,0.6869020958008857
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,2.0,3.0,smartshop network,upi,successful,1,0.686725252044726
+2023-02-10 19:58:02,6,male,west bengal,kolkata,24,books,395.66,4.8,2.0,4.0,elite ecom ventures,debit card,successful,0,0.6866710117747511
+2024-11-19 06:56:45,8,female,uttar pradesh,lucknow,55,fitness,488.49,4.0,0.0,0.0,digicart distributors,wallet,successful,0,0.6863184594714266
+2024-11-23 16:40:34,8,female,maharashtra,thane,43,books,457.12,4.4,4.0,2.0,instaretail hub,upi,successful,0,0.686306161068624
+2023-02-10 19:58:02,6,male,west bengal,kolkata,24,books,395.66,4.8,1.0,4.0,elite ecom ventures,debit card,successful,0,0.6860187654820439
+2024-02-03 05:56:28,9,female,gujarat,surat,53,home appliance,487.41,0.0,5.0,1.0,urbanmarket co.,debit card,successful,1,0.6859945344919391
+2023-10-23 04:00:48,6,female,andhra pradesh,visakhapatnam,27,fitness,405.27,3.8,0.0,0.0,clickmart partners,net banking,successful,1,0.685987710852299
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,2.0,3.0,smartshop network,wallet,successful,1,0.6855973894558942
+2023-08-25 17:32:37,7,female,west bengal,kolkata,40,fashion,430.64,4.3,5.0,3.0,trendmart inc.,net banking,successful,1,0.6850833044547356
+2023-08-25 17:32:37,7,female,west bengal,kolkata,40,fashion,430.64,4.3,5.0,3.0,trendmart inc.,net banking,successful,1,0.6850833044547356
+2023-01-30 02:12:31,7,male,karnataka,bengaluru,54,electronics,468.44,4.2,2.0,2.0,shopease suppliers,debit card,successful,1,0.6847517452994669
+2024-06-22 05:34:13,2,female,uttar pradesh,ghaziabad,54,electronics,474.57,4.8,1.0,3.0,primelogix traders,debit card,successful,0,0.6847217476205874
+2023-10-21 21:57:04,1,female,maharashtra,nagpur,34,books,385.39,0.0,1.0,2.0,zoomkart distributors,debit card,successful,1,0.6846893154192631
+2024-03-28 09:31:37,9,female,maharashtra,pune,57,fashion,494.95,4.9,2.0,5.0,quickpick wholesalers,net banking,successful,0,0.6841241408425394
+2024-03-31 19:56:35,8,male,karnataka,bengaluru,28,books,430.27,4.2,0.0,0.0,shopease suppliers,net banking,successful,0,0.6840747336169231
+2024-10-14 16:08:01,1,male,madhya pradesh,indore,43,books,433.91,4.4,0.0,0.0,shopease suppliers,upi,successful,0,0.683646644520831
+2023-04-25 20:50:53,8,female,tamil nadu,chennai,25,electronics,434.73,0.0,0.0,0.0,urbancart traders,credit card,successful,0,0.6833315962951267
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,2.0,2.0,elite ecom ventures,upi,successful,1,0.6831804301258964
+2024-08-14 05:26:05,5,male,bihar,patna,53,home appliance,481.7,4.2,0.0,0.0,ecomedge retail,upi,successful,0,0.6829123582983772
+2024-05-28 18:08:33,5,male,telangana,hyderabad,22,books,390.77,4.3,2.0,5.0,quickbasket co.,net banking,successful,0,0.6828869016685482
+2024-10-14 16:08:01,1,male,madhya pradesh,indore,43,books,433.91,4.4,0.0,0.0,shopease suppliers,wallet,successful,0,0.6825128224489524
+2024-12-18 07:09:12,2,female,madhya pradesh,indore,64,fashion,460.92,4.2,5.0,5.0,directcart distributors,wallet,successful,1,0.6823869023784911
+2023-07-12 15:16:49,1,male,maharashtra,mumbai,18,books,349.92,3.4,0.0,0.0,directcart distributors,upi,successful,1,0.681618789051821
+2023-10-26 03:56:51,2,female,karnataka,bengaluru,28,home appliance,406.43,3.2,0.0,0.0,ezyshop solutions,net banking,successful,0,0.6813793410726591
+2023-06-23 05:01:24,6,female,delhi,delhi,28,books,391.1,3.9,0.0,0.0,directcart distributors,upi,successful,1,0.6813482179453689
+2024-09-09 05:27:49,7,female,maharashtra,thane,50,fitness,453.15,3.7,0.0,0.0,metroshop suppliers,wallet,successful,1,0.6812675025565189
+2023-05-13 00:22:27,3,male,telangana,hyderabad,53,home appliance,456.5,4.7,3.0,4.0,cartcraze ventures,debit card,successful,0,0.6809316195294726
+2023-06-03 00:21:01,1,male,tamil nadu,chennai,49,fitness,452.08,3.9,1.0,1.0,ecomgenix suppliers,debit card,successful,0,0.680692226258967
+2023-06-03 00:21:01,1,male,tamil nadu,chennai,49,fitness,452.08,3.9,1.0,1.0,ecomgenix suppliers,debit card,successful,0,0.680692226258967
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,2.0,2.0,elite ecom ventures,debit card,successful,1,0.6802734534140107
+2023-06-23 05:01:24,6,female,delhi,delhi,28,books,391.1,3.9,0.0,0.0,directcart distributors,wallet,successful,1,0.6802100115586484
+2024-11-28 00:29:41,2,female,uttar pradesh,lucknow,43,electronics,434.73,3.8,0.0,0.0,urbancart traders,debit card,successful,1,0.6801926213366253
+2024-05-08 23:07:55,10,female,uttar pradesh,ghaziabad,41,electronics,475.3,4.0,4.0,5.0,fastlane wholesale,net banking,successful,0,0.680106943921022
+2023-01-08 18:27:02,3,male,gujarat,surat,23,fashion,397.15,0.0,0.0,0.0,digicart distributors,net banking,successful,0,0.6801066823234809
+2024-08-14 05:26:05,5,male,bihar,patna,53,home appliance,481.7,4.2,0.0,0.0,ecomedge retail,debit card,successful,0,0.6800040739933902
+2024-08-14 05:26:05,5,male,bihar,patna,53,home appliance,481.7,4.2,0.0,0.0,ecomedge retail,debit card,successful,0,0.6800040739933902
+2023-05-13 00:22:27,3,male,telangana,hyderabad,53,home appliance,456.5,4.7,1.0,4.0,cartcraze ventures,debit card,successful,0,0.6796136380364709
+2023-07-04 00:30:36,3,male,bihar,patna,56,electronics,470.54,3.6,4.0,5.0,primelogix traders,net banking,successful,0,0.6795499564106612
+2024-04-05 14:16:54,4,male,telangana,hyderabad,42,home appliance,449.41,3.4,0.0,0.0,clickmart partners,wallet,successful,0,0.6795079461027667
+2024-12-05 03:43:24,9,male,gujarat,ahmedabad,34,electronics,443.18,4.8,5.0,4.0,digicart distributors,credit card,successful,0,0.6794874604579861
+2024-05-08 23:07:55,10,female,uttar pradesh,ghaziabad,41,electronics,475.3,4.0,3.0,5.0,fastlane wholesale,net banking,successful,0,0.6794474121683646
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,1.0,1.0,elite ecom ventures,credit card,successful,1,0.6787175101301329
+2023-04-22 10:41:47,7,male,madhya pradesh,bhopal,46,fashion,459.89,4.5,3.0,1.0,nextwave merchants,credit card,successful,0,0.6785499312186488
+2024-12-08 22:58:53,3,male,madhya pradesh,indore,47,fashion,437.94,4.0,5.0,1.0,trendmart inc.,upi,successful,1,0.6783388599652771
+2024-11-23 16:40:34,8,female,maharashtra,thane,43,books,457.12,4.4,4.0,1.0,instaretail hub,upi,successful,0,0.6782570302648774
+2023-08-12 10:41:33,5,female,madhya pradesh,indore,19,fashion,390.08,3.8,5.0,1.0,smartkart wholesale,debit card,successful,1,0.6782461195325178
+2023-08-12 10:41:33,5,female,madhya pradesh,indore,19,fashion,390.08,3.8,5.0,1.0,smartkart wholesale,debit card,successful,1,0.6782461195325178
+2023-09-23 01:50:42,3,female,rajasthan,jaipur,51,fitness,452.59,3.5,4.0,2.0,trendmart inc.,credit card,successful,0,0.6779589389116039
+2024-03-30 03:53:48,6,female,andhra pradesh,visakhapatnam,38,electronics,443.18,4.0,0.0,0.0,digicart distributors,wallet,successful,0,0.6776810450975352
+2024-07-16 02:10:30,3,female,bihar,patna,20,fitness,383.49,3.6,0.0,0.0,buynow direct,upi,successful,0,0.6774255976067025
+2023-12-17 21:05:02,2,male,gujarat,surat,37,home appliance,408.4,3.4,5.0,5.0,cartcraze ventures,credit card,successful,0,0.677299886542251
+2024-01-05 21:14:13,1,female,maharashtra,thane,34,fitness,378.42,4.4,0.0,0.0,urbanmarket co.,credit card,successful,1,0.6764810677862029
+2024-01-05 21:14:13,1,female,maharashtra,thane,34,fitness,378.42,4.4,0.0,0.0,urbanmarket co.,credit card,successful,1,0.6764810677862029
+2023-01-30 02:12:31,7,male,karnataka,bengaluru,54,electronics,468.44,4.2,2.0,2.0,shopease suppliers,net banking,successful,1,0.6763118737298327
+2023-08-04 03:13:43,4,female,tamil nadu,chennai,28,fitness,429.28,4.0,0.0,0.0,smartkart wholesale,net banking,successful,0,0.674926655141107
+2024-01-01 01:59:08,8,male,gujarat,vadodara,34,home appliance,435.46,3.9,3.0,4.0,ecomgenix suppliers,upi,successful,0,0.6747676119177287
+2023-03-06 09:33:38,2,male,bihar,patna,52,fashion,469.1,3.6,2.0,1.0,smartkart wholesale,net banking,successful,0,0.6747298084227669
+2024-09-13 01:02:20,9,female,uttar pradesh,kanpur,54,electronics,490.41,3.6,0.0,0.0,omnisupply network,credit card,successful,1,0.6745272139656875
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,1.0,1.0,elite ecom ventures,upi,successful,1,0.674424140900672
+2024-03-07 12:12:59,9,male,delhi,delhi,61,home appliance,490.36,4.1,0.0,0.0,quickpick wholesalers,credit card,successful,1,0.6740784604943558
+2023-03-06 09:33:38,2,male,bihar,patna,52,fashion,469.1,3.6,1.0,1.0,smartkart wholesale,net banking,successful,0,0.6740645034486953
+2024-12-05 03:43:24,9,male,gujarat,ahmedabad,34,electronics,443.18,4.8,5.0,4.0,digicart distributors,wallet,successful,0,0.6740497939089222
+2023-09-11 23:17:06,6,female,maharashtra,nagpur,32,fitness,412.63,3.2,0.0,0.0,nextgen wholesalers,credit card,successful,0,0.6739113721392984
+2024-12-18 07:09:12,2,female,madhya pradesh,indore,64,fashion,460.92,4.2,4.0,4.0,directcart distributors,wallet,successful,1,0.6736191591014404
+2023-12-18 12:42:05,5,male,madhya pradesh,bhopal,44,books,438.54,4.6,0.0,0.0,nextwave merchants,credit card,successful,0,0.6734606897794535
+2024-09-18 01:26:18,8,male,maharashtra,thane,66,fashion,499.33,0.0,1.0,4.0,omnisupply network,net banking,successful,0,0.672967311496743
+2024-01-06 00:06:40,4,male,rajasthan,jaipur,18,fitness,378.82,3.2,4.0,1.0,trendmart inc.,net banking,successful,0,0.6726975873442761
+2024-01-06 00:06:40,4,male,rajasthan,jaipur,18,fitness,378.82,3.2,4.0,1.0,trendmart inc.,net banking,successful,0,0.6726975873442761
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,2.0,2.0,elite ecom ventures,net banking,successful,1,0.6717711580978579
+2024-08-14 05:26:05,5,male,bihar,patna,53,home appliance,481.7,4.2,0.0,0.0,ecomedge retail,net banking,successful,0,0.6714980744376854
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,1.0,1.0,elite ecom ventures,debit card,successful,1,0.6714754559928184
+2024-09-09 05:27:49,7,female,maharashtra,thane,50,fitness,453.15,3.7,0.0,0.0,metroshop suppliers,net banking,successful,1,0.670979930063714
+2023-06-23 05:01:24,6,female,delhi,delhi,28,books,391.1,3.9,0.0,0.0,directcart distributors,net banking,successful,1,0.6699048450134963
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,1.0,1.0,smartshop network,upi,successful,1,0.6698613006124642
+2023-05-25 10:14:40,3,female,karnataka,bengaluru,39,fashion,423.26,4.4,2.0,4.0,trendify traders,wallet,successful,0,0.6695890681801623
+2023-10-18 17:43:51,9,male,west bengal,kolkata,24,electronics,409.08,3.8,0.0,0.0,fastlane wholesale,credit card,successful,1,0.6694918124664284
+2024-06-04 02:17:23,1,female,bihar,patna,69,electronics,499.52,4.2,0.0,0.0,urbancart traders,wallet,successful,0,0.6692360293876708
+2023-12-17 21:05:02,2,male,gujarat,surat,37,home appliance,408.4,3.4,5.0,4.0,cartcraze ventures,credit card,successful,0,0.6691310725366418
+2024-05-02 07:50:20,6,female,gujarat,ahmedabad,29,electronics,406.2,3.9,1.0,1.0,smartshop network,wallet,successful,1,0.6687020142839212
+2023-12-17 21:05:02,2,male,gujarat,surat,37,home appliance,408.4,3.4,3.0,4.0,cartcraze ventures,credit card,successful,0,0.6677881278168286
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,4.0,5.0,ezyshop solutions,debit card,successful,0,0.6676663832152814
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,3.0,5.0,ezyshop solutions,debit card,successful,0,0.666993761176545
+2023-09-11 23:17:06,6,female,maharashtra,nagpur,32,fitness,412.63,3.2,0.0,0.0,nextgen wholesalers,debit card,successful,0,0.6666141968420822
+2023-08-13 02:10:05,4,female,gujarat,ahmedabad,57,electronics,494.35,4.8,0.0,0.0,metroshop suppliers,net banking,successful,0,0.6663885471311469
+2023-02-26 19:17:50,4,male,bihar,patna,32,fashion,414.01,4.5,5.0,2.0,buynow direct,wallet,successful,0,0.6659467441562579
+2024-01-22 06:59:15,2,female,west bengal,kolkata,19,fashion,361.67,3.3,4.0,3.0,clickmart partners,wallet,successful,1,0.665813364967049
+2024-09-09 23:58:43,6,female,andhra pradesh,visakhapatnam,32,electronics,423.78,4.9,5.0,2.0,ecomgenix suppliers,upi,successful,0,0.6657506627734963
+2023-10-24 19:05:50,5,female,karnataka,bengaluru,58,home appliance,475.24,5.0,5.0,3.0,directcart distributors,net banking,successful,0,0.6654353563009021
+2024-04-06 19:39:32,1,female,uttar pradesh,kanpur,50,fashion,436.6,4.2,4.0,5.0,urbanmarket co.,debit card,successful,0,0.66468536814421
+2023-01-23 03:35:29,4,female,delhi,delhi,35,books,416.55,3.8,0.0,0.0,urbancart traders,upi,successful,0,0.6645298661323897
+2024-07-25 22:01:44,10,female,telangana,hyderabad,47,home appliance,480.78,4.2,0.0,0.0,quickpick wholesalers,credit card,successful,0,0.6639412128113552
+2023-02-10 19:58:02,6,male,west bengal,kolkata,24,books,395.66,4.8,4.0,1.0,elite ecom ventures,debit card,successful,0,0.6635739924165113
+2023-12-23 03:20:44,3,female,uttar pradesh,lucknow,67,electronics,474.36,3.1,1.0,1.0,elite ecom ventures,net banking,successful,1,0.6628551517880417
+2023-02-26 10:14:20,9,male,telangana,hyderabad,67,fitness,499.95,3.2,0.0,0.0,quickpick wholesalers,upi,successful,1,0.6627224859130604
+2023-02-04 19:14:30,10,female,karnataka,bengaluru,37,fitness,445.66,4.6,1.0,4.0,smartshop network,upi,successful,0,0.6622137330063389
+2024-03-28 09:31:37,9,female,maharashtra,pune,57,fashion,494.95,4.9,5.0,2.0,quickpick wholesalers,net banking,successful,0,0.6616107375652451
+2024-09-07 17:56:44,7,male,uttar pradesh,lucknow,19,books,394.56,4.8,0.0,0.0,urbanmarket co.,credit card,successful,0,0.6616051631820782
+2023-04-12 06:19:38,9,male,maharashtra,mumbai,63,fashion,488.59,3.8,4.0,5.0,global ecom supplies,upi,successful,1,0.6612629847649159
+2024-02-25 13:55:36,7,female,west bengal,kolkata,42,electronics,437.44,4.2,5.0,2.0,nextgen wholesalers,debit card,successful,1,0.6594550320475911
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,4.0,5.0,ezyshop solutions,net banking,successful,0,0.6589968887615613
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,3.0,5.0,ezyshop solutions,net banking,successful,0,0.6583156998008299
+2023-04-12 06:19:38,9,male,maharashtra,mumbai,63,fashion,488.59,3.8,4.0,5.0,global ecom supplies,debit card,successful,1,0.6582555017517141
+2024-02-10 18:20:43,2,female,gujarat,vadodara,22,fitness,379.51,0.0,0.0,0.0,nextwave merchants,wallet,successful,0,0.6581288601110766
+2024-08-14 07:35:57,9,male,uttar pradesh,lucknow,31,fitness,411.68,4.1,4.0,5.0,cartcraze ventures,debit card,successful,0,0.6571483182200286
+2023-08-17 01:23:04,6,male,karnataka,bengaluru,70,home appliance,496.96,4.1,4.0,5.0,pack&go logistics,credit card,successful,0,0.656887456184385
+2024-01-06 16:00:17,7,female,tamil nadu,chennai,56,fashion,492.12,4.4,3.0,3.0,quickbasket co.,credit card,successful,0,0.6568795050648006
+2024-09-07 17:56:44,7,male,uttar pradesh,lucknow,19,books,394.56,4.8,0.0,0.0,urbanmarket co.,wallet,successful,0,0.65601769773717
+2023-05-04 11:30:12,7,female,maharashtra,thane,20,electronics,396.36,3.4,0.0,0.0,instaretail hub,credit card,successful,0,0.6551354226653364
+2023-05-04 11:30:12,7,female,maharashtra,thane,20,electronics,396.36,3.4,0.0,0.0,instaretail hub,credit card,successful,0,0.6551354226653364
+2023-07-31 20:03:02,6,male,uttar pradesh,ghaziabad,54,electronics,456.9,4.2,1.0,5.0,cartcraze ventures,credit card,successful,1,0.6535090474109121
+2024-03-28 09:31:37,9,female,maharashtra,pune,57,fashion,494.95,4.9,5.0,1.0,quickpick wholesalers,net banking,successful,0,0.6532480972236203
+2024-04-22 22:03:51,8,male,maharashtra,pune,41,books,441.86,4.9,4.0,2.0,fastlane wholesale,upi,successful,0,0.6530079396940731
+2024-05-10 11:46:39,6,female,madhya pradesh,indore,55,books,481.39,5.0,0.0,0.0,trendify traders,wallet,successful,0,0.6524553570940224
+2024-10-23 07:54:37,7,female,uttar pradesh,kanpur,22,electronics,382.91,4.4,1.0,4.0,ecomgenix suppliers,credit card,successful,1,0.6520954204918448
+2024-10-23 07:54:37,7,female,uttar pradesh,kanpur,22,electronics,382.91,4.4,1.0,4.0,ecomgenix suppliers,credit card,successful,1,0.6520954204918448
+2023-12-13 08:40:17,7,male,gujarat,vadodara,60,home appliance,490.32,4.1,1.0,2.0,elite ecom ventures,upi,successful,0,0.651954643117475
+2023-06-02 10:51:22,7,female,gujarat,ahmedabad,38,home appliance,439.78,3.9,0.0,0.0,quickpick wholesalers,debit card,successful,1,0.6518347889404578
+2023-11-16 08:00:01,10,female,west bengal,kolkata,37,electronics,433.41,4.4,1.0,2.0,shopease suppliers,credit card,successful,1,0.6511357651776463
+2024-03-26 17:46:49,10,male,maharashtra,nagpur,51,electronics,464.61,3.0,3.0,5.0,nextgen wholesalers,credit card,successful,0,0.6511090609501979
+2023-02-26 10:14:20,9,male,telangana,hyderabad,67,fitness,499.95,3.2,0.0,0.0,quickpick wholesalers,net banking,successful,1,0.6509528906279987
+2023-12-13 08:40:17,7,male,gujarat,vadodara,60,home appliance,490.32,4.1,1.0,2.0,elite ecom ventures,wallet,successful,0,0.6507652597747602
+2023-07-09 07:52:42,8,female,andhra pradesh,visakhapatnam,29,home appliance,408.32,3.5,5.0,5.0,trendmart inc.,credit card,successful,0,0.6506564238808578
+2023-04-10 02:33:27,2,male,andhra pradesh,visakhapatnam,33,electronics,402.07,4.4,4.0,5.0,ecomedge retail,net banking,successful,0,0.6506350810147644
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,3.0,3.0,ezyshop solutions,debit card,successful,0,0.6502989206142353
+2023-01-21 08:51:50,6,female,telangana,hyderabad,62,fashion,498.0,3.5,2.0,2.0,ezyshop solutions,debit card,successful,0,0.6501485945370398
+2024-02-25 13:55:36,7,female,west bengal,kolkata,42,electronics,437.44,4.2,3.0,1.0,nextgen wholesalers,debit card,successful,1,0.6496893356384724
+2023-08-17 01:23:04,6,male,karnataka,bengaluru,70,home appliance,496.96,4.1,4.0,5.0,pack&go logistics,debit card,successful,0,0.6494075100605261
+2023-10-29 12:48:36,1,female,rajasthan,jaipur,45,fashion,414.18,3.3,2.0,3.0,digicart distributors,credit card,successful,1,0.648051221505625
+2023-09-26 08:29:31,8,female,karnataka,bengaluru,37,electronics,425.3,3.7,5.0,2.0,nextgen wholesalers,credit card,successful,1,0.6477375587379227
+2024-02-10 18:20:43,2,female,gujarat,vadodara,22,fitness,379.51,0.0,0.0,0.0,nextwave merchants,net banking,successful,0,0.6474808995403113
+2024-01-06 16:00:17,7,female,tamil nadu,chennai,56,fashion,492.12,4.4,1.0,2.0,quickbasket co.,credit card,successful,0,0.6470794774509595
+2024-03-26 17:46:49,10,male,maharashtra,nagpur,51,electronics,464.61,3.0,3.0,5.0,nextgen wholesalers,upi,successful,0,0.6466388342454967
+2023-11-16 08:00:01,10,female,west bengal,kolkata,37,electronics,433.41,4.4,1.0,2.0,shopease suppliers,wallet,successful,1,0.6454680662021864
+2023-11-16 16:31:17,10,female,delhi,delhi,49,electronics,472.44,3.1,1.0,3.0,quickbasket co.,net banking,successful,0,0.6452195905731906
+2023-11-16 16:31:17,10,female,delhi,delhi,49,electronics,472.44,3.1,1.0,3.0,quickbasket co.,net banking,successful,0,0.6452195905731906
+2023-01-15 15:26:25,1,male,maharashtra,pune,70,electronics,475.42,4.4,0.0,0.0,urbanmarket co.,debit card,successful,1,0.6451906027632077
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,3.0,5.0,smartshop network,upi,successful,0,0.6444108603855186
+2024-10-15 03:57:45,7,female,gujarat,ahmedabad,49,electronics,464.14,4.5,0.0,0.0,cartcraze ventures,upi,successful,0,0.643488988705637
+2023-09-26 08:29:31,8,female,karnataka,bengaluru,37,electronics,425.3,3.7,5.0,2.0,nextgen wholesalers,upi,successful,1,0.6432478028655108
+2023-11-06 11:21:46,4,male,gujarat,surat,70,fitness,484.04,3.5,5.0,3.0,pack&go logistics,debit card,successful,0,0.6431732703076138
+2024-03-06 20:57:49,3,male,west bengal,kolkata,33,fitness,365.04,3.7,5.0,5.0,directcart distributors,credit card,successful,1,0.6430911670936812
+2023-12-17 21:05:02,2,male,gujarat,surat,37,home appliance,408.4,3.4,2.0,1.0,cartcraze ventures,credit card,successful,0,0.6419342141433044
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,3.0,3.0,ezyshop solutions,net banking,successful,0,0.6414196888007712
+2024-01-06 16:00:17,7,female,tamil nadu,chennai,56,fashion,492.12,4.4,5.0,1.0,quickbasket co.,credit card,successful,0,0.6413463539582245
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,3.0,5.0,smartshop network,debit card,successful,0,0.6413349094938878
+2023-01-21 08:51:50,6,female,telangana,hyderabad,62,fashion,498.0,3.5,2.0,2.0,ezyshop solutions,net banking,successful,0,0.6412676513790742
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,2.0,2.0,ezyshop solutions,debit card,successful,0,0.6411112511608734
+2024-09-20 10:10:00,10,male,madhya pradesh,indore,24,books,405.66,3.7,2.0,4.0,ecomgenix suppliers,debit card,successful,0,0.6410829082345071
+2023-10-03 18:34:52,8,male,gujarat,vadodara,57,fitness,486.35,3.8,0.0,0.0,fastlane wholesale,upi,successful,0,0.6410153083593056
+2024-04-24 04:23:35,2,female,maharashtra,thane,46,electronics,429.2,3.6,0.0,0.0,urbanmarket co.,net banking,successful,0,0.6409486430750131
+2023-11-03 14:13:24,1,male,maharashtra,mumbai,38,home appliance,383.5,3.9,1.0,3.0,urbanmarket co.,debit card,successful,1,0.6407190721585463
+2023-11-03 14:13:24,1,male,maharashtra,mumbai,38,home appliance,383.5,3.9,1.0,3.0,urbanmarket co.,debit card,successful,1,0.6407190721585463
+2023-11-03 14:13:24,1,male,maharashtra,mumbai,38,home appliance,383.5,3.9,1.0,3.0,urbanmarket co.,debit card,successful,1,0.6407190721585463
+2024-06-23 07:05:11,6,female,uttar pradesh,kanpur,64,fitness,469.33,3.6,2.0,4.0,zoomkart distributors,credit card,successful,1,0.6405355416330732
+2024-06-23 07:05:11,6,female,uttar pradesh,kanpur,64,fitness,469.33,3.6,2.0,4.0,zoomkart distributors,credit card,successful,1,0.6405355416330732
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,1.0,2.0,ezyshop solutions,debit card,successful,0,0.640413829242137
+2023-05-10 17:19:18,10,female,maharashtra,thane,36,books,434.75,4.4,0.0,0.0,nextwave merchants,credit card,successful,0,0.6402028939660043
+2023-09-26 08:29:31,8,female,karnataka,bengaluru,37,electronics,425.3,3.7,5.0,2.0,nextgen wholesalers,debit card,successful,1,0.6401674090283808
+2023-10-29 12:48:36,1,female,rajasthan,jaipur,45,fashion,414.18,3.3,2.0,2.0,digicart distributors,credit card,successful,1,0.6395360541630879
+2024-11-03 01:45:42,10,female,madhya pradesh,bhopal,22,fitness,396.1,3.2,5.0,5.0,ecomedge retail,net banking,successful,0,0.638674891973753
+2023-07-27 09:15:33,6,male,tamil nadu,chennai,32,electronics,413.64,4.7,4.0,2.0,globalreach traders,upi,successful,1,0.6372499641301589
+2023-05-30 16:41:38,8,female,delhi,delhi,24,fitness,385.6,3.9,5.0,5.0,fastlane wholesale,credit card,successful,0,0.637046759670878
+2023-01-31 04:14:15,7,female,telangana,hyderabad,59,fashion,475.72,3.6,5.0,5.0,buynow direct,credit card,successful,0,0.6366573225878489
+2023-10-17 14:14:07,1,female,tamil nadu,chennai,18,home appliance,367.25,4.3,1.0,5.0,ezyshop solutions,credit card,successful,0,0.6357992651336345
+2024-11-22 00:39:17,2,female,andhra pradesh,visakhapatnam,47,fashion,431.14,3.6,5.0,3.0,ezyshop solutions,credit card,successful,0,0.635790130157388
+2024-08-19 09:45:34,9,male,uttar pradesh,ghaziabad,36,electronics,453.6,4.9,2.0,1.0,global ecom supplies,credit card,successful,0,0.6357623628965577
+2023-05-10 17:19:18,10,female,maharashtra,thane,36,books,434.75,4.4,0.0,0.0,nextwave merchants,wallet,successful,0,0.6344572908299159
+2023-08-08 23:30:37,2,male,telangana,hyderabad,61,home appliance,471.58,3.6,1.0,2.0,omnisupply network,net banking,successful,0,0.6338754253634383
+2023-02-25 03:06:24,1,male,andhra pradesh,visakhapatnam,46,fashion,418.75,3.5,1.0,5.0,clickmart partners,debit card,successful,0,0.6338391796633664
+2024-06-07 00:05:22,5,male,delhi,delhi,61,books,460.95,4.9,2.0,4.0,cartcraze ventures,credit card,successful,0,0.6333528581547728
+2024-01-22 17:59:31,2,male,maharashtra,thane,36,books,403.34,4.9,0.0,0.0,smartkart wholesale,wallet,successful,0,0.6330685143693241
+2024-03-08 00:20:10,5,male,bihar,patna,63,electronics,486.78,3.9,0.0,0.0,elite ecom ventures,upi,successful,0,0.632847166180454
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,2.0,2.0,ezyshop solutions,net banking,successful,0,0.6321307026564098
+2024-03-08 00:20:10,5,male,bihar,patna,63,electronics,486.78,3.9,0.0,0.0,elite ecom ventures,wallet,successful,0,0.6316293805234309
+2023-04-10 02:33:27,2,male,andhra pradesh,visakhapatnam,33,electronics,402.07,4.4,1.0,3.0,ecomedge retail,net banking,successful,0,0.6314579227866455
+2024-10-17 15:26:30,7,male,uttar pradesh,ghaziabad,19,electronics,404.54,4.9,1.0,2.0,ezyshop solutions,net banking,successful,0,0.6314258619854826
+2023-09-12 01:59:07,6,male,telangana,hyderabad,19,fashion,381.03,5.0,0.0,0.0,directcart distributors,wallet,successful,0,0.6299840469149102
+2024-04-06 19:39:32,1,female,uttar pradesh,kanpur,50,fashion,436.6,4.2,2.0,1.0,urbanmarket co.,debit card,successful,0,0.6294021153774524
+2024-11-17 06:14:05,7,male,bihar,patna,40,electronics,436.83,4.6,3.0,4.0,ezyshop solutions,credit card,successful,0,0.6287978045140441
+2024-05-13 14:54:19,6,male,maharashtra,thane,61,fitness,437.84,3.5,1.0,4.0,digicart distributors,credit card,successful,1,0.6285982857868896
+2024-08-19 09:45:34,9,male,uttar pradesh,ghaziabad,36,electronics,453.6,4.9,2.0,1.0,global ecom supplies,debit card,successful,0,0.6280826290423934
+2024-03-05 18:54:48,5,female,maharashtra,thane,21,home appliance,369.93,3.5,1.0,2.0,nextwave merchants,upi,successful,0,0.6275764246579453
+2024-11-17 06:14:05,7,male,bihar,patna,40,electronics,436.83,4.6,1.0,4.0,ezyshop solutions,credit card,successful,0,0.627382316265806
+2023-05-30 16:41:38,8,female,delhi,delhi,24,fitness,385.6,3.9,3.0,4.0,fastlane wholesale,credit card,successful,0,0.627001930172552
+2024-02-02 11:12:00,5,female,maharashtra,thane,67,electronics,460.38,0.0,1.0,4.0,directcart distributors,net banking,successful,1,0.626975496193179
+2024-08-25 13:30:22,7,male,maharashtra,pune,28,books,391.59,3.0,1.0,5.0,ecomgenix suppliers,upi,successful,0,0.6265740106698903
+2024-06-07 00:05:22,5,male,delhi,delhi,61,books,460.95,4.9,4.0,3.0,cartcraze ventures,credit card,successful,0,0.6261076491825179
+2023-01-26 22:59:10,4,female,maharashtra,nagpur,54,home appliance,446.15,3.7,1.0,2.0,nextwave merchants,wallet,successful,0,0.6260135024345502
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,1.0,3.0,smartshop network,upi,successful,0,0.6257986933697316
+2023-09-01 06:31:41,8,male,delhi,delhi,48,electronics,451.14,4.5,4.0,5.0,ecomgenix suppliers,net banking,successful,0,0.625662615466042
+2024-06-07 00:05:22,5,male,delhi,delhi,61,books,460.95,4.9,2.0,4.0,cartcraze ventures,debit card,successful,0,0.6256522349876449
+2024-11-22 00:39:17,2,female,andhra pradesh,visakhapatnam,47,fashion,431.14,3.6,1.0,2.0,ezyshop solutions,credit card,successful,0,0.6243107594570194
+2023-01-27 10:12:06,3,male,madhya pradesh,indore,61,fashion,449.74,4.6,4.0,5.0,smartshop network,credit card,successful,1,0.623907314211182
+2024-08-25 13:30:22,7,male,maharashtra,pune,28,books,391.59,3.0,1.0,5.0,ecomgenix suppliers,debit card,successful,0,0.6234339285714051
+2024-08-07 22:11:19,7,female,rajasthan,jaipur,62,fashion,493.45,3.8,5.0,3.0,smartshop network,debit card,successful,0,0.6228019641993848
+2024-05-13 14:54:19,6,male,maharashtra,thane,61,fitness,437.84,3.5,5.0,3.0,digicart distributors,credit card,successful,1,0.6227399750771873
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,1.0,3.0,smartshop network,debit card,successful,0,0.622656018023985
+2023-07-09 07:52:42,8,female,andhra pradesh,visakhapatnam,29,home appliance,408.32,3.5,1.0,2.0,trendmart inc.,credit card,successful,0,0.6220850057680788
+2024-05-13 14:54:19,6,male,maharashtra,thane,61,fitness,437.84,3.5,3.0,3.0,digicart distributors,credit card,successful,1,0.621315298464756
+2024-05-13 14:54:19,6,male,maharashtra,thane,61,fitness,437.84,3.5,3.0,3.0,digicart distributors,credit card,successful,1,0.621315298464756
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,1.0,3.0,smartkart wholesale,wallet,successful,0,0.6210456780388302
+2023-05-31 01:31:41,3,male,madhya pradesh,indore,67,books,478.54,4.5,0.0,0.0,nextwave merchants,upi,successful,1,0.6207067410020259
+2024-12-23 13:46:39,6,male,maharashtra,pune,70,fitness,484.16,3.9,0.0,0.0,quickbasket co.,upi,successful,0,0.6203674792885556
+2024-04-05 23:41:26,7,male,rajasthan,jaipur,35,fashion,417.53,3.6,4.0,5.0,buynow direct,debit card,successful,0,0.6202521235737196
+2024-12-30 11:26:14,3,female,rajasthan,jaipur,55,fitness,435.41,4.2,4.0,4.0,trendify traders,wallet,successful,1,0.6200592050994568
+2023-09-04 20:53:15,2,female,west bengal,kolkata,57,electronics,452.85,3.2,3.0,4.0,metroshop suppliers,wallet,successful,0,0.6199504571483698
+2023-10-17 14:14:07,1,female,tamil nadu,chennai,18,home appliance,367.25,4.3,3.0,3.0,ezyshop solutions,credit card,successful,0,0.6198640638271034
+2023-12-12 09:21:37,6,female,maharashtra,pune,54,home appliance,457.61,4.2,3.0,5.0,global ecom supplies,wallet,successful,0,0.6195397269322704
+2024-07-04 11:12:30,8,female,maharashtra,mumbai,35,electronics,408.37,4.2,4.0,4.0,pack&go logistics,debit card,successful,1,0.6195344463931478
+2023-10-04 09:22:53,10,male,karnataka,bengaluru,29,home appliance,418.41,3.6,4.0,3.0,fastlane wholesale,debit card,successful,0,0.619434503965598
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,4.0,2.0,smartshop network,upi,successful,0,0.6192087831158928
+2024-12-23 13:46:39,6,male,maharashtra,pune,70,fitness,484.16,3.9,0.0,0.0,quickbasket co.,wallet,successful,0,0.6191332121767482
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,1.0,3.0,smartkart wholesale,debit card,successful,0,0.6191232794804467
+2024-08-19 09:45:34,9,male,uttar pradesh,ghaziabad,36,electronics,453.6,4.9,2.0,1.0,global ecom supplies,net banking,successful,0,0.6189698240880613
+2024-11-17 06:14:05,7,male,bihar,patna,40,electronics,436.83,4.6,1.0,3.0,ezyshop solutions,credit card,successful,0,0.6186613394623356
+2024-06-07 00:05:22,5,male,delhi,delhi,61,books,460.95,4.9,4.0,3.0,cartcraze ventures,debit card,successful,0,0.6183465525372339
+2023-09-19 13:43:44,1,male,maharashtra,mumbai,29,home appliance,376.36,4.4,5.0,3.0,buynow direct,net banking,successful,0,0.617142939334225
+2023-09-01 06:31:41,8,male,delhi,delhi,48,electronics,451.14,4.5,4.0,4.0,ecomgenix suppliers,net banking,successful,0,0.6169259653614142
+2023-12-24 21:13:06,1,female,gujarat,surat,55,fitness,435.41,4.3,1.0,5.0,trendify traders,wallet,successful,0,0.6162504520086974
+2023-01-27 10:12:06,3,male,madhya pradesh,indore,61,fashion,449.74,4.6,4.0,5.0,smartshop network,debit card,successful,1,0.6161285468013286
+2024-02-01 23:58:54,9,male,madhya pradesh,bhopal,55,electronics,470.54,4.2,4.0,1.0,primelogix traders,credit card,successful,1,0.6160495636020519
+2023-11-29 04:18:20,8,female,karnataka,bengaluru,49,fitness,456.94,0.0,4.0,2.0,smartshop network,debit card,successful,0,0.6160447196147855
+2023-01-15 04:02:09,2,male,gujarat,vadodara,44,home appliance,429.38,0.0,3.0,1.0,smartkart wholesale,wallet,successful,0,0.6137391471289156
+2023-04-18 23:15:59,6,female,madhya pradesh,indore,51,books,460.66,4.9,1.0,2.0,global ecom supplies,wallet,successful,0,0.6137183150313308
+2023-04-18 23:15:59,6,female,madhya pradesh,indore,51,books,460.66,4.9,1.0,2.0,global ecom supplies,wallet,successful,0,0.6137183150313308
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,3.0,2.0,smartkart wholesale,wallet,successful,0,0.6137056020671015
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,2.0,2.0,smartkart wholesale,wallet,successful,0,0.6129870722865397
+2023-12-17 07:18:14,10,male,tamil nadu,chennai,21,fitness,405.54,3.7,0.0,0.0,quickbasket co.,debit card,successful,0,0.6129515858888426
+2023-12-22 17:38:44,1,female,uttar pradesh,lucknow,30,fitness,379.33,3.8,0.0,0.0,cartcraze ventures,net banking,successful,0,0.6121487681322297
+2024-12-21 08:15:59,7,male,karnataka,bengaluru,46,books,446.39,0.0,0.0,0.0,digicart distributors,net banking,successful,0,0.6118470235973156
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,3.0,2.0,smartkart wholesale,debit card,successful,0,0.6117692448273809
+2024-02-06 05:23:19,8,female,gujarat,surat,50,fitness,456.13,3.2,0.0,0.0,global ecom supplies,debit card,successful,1,0.6114954820713757
+2024-04-05 23:41:26,7,male,rajasthan,jaipur,35,fashion,417.53,3.6,4.0,4.0,buynow direct,debit card,successful,0,0.6114676142940698
+2024-07-16 01:01:18,5,female,maharashtra,thane,43,fitness,405.54,4.4,3.0,1.0,quickbasket co.,credit card,successful,1,0.6112611337069268
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,2.0,2.0,smartkart wholesale,debit card,successful,0,0.6110493959972481
+2023-03-02 22:03:06,7,male,madhya pradesh,indore,19,home appliance,388.31,3.6,0.0,0.0,instaretail hub,credit card,successful,0,0.6108129373833081
+2023-12-24 21:13:06,1,female,gujarat,surat,55,fitness,435.41,4.3,5.0,4.0,trendify traders,wallet,successful,0,0.6103181139764596
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,1.0,3.0,smartkart wholesale,net banking,successful,0,0.6099272865877328
+2024-07-05 23:37:49,9,male,gujarat,vadodara,37,books,420.43,3.7,0.0,0.0,shopease suppliers,upi,successful,1,0.6093486057699238
+2023-06-03 12:34:20,8,male,uttar pradesh,ghaziabad,37,home appliance,430.72,4.2,3.0,3.0,global ecom supplies,credit card,successful,0,0.6092685669854186
+2024-02-06 16:39:10,4,male,telangana,hyderabad,61,books,471.87,4.0,0.0,0.0,fastlane wholesale,credit card,successful,0,0.6092356273478483
+2024-04-27 06:25:22,6,male,telangana,hyderabad,30,electronics,395.92,4.1,3.0,5.0,cartcraze ventures,debit card,successful,0,0.6087834241576024
+2024-04-27 06:25:22,6,male,telangana,hyderabad,30,electronics,395.92,4.1,3.0,5.0,cartcraze ventures,debit card,successful,0,0.6087834241576024
+2024-03-29 07:16:52,2,female,west bengal,kolkata,48,home appliance,418.48,5.0,1.0,3.0,elite ecom ventures,credit card,successful,0,0.6078593072891282
+2023-05-08 14:12:42,7,male,rajasthan,jaipur,43,electronics,438.8,4.4,1.0,5.0,smartshop network,upi,successful,0,0.6072445307632905
+2023-09-01 06:31:41,8,male,delhi,delhi,48,electronics,451.14,4.5,2.0,3.0,ecomgenix suppliers,net banking,successful,0,0.6066681024547488
+2024-07-05 23:37:49,9,male,gujarat,vadodara,37,books,420.43,3.7,0.0,0.0,shopease suppliers,debit card,successful,1,0.6061547235157694
+2024-07-05 23:37:49,9,male,gujarat,vadodara,37,books,420.43,3.7,0.0,0.0,shopease suppliers,debit card,successful,1,0.6061547235157694
+2023-02-22 23:41:54,2,male,maharashtra,nagpur,70,fashion,463.3,4.6,5.0,4.0,urbanmarket co.,wallet,successful,0,0.6047060168591222
+2023-06-28 18:27:43,6,female,delhi,delhi,48,electronics,443.39,0.0,0.0,0.0,urbanmarket co.,upi,successful,0,0.6040168378735912
+2023-06-28 18:27:43,6,female,delhi,delhi,48,electronics,443.39,0.0,0.0,0.0,urbanmarket co.,upi,successful,0,0.6040168378735912
+2024-02-06 16:39:10,4,male,telangana,hyderabad,61,books,471.87,4.0,0.0,0.0,fastlane wholesale,wallet,successful,0,0.6033019320178485
+2023-07-29 23:46:11,9,male,karnataka,bengaluru,65,fashion,493.84,4.4,0.0,0.0,trendmart inc.,net banking,successful,1,0.6027699547729459
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,3.0,2.0,smartkart wholesale,net banking,successful,0,0.6025096900009592
+2023-10-04 09:22:53,10,male,karnataka,bengaluru,29,home appliance,418.41,3.6,5.0,1.0,fastlane wholesale,debit card,successful,0,0.602504719027954
+2024-11-17 06:14:05,7,male,bihar,patna,40,electronics,436.83,4.6,3.0,1.0,ezyshop solutions,credit card,successful,0,0.6024451566660938
+2024-12-09 17:53:23,10,male,west bengal,kolkata,53,electronics,468.3,4.6,0.0,0.0,directcart distributors,upi,successful,0,0.6022517445434196
+2024-11-01 04:38:08,9,female,maharashtra,mumbai,52,books,461.88,3.5,3.0,2.0,shopease suppliers,wallet,successful,0,0.602119994994119
+2024-01-10 19:25:08,6,female,andhra pradesh,visakhapatnam,45,home appliance,450.94,4.2,2.0,2.0,smartkart wholesale,net banking,successful,0,0.601783847958013
+2024-09-20 07:36:46,8,female,maharashtra,nagpur,22,electronics,382.37,3.2,5.0,5.0,metroshop suppliers,wallet,successful,0,0.6012994404780297
+2024-03-30 13:44:07,10,male,uttar pradesh,kanpur,53,fashion,472.46,4.1,0.0,0.0,elite ecom ventures,upi,successful,0,0.6008351552409026
+2023-09-26 14:10:09,3,male,madhya pradesh,bhopal,43,books,415.31,4.7,0.0,0.0,primelogix traders,debit card,successful,0,0.6003032587017713
