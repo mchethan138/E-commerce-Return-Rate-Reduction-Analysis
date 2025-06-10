@@ -47,9 +47,13 @@ This project aims to identify and reduce product return rates in an e-commerce e
 ### 📈 Step 4: Power BI Dashboard [`Ecommerce Analysis.pbix`]
 - Visualized key metrics:
   - Return rates over category, Suppliers and State
-  - 
+  - Total vs Returned Orders by Category and States
+  - Matrix of Retuen yate Percentage and Return Propability
 - Enabled dynamic filtering and drill-downs for data storytelling.
-![image](https://github.com/user-attachments/assets/49d9c9d5-b5c8-49ef-bcad-63ccb6cd7073)
+![image](https://github.com/user-attachments/assets/83a17222-6e22-45ce-879e-e7b82b22af81)
+![image](https://github.com/user-attachments/assets/77283939-82b6-4168-b034-bebe889282dc)
+
+
 
 ---
 
